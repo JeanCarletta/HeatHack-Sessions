@@ -155,3 +155,5 @@ cython_debug/
 ## book build - when the repo is public, we can use ghp-import for this, and it looks like the
 ## usual practice meanwhile is a manual build to a docs folder.
 _build/ 
+# space for notes about what's still to write, no need to share
+notes.txt 
