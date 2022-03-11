@@ -24,7 +24,7 @@ The average temperature of the surrounding surfaces is called the *mean radiant 
 ```{admonition} Fun Fact!
   :class: hint
 Mean radiant temperature is measured by putting a temperature sensor inside a matte black globe because that absorbs radiation instead of reflecting it.  Sometimes people make them from copper toilet floats or ping pong balls. That's practical engineering -  cost-effective and based on science!  
- ```{figure} ./images/black-globe-cropped.jpg
+ ```{figure} ../images/black-globe-cropped.jpg
   :height: 100px
   :align: right
   ```
@@ -33,4 +33,4 @@ Mean radiant temperature is measured by putting a temperature sensor inside a ma
 :TODO: get this layout to work, apparently with https://getbootstrap.com/docs/4.0/layout/grid/; check PDF build; figure out how we get attribution to pop up when it's a figure and remove figure number OR figure out how to use an image in a panel instead.  
 
 
-<!-- ![a modern heat stress sensor](./images/Bio-environmental_prepares_for_summer_110411-F-BQ904-001.jpg) -->
+<!-- ![a modern heat stress sensor](../images/Bio-environmental_prepares_for_summer_110411-F-BQ904-001.jpg) -->

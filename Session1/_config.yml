@@ -5,7 +5,7 @@
 
 title: Introducing HeatHack
 author: Jean Carletta
-logo: ./images/heat_hack_logo1.png
+logo: ../images/heat_hack_logo1.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
