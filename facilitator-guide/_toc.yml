@@ -4,6 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: your-role
+- file: session1
+- file: session2
+- file: session3
+- file: session4

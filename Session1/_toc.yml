@@ -53,7 +53,12 @@ chapters:
     - file: other-factors
     - file: pulling-it-together
 - file: heating-strategies
-- file: conduction-and-convection
+  sections:
+    - file: conduction-and-convection
+    - file: space-heating
+    - file: localised-heating
+    - file: radiant-heating
+    - file: combination-heating
 - file: old-equipment
 - file: radiators
 - file: fan-convectors

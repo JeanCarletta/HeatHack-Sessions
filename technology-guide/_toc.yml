@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: placing-the-sensor
+- file: start-the-sensor
+- file: wifi-connection
+- file: downloading-data
+
