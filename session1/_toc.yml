@@ -1,0 +1,69 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+# (DISCUSSION: what worries us about net zero?  gives us hope?)
+# "if their hands are too cold to reach into their pockets, they won't put anything in the collection plate"
+# "energy bills are going to skyrocket"
+
+# i think we have to start with "Why are churches uncomfortable" - where the heating system
+# is (partly) original, designed for lower temperature than modern requirements. 
+# cold, draughty, sometimes damp.  (DISCUSSION:  how does this building make 
+# you feel)
+# What is thermal comfort:  temperature of surrounding surfaces as important as air temperature, RH
+# air speed, clothing and activity level important.
+
+# (DISCUSSION:  how have churches and what happens in them changed since you were a child? 
+# or can you remember your first impressions of your buildings?  what do you think of them now?  
+# you may know their history - how have they changed over the years?)
+
+# different strategies for heating church - localised heating, heat whole building, radiant, underfloor.
+
+
+# most churches have wet systems
+# heat sources - gas boilers, oil, biomass - all usually for wet systems.  Heat water in pipes.
+# heat outputs - radiators or pipes in trenches
+
+# radiant panels - don't warm the air, just warm the people.  
+
+# tubular heaters - provide localised heating at the people
+
+# underfloor - provide localised heating and some 
+
+# It's too much to expect them to read through all the types of radiators and so on - we really just want
+# a photo gallery for them to understand what they have and they can guess the heat output.  And I think
+# maybe this is really part of the exercise where they're assessing how much heat output they have.
+
+# The first session conveys the science behind the engineering by using the principles of heat transfer to explain core
+# concepts including convection currents, heat stratification, stack ventilation, and heat loss. It also addresses relative
+# humidity and thermal comfort and uses a structured discussion format to explore the groups’ motivations. Participants
+# may variously want to reduce carbon emissions, reduce energy bills, or increase thermal comfort so that the building will
+# be used more often. The group will identify their heating system components and building ventilation features. This will
+# result in a labelled photo collage or video describing their systems. Finally, the groups will place temperature and relative
+# humidity monitoring devices and begin a meter reading log. The log, monitoring traces, and building description together
+# form a profile that can be passed to professionals.
+
+# :TODO:  will people expect net zero to get a look in?
+
+format: jb-book
+root: intro
+chapters:
+- file: thermal-comfort
+  sections:
+    - file: surrounding-surfaces
+    - file: other-factors
+    - file: pulling-it-together
+- file: heating-strategies
+  sections:
+    - file: conduction-and-convection
+    - file: space-heating
+    - file: localised-heating
+    - file: radiant-heating
+    - file: combination-heating
+- file: old-equipment
+- file: radiators
+- file: fan-convectors
+- file: heat-sources
+- file: further-reading
+
+# change to have a section on wet systems versus radiant versus electric and then the heating strategies - local versus whole-building
+
