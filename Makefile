@@ -38,10 +38,9 @@ help:
   
 .PHONY: front-matter session1 session2 session3 session4 facilitator-guide technology-guide
 
-## move doesn't work
 front-matter session1 session2 session3 session4 facilitator-guide technology-guide: 
 	$(JUPYTER_BOOK) build $@
-#	$(mv) $@/_build ./$(OUT_DIR)/$@ *.*
+	$(MV) $@/_build ./$(OUT_DIR)/$@
 
 sessions: front-matter session1 session2 session3 session4
 
@@ -50,12 +49,12 @@ guides: facilitator-guide technology-guide
 html: sessions guides
 
 # Clean up the build
-## doesn't work
-##clean:
-##	$(RM) */_build
 
-##reallyclean: clean
-##	$(RM) $(OUT-DIR)
+clean:
+	$(RM) */_build
+
+reallyclean: clean
+	$(RM) $(OUT_DIR)/*
 
 
 # ----- Usage -----

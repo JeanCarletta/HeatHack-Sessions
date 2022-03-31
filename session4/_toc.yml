@@ -16,5 +16,5 @@ format: jb-book
 root: intro
 chapters:
 - file: decarbonisation
-- file: secondary-giazing
+- file: secondary-glazing
 - file: local-generation

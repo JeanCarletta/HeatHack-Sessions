@@ -7,5 +7,5 @@ chapters:
 - file: placing-the-sensor
 - file: start-the-sensor
 - file: wifi-connection
-- file: downloading-data
+- file: retrieving-data
 
