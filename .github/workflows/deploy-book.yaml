@@ -12,10 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      with:
-        #name of the branch to build.  Only put things on this branch if they're 
-        #ready for someone to look at it.
-        ref: production 
+      # forget about trying to use a production branch, use the main
+      # with:
+         #name of the branch to build.  Only put things on this branch if they're 
+         #ready for someone to look at it.
+      #  ref: production 
 
     # Install dependencies
     - name: Set up Python 3.8
