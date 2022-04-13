@@ -8,4 +8,13 @@ chapters:
 - file: start-the-sensor
 - file: wifi-connection
 - file: retrieving-data
-
+  sections: 
+    - file: no-wifi-sequence/step1
+    - file: no-wifi-sequence/step2
+    - file: no-wifi-sequence/step3
+    - file: no-wifi-sequence/step4
+    - file: no-wifi-sequence/step5
+    - file: no-wifi-sequence/step6
+    - file: no-wifi-sequence/step7
+    - file: no-wifi-sequence/step8
+  
