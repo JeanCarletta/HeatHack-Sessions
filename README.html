@@ -251,6 +251,20 @@ const thebe_selector_output = ".output, .cell_output"
   <div class="tex2jax_ignore mathjax_ignore section" id="heathack-sessions">
 <h1>HeatHack-Sessions<a class="headerlink" href="#heathack-sessions" title="Permalink to this headline">¶</a></h1>
 <p>Materials for running the group sessions of HeatHack’s structured programme for groups to think about what net zero means for their traditionally-built community buildings</p>
+<p>Written in Jupyter Book.</p>
+<p>Intended workflow (Simplified GitFlow with developers working on one branch):</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>      dev         - author materials here; there isn&#39;t much chance we&#39;ll conflict but push often
+       |
+       |
+       |
+      main        -  when materials are ready to build into website, merge into main
+       |
+       |
+       |
+    gh-pages      - complete derivative branch produced automatically, do not edit; contains website
+</pre></div>
+</div>
+<p>If we end up with conflicts (unlikely) then we can use feature branches, merging them into dev and then into main.</p>
 </div>
 
     <script type="text/x-thebe-config">
