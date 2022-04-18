@@ -30,6 +30,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
+        jupyter-book clean .
         jupyter-book build .
     
     # Build Pdf via html
@@ -39,7 +40,7 @@ jobs:
     #    mv ./_build/pdf/book.pdf ./_build/html/book-via-html.pdf
     
     # Build Pdf via latex
-    #- name: Build the pdf via HTML
+    #- name: Build the pdf via latex
     #  run: |
     #    sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra texlive-xetex latexmk
     #    jupyter-book build ./ --builder pdflatex
