@@ -5,16 +5,25 @@ format: jb-book
 root: intro
 chapters:
 - file: placing-the-sensor
-- file: start-the-sensor
-- file: wifi-connection
-- file: retrieving-data
+- file: batteries
+- file: wifi-version
+  sections:
+    - file: wifi-sequence/android
+      sections: 
+        - file: wifi-sequence/android/connect-base-station
+        - file: wifi-sequence/android/sensor-unit
+    - file: wifi-sequence/apple
+- file: no-wifi-version
   sections: 
-    - file: no-wifi-sequence/step1
-    - file: no-wifi-sequence/step2
-    - file: no-wifi-sequence/step3
-    - file: no-wifi-sequence/step4
-    - file: no-wifi-sequence/step5
-    - file: no-wifi-sequence/step6
-    - file: no-wifi-sequence/step7
-    - file: no-wifi-sequence/step8
-  
+    - file: no-wifi-sequence/android
+      sections:
+        - file: no-wifi-sequence/android/step1
+        - file: no-wifi-sequence/android/step2
+        - file: no-wifi-sequence/android/step3
+        - file: no-wifi-sequence/android/step4
+        - file: no-wifi-sequence/android/step5
+        - file: no-wifi-sequence/android/step6
+        - file: no-wifi-sequence/android/step7
+        - file: no-wifi-sequence/android/step8
+        - file: no-wifi-sequence/android/step9
+    - file: no-wifi-sequence/apple
