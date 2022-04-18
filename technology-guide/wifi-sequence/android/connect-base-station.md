@@ -1,0 +1,3 @@
+# Connecting your base station to the internet
+
+:TODO: does this throw up a different network name than the sensor boxes?  Otherwise if they're very fast they could get confused...
