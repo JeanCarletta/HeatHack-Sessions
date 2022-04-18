@@ -12,5 +12,20 @@
 format: jb-book
 root: intro
 chapters:
-- file: TRV
-
+- file: end-user-controls
+  sections:
+    - file: general-principles
+    - file: thermostatic-controls # wall thermostats and TRVs
+    - file: overrides
+    - file: limiters # don't let them go to 26C!
+    - file: locks # don't let them re-program it! Lockable perspex box with a hole for the right button.
+    - file: fused-blanks-and-countdown-timers
+ 
+- file: system-controls
+  sections:
+    - file: system-versus-end-user
+    - file: learning-systems
+    - file: load-compensation
+    - file: weather-compensation
+    - file: internet-accessible
+    - file: building-regulations

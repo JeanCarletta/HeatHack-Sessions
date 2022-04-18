@@ -1,4 +1,9 @@
-# HeatHack Session 3
+# HeatHack Session 3 - Heating System Controls
+
+It can take a long time to organise the finance to make major building changes - but we all want to reduce the energy we're using right now if we can do it without affecting the services we provide, both to save our pocketbooks and to save the planet.  Heating controls are a much overlooked part of the solution.  Community building operators are often tempted to skimp on them, or even omit them altogether, to save mooney - especially if they are faced with having to replace a system suddenly.  This week we'll take a diversion from thinking about the future in order to look at how heating controls work, whether you are using what you have correctly, and whether a small investment in the current system would make enough of an impact to make a difference. 
+
+If your heating system is very simple - storage heaters, for instance - lots of the materials here might not be very relevant to it.  They could be useful for understanding the options for controls on future systems, so we would encourage you to read the basic concepts.  If you ever change your system in future, you can always come back to the methods for checking your system's operations as part of the "snagging" process.
+
 
 :TEMP:
 The third session introduces reasoning skills to understand automatic and end user heating controls. Even thermostatic
