@@ -6,5 +6,5 @@ If your venue does not have wifi, you have one box, a sensor unit.  You will nee
 
 If your venue has wifi then you will have two boxes:  a sensor unit, and a base station that will take readings from the sensor and send them to us automatically.  The sensor unit has to be somewhere representative of the space, but the base station just needs to be plugged in within radio range of the sensor unit.
 
-It's perfectly possible to follow along on our materials without our devices, using a commercial logger.  They cost £40-£70.  It is useful to have one with relative humidity.  Many community buildings have them already, for instance, to monitor the organ.  There are sometimes cheaper unknown brands available.  We've never tested their accuracy.   If you use one it is best to check them against something with known good readings to make sure.
+It's perfectly possible to follow along on our materials without our devices, using a commercial logger.  They cost around £50 for temperature or £70 for temperature with relative humidity. There are sometimes cheaper unknown brands available.  We've never tested their accuracy.   If you use one it is best to check them against something with known good readings to make sure.
 

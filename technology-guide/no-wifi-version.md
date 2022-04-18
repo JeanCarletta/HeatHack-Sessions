@@ -1,4 +1,4 @@
-# Instricutions for no wifi version
+# Instructions for no wifi version
 
 If your premises don't have wifi, your sensor unit saves the data for you to retrieve and email to us for processing.  You should do this every week or two, or else its memory will fill up.  You'll probably want to use a smartphone to do this, but you could instead use a tablet or laptop. The sensor unit starts recording data again automatically.
 
