@@ -9,9 +9,9 @@ If you read the instructions on the same device as you will use to connect, you 
 ```{admonition} Overview
 
 * turn the sensor box off for ten seconds, then on again  
-* Within one minute, connect to the "engineer" wifi hotspot using the password printed on the box
+* connect to the "engineer" wifi hotspot using the password printed on the box
 * visit 192.168.4.1 using your browser 
-* within four minutes, enter where the sensor is going next and download the data
+* enter where the sensor is going next and download the data 
 
 ```
 

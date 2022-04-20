@@ -29,3 +29,5 @@ chapters:
     - file: weather-compensation
     - file: internet-accessible
     - file: building-regulations
+
+- file: reading-the-data
