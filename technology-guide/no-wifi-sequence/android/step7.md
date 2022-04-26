@@ -3,7 +3,7 @@
 ```{image} open-browser.png
 :alt: open the browser
 :class: bg-primary mb-1
-:width: 200px
+:width: 400px
 :align: center
 ```
 
