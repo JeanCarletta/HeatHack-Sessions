@@ -1,4 +1,4 @@
-# HeatHack Session 2
+# Session 2 - How much heating do we need?
 
 :TEMP:
 The second session showcases engineering approaches to estimation by considering heating requirements and possible

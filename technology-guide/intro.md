@@ -1,4 +1,4 @@
-# Introduction
+# Technology Guide
 
 We will send you devices you can use to collect temperature and relative humidity data for your spaces.  
 

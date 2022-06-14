@@ -7,5 +7,3 @@ Now that energy is expensive and we understand that we need to move to net zero 
 This programme is designed to help you understand energy use in your premises and what net zero means for you.  We hope you find the programme useful in your journey, and that together we can build a better future for all of us. 
 
 
-```{tableofcontents}
-```

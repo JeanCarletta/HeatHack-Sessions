@@ -1,4 +1,4 @@
-# HeatHack Session 4
+# Session 4 - Making Change
 
 :TEMP:
 The final small group session looks at the low carbon futures of these buildings. The materials explain potential advances
@@ -10,5 +10,3 @@ choose between greater community use which brings in enough income for maintenan
 justifying any carbon expenditure, or less frequent/less comfortable use, with eventual deterioration and closure. The
 discussions will explore these issues and plan how to engage others in their community.
 
-```{tableofcontents}
-```

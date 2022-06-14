@@ -3,10 +3,72 @@
 
 format: jb-book
 root: intro
-parts:
-  - caption: Technology Guide
-    chapters:
-    - file: technology-guide/intro 
+
+chapters:
+- file: front-matter/intro
+  sections:
+    #- file: front-matter/dedication
+    - file: front-matter/motivation
+    - file: front-matter/learning
+    - file: front-matter/why-engineering
+    - file: front-matter/about
+    - file: front-matter/further-reading
+
+- file: session1/intro
+  sections:
+    - file: session1/thermal-comfort
+      sections:
+        - file: session1/surrounding-surfaces
+        - file: session1/other-factors
+        - file: session1/pulling-it-together
+    - file: session1/heating-strategies
+      sections:
+        - file: session1/conduction-and-convection
+        - file: session1/space-heating
+        - file: session1/localised-heating
+        - file: session1/radiant-heating
+        - file: session1/combination-heating
+    - file: session1/old-equipment
+    - file: session1/radiators
+    - file: session1/fan-convectors
+    - file: session1/heat-sources
+    - file: session1/further-reading
+
+
+- file: session2/intro
+  sections:
+    - file: session2/thermal-mass
+
+- file: session3/intro
+  sections:
+    - file: session3/end-user-controls
+      sections:
+        - file: session3/general-principles
+        - file: session3/thermostatic-controls # wall thermostats and TRVs
+        - file: session3/overrides
+        - file: session3/limiters # don't let them go to 26C!
+        - file: session3/locks # don't let them re-program it! Lockable perspex box with a hole for the right button.
+        - file: session3/fused-blanks-and-countdown-timers
+    - file: session3/system-controls
+      sections:
+        - file: session3/system-versus-end-user
+        - file: session3/learning-systems
+        - file: session3/load-compensation
+        - file: session3/weather-compensation
+        - file: session3/internet-accessible
+        - file: session3/building-regulations
+    - file: session3/reading-the-data
+
+  
+- file: session4/intro
+  sections:
+    - file: session4/decarbonisation
+    - file: session4/secondary-glazing
+    - file: session4/local-generation
+  
+
+- file: technology-guide/intro 
+  sections:
     - file: technology-guide/placing-the-sensor
     - file: technology-guide/batteries
     - file: technology-guide/wifi-version
@@ -31,21 +93,3 @@ parts:
             - file: technology-guide/no-wifi-sequence/android/step9
         - file: technology-guide/no-wifi-sequence/apple
 
-# chapters:
-# - file: technology-guide/end-user-controls
-#   sections:
-#     - file: technology-guide/general-principles
-#     - file: technology-guide/thermostatic-controls # wall thermostats and TRVs
-#     - file: technology-guide/overrides
-#     - file: technology-guide/limiters # don't let them go to 26C!
-#     - file: technology-guide/locks # don't let them re-program it! Lockable perspex box with a hole for the right button.
-#     - file: technology-guide/fused-blanks-and-countdown-timers
- 
-# - file: technology-guide/system-controls
-#   sections:
-#     - file: technology-guide/system-versus-end-user
-#     - file: technology-guide/learning-systems
-#     - file: technology-guide/load-compensation
-#     - file: technology-guide/weather-compensation
-#     - file: technology-guide/internet-accessible
-#     - file: technology-guide/building-regulations

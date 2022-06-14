@@ -1,4 +1,4 @@
- # Introduction
+ # Session One - How do church buildings work, and what makes them comfortable?
 
 This week is all about two things:  discussing what you want to achieve by taking part in the programme, and learning some very basic concepts that can help you understand how church heating systems work and why these buildings are so hard to heat.  
 
@@ -10,5 +10,3 @@ But first, we need to introduce a little bit of science.  We heat buildings for 
 Sometimes churches heat buildings for other reasons - some good, and some bad.  We address them in session 2.  
 ```
 
-```{tableofcontents}
-```
