@@ -1,11 +1,20 @@
 # What you will learn
 
-In the programme, you will learn how heating and ventilation systems work and where the big heat losses in traditional buildings occur. You will use that learning to understand your own buildings.  You will also learn about thermal comfort, where the temperature a thermostat shows is not the whole story, and what this means for how you use your spaces. Finally, you will learn how to check whether your systems are working correctly, fit for purpose, and how to plan for future changes.  This might sound technical and scary, but don't worry, we aren't trying to make you into an engineer, just help you know what they do and work with them better!
+In the programme, you will learn 
 
-To help you understand your buildings, we will provide you with little devices you can put in your spaces that will collect regular temperature and relative humidity readings.  You do not need to know how they work, but with the aid of your group’s engineer, you will learn how to spot some basic problems on the data they provide.  We also have some specialist equipment available by post for those who need it to look at specific issues.  The data our equipment collects, along with other information you will be collecting, will form a profile of your premises and how you use them.  This profile is intended to help professionals understand what you need and serve you better.  
+* about thermal comfort, where the temperature a thermostat shows is not the whole story, and what this means for deciding how you use your spaces, with different heat strategies for occasional and frequent use.  
 
-Much of the programme isn't technical at all - it's discussion about what your building is for and how it should be used and managed in the future.  For this, towards the end, you'll need to engage with others in your local community.  After all, it's space that serves them.  This kind of conversation will be a new one to many groups, and so the programme is designed to equip you for that, too, by showing you some good ways to engage the people you serve. 
+* the basics of how heating systems work and how to check whether your current heating systems are fit for purpose and working correctly.  
 
-:TODO: make this bullet points, too much "you will learn"
+* about ventilation, why ventilation is important for the health of the building and its occupants, and the relationship between ventilation and heat loss.
 
-:TODO: add "this is not a textbook, initial guide, further develop based on your expertise and experiences, this is a supported programme where we will work hard to make that adaptation and at the end we'll be putting out resources that anyone should be able to benefit from, although we'll also discuss with you what should happen next."
+* where the big heat losses in community buildings occur and the measures that can sometimes be taken to reduce them
+
+* about local generation options like solar panels and lower carbon heating options like heat pumps that might be suitable for your buildings
+
+* how to stage changes to move towards lower carbon if you can't afford everything in one go.
+
+Parts of the programme might sound highly technical, but we will keep it simple.  We aren't trying to make you into an engineer or heating specialist.  The programme is about equipping you with the information about your building and the knowledge that you need to get better outcomes when you engage professionals.  
+
+Most of our past experience is with traditionally built, stone buildings, particularly churches.  These throw up some particular challenges, so we will spend some time addressing those.  If you find some materials do not apply in your case, feel free to skip these parts of the programme.
+
