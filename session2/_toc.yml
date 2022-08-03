@@ -11,5 +11,15 @@
 format: jb-book
 root: intro
 chapters:
-- file: thermal-mass
+- file: heat-loss.md
+- file: secondary-glazing.md
+- file: air-curtains.md
+- file: relative-humidity.md
+- file: ventilation.md
+- file: avoiding-damp.md
+- file: local-generation.md
+- file: decarbonisation.md
+- file: embodied-carbon.md
+- file: further-reading.md
+
 

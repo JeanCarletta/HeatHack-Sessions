@@ -1,6 +1,8 @@
 # Session 4 - Making Change
 
-:TEMP:
+:TEMP: THIS IS THE OLD CONTENT - make sure this is elsehwere in the sessions
+:TODO: Figure out what background reading and links are useful to accompany Pam's facilitators guide sketch for session 4 (currently in Teams)
+
 The final small group session looks at the low carbon futures of these buildings. The materials explain potential advances
 in heat loss mitigation, local energy generation options, and energy supply decarbonisation. It will use a game based on
 Carbon Conversations to explore how to plan in the face of uncertainty, stage works, and ensure a good fit to community

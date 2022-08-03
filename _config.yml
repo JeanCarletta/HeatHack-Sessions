@@ -3,12 +3,16 @@
 
 title: HeatHack Reading Materials
 author: HeatHack 
-logo: ../images/heat_hack_logo1.png
+logo: ./images/heat_hack_logo1.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  #execute_notebooks: force ## disable this until we want to make them work - pathing is relative and doesn't work for overall build just now.
+
+parse:
+  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+    - colon_fence
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -21,6 +25,22 @@ latex:
 # bibtex_bibfiles:
 #  - references.bib
 
+# sphinx settings to allow use of extensions like grid directive
+sphinx:
+  extra_extensions:      # A list of extra extensions to load by Sphinx (added to those already used by JB).     :   
+    #- myst_parser
+    - sphinx_design
+#   #local_extensions          :   # A list of local extensions to load by sphinx specified by "name: path" items
+  #recursive_update          : false # A boolean indicating whether to overwrite the Sphinx config (true) or recursively update (false)
+  # config: # key-value pairs to directly over-ride the Sphinx configuration
+  #   html_show_copyright: false
+  #   #supposed to be possible to change the pointsize bigger than 12 pt if you use docclass extarticle -
+  #   #for sphinx, usually in the conf.py file.  Can't figure out where to place declarations.
+  #   #latex_docclass: {'howto': 'extarticle','manual': 'extarticle',}
+  #   latex_elements:
+  #     papersize             : a4paper 
+  #     pointsize             : 20pt 
+
 # Information about where the book exists on the web
 repository:
   url: https://github.com/JeanCarletta/HeatHack-Sessions/  # Online location of your book
@@ -30,19 +50,11 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  use_issues_button: true
-  use_repository_button: true 
   extra_footer: <p> <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode"> Creative Commons Attribution-ShareAlike 4.0 International Public License </a></p> 
+  # use_issues_button: true
+  # use_repository_button: true 
+  
 
-sphinx:
-  config:
-    html_show_copyright: false
-    #supposed to be possible to change the pointsize bigger than 12 pt if you use docclass extarticle -
-    #for sphinx, usually in the conf.py file.  Can't figure out where to place declarations.
-    #latex_docclass: {'howto': 'extarticle','manual': 'extarticle',}
-    latex_elements:
-      papersize             : a4paper 
-      pointsize             : 20pt 
 
 
     

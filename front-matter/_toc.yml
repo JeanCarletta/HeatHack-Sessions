@@ -4,7 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-# - file: dedication
 - file: motivation
 - file: why-engineering
 - file: learning

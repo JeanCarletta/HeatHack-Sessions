@@ -4,4 +4,3 @@ When people feel cold, they'll do whatever is most obvious that might make them 
 
 :TODO: find picture of a thermostat in Celsius
 
-

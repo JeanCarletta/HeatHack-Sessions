@@ -8,4 +8,7 @@ Sidebar:  Why are there pipes way up there?  (CCM example, use gravity instead o
 :class: tip
 
 You may have more modern heating apparatuses  in your building, especially your halls  - don't worry, we will be talking about them in session 2!  They work using the same basic principles so you can probably guess their effects.
+
+:TODO:  figure out how to do this - ASHP, ground source heat pump, etc they aren't likely to have but need to tell them early on to skip forward, and the ones that don't have them then need to undersatnd the implications for radiators etc.
+
 ```

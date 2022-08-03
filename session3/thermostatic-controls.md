@@ -1,0 +1,57 @@
+# Thermostatic controls
+
+:TODO: check what Andrew already says
+
+
+
+
+Although the building regulations require heating controls to be put in when a boiler is changed, very few people understand how they work, and waste energy as a result. The Centre for Sustainable Energy has a good factsheet for householders about the most common ones that you can read if you're one of them!  
+
+<a title="Factsheet, Central heating controls" href="https://www.cse.org.uk/downloads/advice-leaflets/energy-advice/insulation-and-heating/advice_leaflet_central_heating_controls.pdf
+">
+   <img width="512" alt="Factsheet, Central heating controls" src="../images/factsheets/CSE-thermostatic-controls.png">
+</a>
+
+
+Here are some of the issues we've observed over the years.
+
+## Temperature setting
+
+Essential problem - if you have mixed user types, some need it warmer than others - Child Care Commission minimum of 16C, dancers often request cooler, older groups or exercise groups sitting on the floor need it pretty warm - but the building doesn't respond very fast if they're on right after each other, AND most controls let groups change the temperature setting permanently, not just for the hour or so that they are in.
+
+The oldest design is timeswitch where you set on/off times and the space air temperature is controlled either via a room thermostat (which can be packaged in the timeswitch or separate) or via TRVs on all radiators in the space.  Common, but not really suitable for community spaces unless all users can live with the same temperature and you have a way to ensure they don't change the thermostat settings (hard covers on the TRVs, lock on the wall thermostat).  TRVs are a particular problem because groups struggle to set them all, and they're only pin and wax, so they aren't very accurate and break easily.
+
+Remember that users almost always turn thermostats to maximum if they're cold because they think the space will heat faster that way.  
+
+Newer designs might be more sophisticated and allow temperatures to be changed just until the next timeswitch
+
+## Wall thermostats
+
+So need tamper proof, and also need clear ways for users to communicate with you if they aren't comfortable, because otherwise they will just remove the covers.  Can use perspex box with a key if desperate.
+
+## Setback "frost" stats
+
+Old-fashioned arrangement, separate frost stat also in main space to make sure it doesn't drop below say 7C; users easily confuse these with room stats and turn them up as far as they can.
+
+## Thermostatic radiator valves (TRVs)
+
+Very, very common misconception that if you turn them up, the room will heat faster. Users wrench them up (older people), down (dancers), around (children) and then they break easily (just wax and pin).  They're really not suitable for spaces where different groups come in frequently; better to remove them and have them all controlled by a single room stat.  In the meantime, depending on your users it may be acceptable to add a limiter or a hard cap that keeps users from changing them.
+
+<a title="USA-Reiseblogger / Simon, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Heimeier-Thermostat-1687928.jpg"><img width="512" alt="Heimeier-Thermostat-1687928" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Heimeier-Thermostat-1687928.jpg/512px-Heimeier-Thermostat-1687928.jpg"></a>
+
+# Timeswitches
+
+## overrides
+
+Domestic ones almost always have some way of turning the heating on permanently using an "override" until someone remembers to turn it off again - disastrous for energy use in a community building.  They are also almost always designed for young people with good eyesight and steady hands, making it easy to hit the override button accidentally.  
+
+Churches especially often have a recognisable override where some or all building users can access it.  It's very common for volunteers to come into the building for an hour, turn on the heating, and then sometimes leave it on accidentally when they leave.  This is very expensive and usually has no effect on their thermal comfort (except where the system is fast enough to make a radiator warm and they can lean on it - a very expensive alternative to a hot water bottle!) 
+
+You need to think about how people use your buildings, what kinds of overrides they need, and how to get them just those ones.  If the users are only in for short periods, then they should only be able to turn the heating up or down (a bit) 
+
+you're confident you know who will use the building when, then they only 
+Possible side bar - Case study of a combi-boiler.  Older model, override button is about the size of a lentil and the heating is on permanently if you hit the button twice instead of once.  The only indication of this was a 3mm icon among many others on a small LCD screen.  :TODO: do we still have pictures?
+
+## Multi-level locks
+
+## Logging
