@@ -1,4 +1,4 @@
- # Session One - Why Community Buildings are Hard to Heat
+ # Session One - Why Our Buildings are Hard to Heat
 
 This week is all about two things:  discussing what you want to achieve by taking part in the programme, and learning some very basic concepts that can help you understand how heating systems work and why some community buildings are so hard to heat.  
 

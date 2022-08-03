@@ -1,6 +1,6 @@
 # Batteries
 
-The sensor unit uses AA lithium batteries.  These are available, for instance, from Energizer.  This is the kind of battery used in things like smoke alarms. They are the same size and shape as normal (alkaline) AA batteries, but should last a year.  It is possible to use alkaline batteries, but their performance will be very variable, lasting something between a week and a month.  
+The sensor unit uses AA lithium batteries.  These are available, for instance, from Energizer.  This is the kind of battery used in things like smoke alarms. They are the same size and shape as normal (alkaline) AA batteries, but should last a year.  It is possible to use alkaline batteries, but their performance will be variable, lasting something between a week and a month.  
 
 
 ```{admonition} Safety
