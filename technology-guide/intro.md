@@ -20,6 +20,6 @@ We built our own cheap devices because it helps to get the readings instantly on
 ```{admonition} Tip
 :class: tip
 
-Click on the images in the guide to see them bigger, and then use the back button to return to reading.
+In the web version of this guide, click on the images to see them bigger.  Then use the back button to return to reading.  In other formats, you can zoom in and out. 
 
 ```

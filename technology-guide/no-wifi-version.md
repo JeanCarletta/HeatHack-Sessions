@@ -21,8 +21,9 @@ Try connecting to the sensor unit at home first, with these instructions showing
 * turn the sensor box off for ten seconds, then on again  
 * connect to the "engineer" wifi hotspot using the password printed on the box
 * visit 192.168.4.1 using your browser 
-* enter where the sensor is going next and download the data 
-* email the results to data@heathack.org
+* describe where you are placing the sensor
+* download the data (which also starts the device)
+* email the data to data@heathack.org
 
 ```
 

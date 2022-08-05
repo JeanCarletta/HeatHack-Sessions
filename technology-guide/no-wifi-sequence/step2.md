@@ -7,7 +7,6 @@
 :align: center
 ```
 
-If the sensor unit is already on, turn it off, wait ten seconds, then turn it on again.  You then 
-have one minute to connect to the "engineer" wifi hotspot that will appear.  The password is "heathack".
+If the sensor unit is already on, turn it off, wait ten seconds, then turn it on again.  A wifi hotspot named "engineer" will appear.  Connect to it using the password "heathack".  Ignore any warnings about internet availability - connect to the hotspot anyway.
 
-Ignore any warnings about internet availability - connect to the hotspot anyway.
+You have around one minute to do this step and the next one but if you take longer, you can start again.  

@@ -17,4 +17,4 @@ It can be hard to remember where you put the sensor unit - one easy way is to ta
 
 ````
 
-You will be able to move your sensor unit around your spaces if you have more than one - you just want to collect representative data from each over a range of weather conditions.
+If you have more than one space you want to monitor, you can move your sensor unit around.  Collect representative data from each.  You may wish to do this over four seasons even if that is after the programme finishes. 
