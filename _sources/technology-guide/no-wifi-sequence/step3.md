@@ -1,11 +1,14 @@
+# Connect to the sensor unit 
 
-# Type the URL 
 
-Type the URL "192.168.4.1" into the address bar.  This will find the device, but only once we've turned the device off and on again. 
-
-```{image} step3.png
-:alt: type URL
+```{image} connect-to-sensor.png
+:alt: open settings
 :class: bg-primary mb-1
-:width: 200px
+:width: 400px
 :align: center
 ```
+
+Open your web browser and type “192.168.4.1” into the address bar at the top.  You might have a separate "search" bar.  Using that won't work.  Chrome, Safari, Firefox, Samsung Internet and Microsoft Edge are all web browsers.
+
+
+
