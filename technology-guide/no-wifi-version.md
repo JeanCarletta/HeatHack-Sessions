@@ -1,19 +1,29 @@
-# Instructions for no wifi version
+# Instructions for standalone version
 
-If your premises don't have wifi, your sensor unit saves the data for you to retrieve and email to us for processing.  You should do this every week or two, or else its memory will fill up.  You'll probably want to use a smartphone to do this, but you could instead use a tablet or laptop. The sensor unit starts recording data again automatically.
+If your premises don't have wifi, you only have a sensor unit. It saves the data for you to retrieve and email to us for processing.  You should do this every week or two, or else its memory will fill up.  You'll probably want to use a smartphone to do this, but you could instead use a tablet or laptop. The sensor unit starts recording data again automatically.
 
-It's much easier to do this somewhere with wifi first - like your home - because you'll be able to read these instructions as you go.  
 
-If you have two devices, read the instructions on one and follow them on whatever you will be using at the venue.  Your device will remember some of the details, making it easier a second time.  If you don't have two devices, then it will easier if you use the PDF instructions.
+```{image} ../images/Sensor2WiFiBoxed-1024x768.jpg
+:alt: sensor unit
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
 
-:TODO: generate PDF, insert link here.
+Every time you turn the sensor unit on, it starts a temporary wifi hotspot (also called an "access point") that can be used only to retrieve the data and start the sensor unit running.   You connect to it just like any other wifi network, but it can't be used to reach the internet.  When you connect, the sensor unit gets the right time 
+automatically and will let you choose some options like describing where you are putting the unit.  
 
-```{admonition} Overview
+Try connecting to the sensor unit at home first, with these instructions showing on a different phone or laptop if you have one - it will be much easier to follow along and then your phone will remember some of the steps.  
+
+
+```{admonition} Overview for technophiles
 
 * turn the sensor box off for ten seconds, then on again  
 * connect to the "engineer" wifi hotspot using the password printed on the box
 * visit 192.168.4.1 using your browser 
-* enter where the sensor is going next and download the data 
+* describe where you are placing the sensor
+* download the data (which also starts the device)
+* email the data to data@heathack.org
 
 ```
 

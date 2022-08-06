@@ -1,10 +1,10 @@
-# Open the browser
+## Find your wifi settings
 
-Open your browser (for instance, Chrome, Edge, Internet Explorer, Safari, or Opera).
-
-```{image} step1.png
-:alt: open the browser
+```{image} find-wifi-settings.png
+:alt: common steps to find wifi settings on an android phone
 :class: bg-primary mb-1
-:width: 200px
+:width: 400px
 :align: center
 ```
+
+ You can access them through the settings icon (a gear) on your home screen or by searching.

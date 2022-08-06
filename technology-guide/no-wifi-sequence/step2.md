@@ -1,11 +1,12 @@
+# Turn the sensor unit on and connect to the "engineer" wifi hotspot
 
-# Find the address bar
-
-Find the address bar at the top.  This is where you can type in search terms or URLs like "bbc.co.uk".
-
-```{image} step2.png
-:alt: find address bar
+```{image} engineer-network.png
+:alt: swipe down on home screen
 :class: bg-primary mb-1
-:width: 200px
+:width: 400px
 :align: center
 ```
+
+If the sensor unit is already on, turn it off, wait ten seconds, then turn it on again.  A wifi hotspot named "engineer" will appear.  Connect to it using the password "heathack".  Ignore any warnings about internet availability - connect to the hotspot anyway.
+
+You have around one minute to do this step and the next one but if you take longer, you can start again.  

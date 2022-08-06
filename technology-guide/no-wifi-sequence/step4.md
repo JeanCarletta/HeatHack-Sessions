@@ -1,34 +1,18 @@
-## Find wifi settings
-
-You now need to find the wifi settings on your device. You may already know how to do this from using the wifi at home or in a cafe or library.
-
-  On an Android phone, you can find the settings by swiping down from the top once to see a set of controls, and then again to reveal a gear icon.  Alternatively, on many phones and tablets, there is a gear icon directly on the home screen when you unlock the device or found by swiping right or left.
-
-  On a Windows laptop, you can type Windows-S (the Windows key and s at the same time) and then "wifi settings" to find them.
-
-  After this step, you will be able to see a list of available wifi networks.
-  :TODO: circle controls at top of first image
-  :TODO: figure out how to lay out panels better (three across)
-
-````{panels}
-
-^^^
-Swipe down to find the controls.
-+++
-![find controls](step4a.png)
----
+# Name the location, download the data and restart
 
 
-^^^
+```{image} sensor-gui.jpg
+:alt: type URL
+:class: bg-primary mb-1
+:width: 400px
+:align: center
+```
+You should now see the sensor unit's interface.  For the location, enter a word or two that will remind you where you've left the unit; for instance "main-hall".  You can use hyphens and underscores if you wish, but avoid spaces.  Please try to use the same description for the same location every time.
 
-Swipe down again and click on settings.
-+++
-![find controls](step4b.png) 
+<!-- Enter the location of your device using the three letter code for your site plus a word that will remind you where it is - for instance, "ccm-hall" for the hall at venue "ccm".  You can use hyphens and underscores if you wish, but avoid spaces.
+CK says the code is unnecessary, we will use MAC address as a key.
+-->
 
----
-^^^
-Open the wifi settings.
-+++
-![find controls](step4c.png) 
----
-````
+When you press "download data and start", your phone will download a file containing the data and then start logging.  You have four minutes to do this but the battery will last longer if you are faster.
+
+ 

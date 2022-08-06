@@ -1,2 +1,5 @@
+MarkupSafe==2.0.1
 jupyter-book
+matplotlib
+numpy
 
