@@ -23,7 +23,8 @@ To copy a part into main, make sure dev on the origin is up to date.  Then switc
 
 (main)$ git checkout origin/dev -- PATH-TO-PART
 
-(main)$ git checkout origin/dev -- _toc.yml      # to get the table of contents changes
+(main)$ git checkout origin/dev -- _toc.yml      
+# to get the table of contents changes - also config.yml, intro.md, requirements.txt, and anything else required
 
 then check the build on your own machine, then git add, commit, push as usual.  
 
