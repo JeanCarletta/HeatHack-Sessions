@@ -16,9 +16,11 @@ Since 2012, Surefoot has been helping communities, businesses and governments pu
 :::
 :::{grid-item}
 ```{image} ../images/surefoot-logo.png
-:alt: Surefoot
-:class: bg-primary mb-1
-``` 
+   :alt: Surefoot
+   :class: bg-primary mb-1
+   :height: 200px
+   :align: right
+```
 :::
 ::::
 
@@ -35,7 +37,8 @@ Engineers Without Borders UK is working to reach the tipping point to ensure a s
 ```{image} ../images/EwB-white-background.png
 :alt: Engineers without Borders UK
 :class: bg-primary mb-1
-
+:height: 200px
+:align: right
 ```
 :::
 ::::
@@ -48,5 +51,6 @@ The programme would not be possible without the generous support of the Royal Ac
 ```{image} ../images/ingenious-logo-white-background.png
 :alt: Royal Academy of Engineering
 :class: bg-primary mb-1
+:width: 400px
 ```
 

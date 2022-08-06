@@ -4,12 +4,11 @@ Knowing how to manage energy use in community buildings and halls is difficult. 
 
 
 ```{image} ../images/greyfriars-charteris_1024x1024.jpg
-:alt: a typical community building - often churches and former churches!
+:alt: a former church, now run by charity
 :class: bg-primary mb-1
 :width: 400px
 :align: center
 ```
-
 *(c) <a href="https://www.geograph.org.uk/profile/120387">Richard Sutcliffe</a>, Creative Commons <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>*
 
 
