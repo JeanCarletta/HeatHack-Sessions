@@ -26,6 +26,8 @@ To copy a part into main, make sure dev on the origin is up to date.  Then switc
 (main)$ git checkout origin/dev -- _toc.yml      
 to get the table of contents changes - also config.yml, intro.md, requirements.txt, and anything else required
 
+remove any sections of the table of contents that aren't ready to show.
+
 then check the build on your own machine, then git add, commit, push as usual.  
 
 Once all parts are ready for building main will become more like a traditional main branch but until then, many commits on dev could remain unpulled.
