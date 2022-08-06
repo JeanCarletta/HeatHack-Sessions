@@ -345,41 +345,12 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#">
-   HeatHack-Sessions
-  </a>
- </li>
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#to-get-the-table-of-contents-changes-also-config-yml-intro-md-requirements-txt-and-anything-else-required">
-   to get the table of contents changes - also config.yml, intro.md, requirements.txt, and anything else required
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
     </div>
     <div class="article row">
@@ -391,24 +362,6 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#">
-   HeatHack-Sessions
-  </a>
- </li>
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#to-get-the-table-of-contents-changes-also-config-yml-intro-md-requirements-txt-and-anything-else-required">
-   to get the table of contents changes - also config.yml, intro.md, requirements.txt, and anything else required
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -436,10 +389,8 @@ title="Print to PDF"
 <p>To copy a part into main, make sure dev on the origin is up to date.  Then switch to the main branch.</p>
 <p>(dev)$ git switch main</p>
 <p>(main)$ git checkout origin/dev – PATH-TO-PART</p>
-<p>(main)$ git checkout origin/dev – _toc.yml</p>
-</section>
-<section class="tex2jax_ignore mathjax_ignore" id="to-get-the-table-of-contents-changes-also-config-yml-intro-md-requirements-txt-and-anything-else-required">
-<h1>to get the table of contents changes - also config.yml, <a class="reference external" href="http://intro.md">intro.md</a>, requirements.txt, and anything else required<a class="headerlink" href="#to-get-the-table-of-contents-changes-also-config-yml-intro-md-requirements-txt-and-anything-else-required" title="Permalink to this headline">#</a></h1>
+<p>(main)$ git checkout origin/dev – _toc.yml<br />
+to get the table of contents changes - also config.yml, <a class="reference external" href="http://intro.md">intro.md</a>, requirements.txt, and anything else required</p>
 <p>then check the build on your own machine, then git add, commit, push as usual.</p>
 <p>Once all parts are ready for building main will become more like a traditional main branch but until then, many commits on dev could remain unpulled.</p>
 <p>There is a table of contents at the top level covering everything, but also individual table of contents for use during development that just build individual sections.</p>
