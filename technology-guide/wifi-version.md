@@ -4,8 +4,6 @@ You have two boxes - a sensor unit and a hub.  The sensor unit is usually white 
 
 The sensor unit takes the temperature and relative humidity readings and sends them to the hub using a radio link.  The hub then uploads the data to the internet.  To make this work, you need to tell the hub the password for the guest wifi network in your building.
 
-:TODO: replace picture with one that has the power plug attached
-
 ```{image} ../images/sensor-unit-and-hub.jpg
 :alt: sensor unit and hub
 :class: bg-primary mb-1
