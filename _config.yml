@@ -7,7 +7,7 @@ logo: ./images/heat_hack_logo1.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
-execute:
+#execute:
   #execute_notebooks: force ## disable this until we want to make them work - pathing is relative and doesn't work for overall build just now.
 
 parse:
@@ -26,7 +26,16 @@ latex:
 #  - references.bib
 
 # sphinx settings to allow use of extensions like grid directive
+## can't figure out how to get the docclass set to extarticle - still comes up as jupyter book.
+## something said extarticle required to increase font size.
 sphinx:
+  config:
+    html_js_files: # get plots to show in built book
+    - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+    latex_docclass: {'howto': 'extarticle','manual': 'report'} # a dictionary, so this is right format.
+    latex_elements:
+      papersize             : a4paper 
+      pointsize             : 20pt 
   extra_extensions:      # A list of extra extensions to load by Sphinx (added to those already used by JB).     :   
     #- myst_parser
     - sphinx_design
