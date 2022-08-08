@@ -1,0 +1,5 @@
+format: jb-book
+root: intro
+chapters:
+- file: sensors11-17.ipynb
+- file: sensors18-24.ipynb
