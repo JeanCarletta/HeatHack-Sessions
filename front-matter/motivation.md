@@ -10,7 +10,7 @@ This programme assumes your group needs to understand what a net zero future mea
 :align: center
 ```
 
-*(c) حُميد, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
+*(c) حُميد, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons*
 
 
 This programme is not the place to debate whether climate change exists or whether human behaviour has the power to affect its course for good or ill.  It is also not the place to discuss climate change and its effects on the planet, although if that is your main interest, you may wish to consider our sister programmes, Climate Conversations and Conversations for Change.  Our programme is about how to get the most benefit out of the energy you put into your buildings and how to have what are difficult discussions about whether that energy use can be supported financially and justified ethically in your place and at this time.   It is based loosely on our experiences in running Carbon Conversations, group sessions about how to achieve reductions in the carbon impacts of our personal lives.  

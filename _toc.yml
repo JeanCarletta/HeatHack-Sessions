@@ -13,6 +13,17 @@ chapters:
     - file: front-matter/what-we-provide
     - file: front-matter/about
 
+- file: health-and-safety/intro
+  sections:
+    - file: health-and-safety/special-risks
+      sections:
+      - file: health-and-safety/asbestos
+      - file: health-and-safety/elec-meter-safety
+      - file: health-and-safety/gas-safety
+      - file: health-and-safety/carbon-monoxide
+    - file: health-and-safety/ground-rules
+    - file: health-and-safety/risk-assessments
+
 - file: session1/intro
   sections:
     - file: session1/thermal-comfort
