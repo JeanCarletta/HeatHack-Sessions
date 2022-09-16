@@ -1,0 +1,40 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: group-process.md
+- file: what-sessions-are-like.md
+- file: safety.md
+- file: complex-sites.md
+- file: group-leadership.md
+- file: role-of-engineer.md
+- file: profile.md
+- file: expenses.md
+- file: session1/session1.md
+  sections: 
+    - file: session1/details/session-concepts.md
+    - file: session1/details/activity.md
+    - file: session1/details/takeaways-and-planning.md
+    - file: session1/details/engineers-report.md
+- file: session2/session2.md
+  sections: 
+    - file: session2/details/preparation.md
+    - file: session2/details/session-concepts.md
+    - file: session2/details/activity.md
+    - file: session2/details/takeaways-and-planning.md
+- file: session3/session3.md
+  sections: 
+    - file: session3/details/preparation.md
+    - file: session3/details/session-concepts.md
+    - file: session3/details/activity.md
+    - file: session3/details/takeaways-and-planning.md
+- file: session4/session4.md
+  sections: 
+    
+    - file: session4/details/preparation.md
+    - file: session4/details/session-concepts.md
+    - file: session4/details/response.md
+    - file: session4/details/activity.md
+    - file: session4/details/takeaways-and-planning.md

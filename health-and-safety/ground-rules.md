@@ -8,12 +8,12 @@ We have some basic rules that all groups must follow.
 
  - **No unsafe steps.** Church buildings especially are notorious for steps that are dangerous by modern standards or so worn that they are unsafe.   This rule will usually mean not checking the ventilation arrangements through towers, for instance.
  
-
+<!--
 ```{image} TODO.jpg
 :alt: dangerous stair in a church
 :class: bg-primary mb-1
 :width: 400px
 :align: center
 ```
-
+-->
  If you want to hear about a *really* hazardous occupation, talk to someone who repairs Victorian church organs. There's a reason why we have these rules.  You should obey them even if you have a more modern building.

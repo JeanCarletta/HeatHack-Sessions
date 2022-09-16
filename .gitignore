@@ -159,6 +159,9 @@ _build/
 # space for notes about what's still to write, no need to share
 notes.txt
 
+# scripts to pre-populate blank sections
+.sh
+
 .vscode
 .Rproj.user
 .Rhistory

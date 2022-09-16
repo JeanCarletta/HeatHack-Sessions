@@ -17,4 +17,4 @@ It can be hard to remember where you put the sensor unit - one easy way is to ta
 
 ````
 
-If you have more than one space you want to monitor, you can move your sensor unit around.  Collect representative data from each.  You may wish to do this over four seasons even if that is after the programme finishes. 
+If you have more than one space you want to monitor, you can move your sensor unit around.  Collect at least two weeks of representative data from each.  It's helpful to do this in all four seasons, but you won't be able to do that during the course of the supported programme.  

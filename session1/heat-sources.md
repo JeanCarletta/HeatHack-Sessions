@@ -10,3 +10,11 @@ That means that if your building is only occupied for short times, you want the 
 ```
 
 :TODO: @jean check the relationship between the BMS and boiler settings; @andrew will need to decide whether this kind of text is OK. 
+
+https://www.theheatinghub.co.uk/help-centre - fantastic resource to understand how the system works; applies to domestic but much of it is also applicable here.  Highlights:
+
+
+https://www.theheatinghub.co.uk/thermostat-guide-wireless-digital-room-central-heating-controls talks about a 2018 change where all combi boilers need some of: weather compensation, flow compensation, or smart control with automation and optimisation functions scheme, flue gas recovery unit.  So pre-2018 boilers, we need to figure out which of these makes sense.  Weather compensation isn't good with occasional space heating.  SO - if boiler pre-2018, consider whether you should install these things.
+
+https://www.theheatinghub.co.uk/articles/hot-water-efficiency-tips especially turning off hot water preheat.
+

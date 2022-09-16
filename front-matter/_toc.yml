@@ -1,6 +1,8 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+# :TODO: :IMPORTANT: insert a caveat that this is not a professional service - these are all volunteers just like any other - and groups need to take professional advice before acting on what they found, plus HeatHack can't be responsible for health and safety on site, we tell you how to do a risk assessment.
+
 format: jb-book
 root: intro
 chapters:

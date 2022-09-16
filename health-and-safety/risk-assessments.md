@@ -2,10 +2,10 @@
 
 We ask you to carry out a brief risk assessment before starting the first part of the site survey.  There are two steps:  identifying the hazards you will encounter, and agreeing what to do about them.
 
-- [Google Docs - HeatHack Risk Assessment Template](https://docs.google.com/document/d/18-VTZqUYDFZ6Er9JdoRvrHmr-_a-wYpCiEndZP4H9D8/edit?usp=sharing)
+- [Google Docs - HeatHack Risk Assessment Template](https://docs.google.com/document/d/18-VTZqUYDFZ6Er9JdoRvrHmr-_a-wYpCiEndZP4H9D8/)
 
 ```{image} risk-assessment-template.png
-:alt: Damaged asbestos pipe lagging
+:alt: risk assessment template
 :class: bg-primary mb-1
 :width: 400px
 :align: center

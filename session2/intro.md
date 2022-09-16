@@ -35,4 +35,3 @@ Particularly important to make this kind of decision because it impacts step 2, 
 
 IMPORTANT: heat pumps as low temperature, heating all the time for a background level of heat, often need more than one domestic to heat fully but the commercial ones are expensive.
 
-HYBRID GOES IN THIS SESSION, THEN.

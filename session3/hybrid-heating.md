@@ -1,0 +1,5 @@
+# Hybrid heating designs
+
+We have seen that there are several ways of heating a space that benefit different aspects of thermal comfort - for instance, radiant panels to raise the mean radiant temperature, heated seating to apply heat directly, and space heating that warms the air.  In session 2, we also talked about how sometimes it is easier to stage changes to a property if they are too expensive to manage in one go, and how doing that benefits the planet by realising some of the carbon reductions early on.  Combine the two, and it points to a strategy that many building operators fail to consider:  hybridising the heating by adding a lower carbon alternative that will reduce use of a carbon-intensive heating system even if it won't replace it entirely.  This strategy is particularly relevant for buildings that have invested recently in gas boilers.  
+
+:TODO: UK scheduled hydrogen decisions for 2026, could be blue instead of green; oil as likely to become difficult to get?

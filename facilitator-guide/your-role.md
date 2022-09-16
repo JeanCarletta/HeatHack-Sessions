@@ -1,1 +1,0 @@
-# What does a facilitator do?
