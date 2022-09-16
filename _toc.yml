@@ -10,6 +10,7 @@ chapters:
     - file: front-matter/motivation
     - file: front-matter/why-engineering
     - file: front-matter/learning
+    - file: front-matter/group-sessions
     - file: front-matter/what-we-provide
     - file: front-matter/about
 
@@ -84,24 +85,5 @@ chapters:
   sections:
     - file: session4/grant-funding
   
-- file: technology-guide/intro 
-  sections:
-  - file: technology-guide/placing-the-sensor
-  - file: technology-guide/batteries
-  - file: technology-guide/wifi-version
-    sections:
-      - file: technology-guide/wifi-sequence/connect-base-station
-      - file: technology-guide/wifi-sequence/heathackhub-network
-      - file: technology-guide/wifi-sequence/connect-to-hub
-      - file: technology-guide/wifi-sequence/use-hub-gui
-      - file: technology-guide/wifi-sequence/turn-on-sensor-unit
-      - file: technology-guide/wifi-sequence/check-connection
 
-  - file: technology-guide/no-wifi-version
-    sections: 
-      - file: technology-guide/no-wifi-sequence/step1
-      - file: technology-guide/no-wifi-sequence/step2
-      - file: technology-guide/no-wifi-sequence/step3
-      - file: technology-guide/no-wifi-sequence/step4
-      - file: technology-guide/no-wifi-sequence/step5
    

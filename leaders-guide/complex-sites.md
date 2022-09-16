@@ -1,5 +1,0 @@
-# Dealing with complex sites
-
-Some of the groups in the programme have one relatively simple building, but some have multiple buildings or buildings that are split into many rooms.  For these, you won't have time to perform activities relating to all of them, and you won't be able to gather thermal monitoring data for all spaces, either.  Don't be tempted to try to cover too much.  During the activities, if you need to, you can focus on one key space or one building.  This will reinforce the concepts that the group is learning.
-
-At the end of the session, the group can agree what they want to do that relates to the other spaces.  They might want to do nothing, or repeat some exercises themselves outside sessions, or just agree what the implications are for their other spaces, depending on what time they have and what they already know about their buildings.  
