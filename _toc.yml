@@ -10,28 +10,87 @@ chapters:
     - file: front-matter/motivation
     - file: front-matter/why-engineering
     - file: front-matter/learning
+    - file: front-matter/group-sessions
     - file: front-matter/what-we-provide
     - file: front-matter/about
 
-  
-- file: technology-guide/intro 
+- file: health-and-safety/intro
   sections:
-  - file: technology-guide/placing-the-sensor
-  - file: technology-guide/batteries
-  - file: technology-guide/wifi-version
-    sections:
-      - file: technology-guide/wifi-sequence/connect-base-station
-      - file: technology-guide/wifi-sequence/heathackhub-network
-      - file: technology-guide/wifi-sequence/connect-to-hub
-      - file: technology-guide/wifi-sequence/use-hub-gui
-      - file: technology-guide/wifi-sequence/turn-on-sensor-unit
-      - file: technology-guide/wifi-sequence/check-connection
+    - file: health-and-safety/ground-rules
+    - file: health-and-safety/special-risks
+      sections:
+      - file: health-and-safety/asbestos
+      - file: health-and-safety/elec-meter-safety
+      - file: health-and-safety/gas-safety
+      - file: health-and-safety/carbon-monoxide
+   
+    - file: health-and-safety/risk-assessments
 
-  - file: technology-guide/no-wifi-version
-    sections: 
-      - file: technology-guide/no-wifi-sequence/step1
-      - file: technology-guide/no-wifi-sequence/step2
-      - file: technology-guide/no-wifi-sequence/step3
-      - file: technology-guide/no-wifi-sequence/step4
-      - file: technology-guide/no-wifi-sequence/step5
+- file: thermal-comfort/thermal-comfort
+  sections:
+    - file: thermal-comfort/surrounding-surfaces
+    - file: thermal-comfort/other-factors
+    - file: thermal-comfort/pulling-it-together
+        
+- file: avoiding-damp/avoiding-damp
+  sections:
+    - file: avoiding-damp/main-causes-of-damp
+    - file: avoiding-damp/do-buildings-need-heating
+       
+
+# - file: session1/heating-strategies
+#   sections:
+#     - file: session1/conduction-and-convection
+#     - file: session1/space-heating
+#     - file: session1/thermal-mass
+#     - file: session1/localised-heating
+#     - file: session1/radiant-heating
+#     - file: session1/combination-heating
+
+
+
+# - file: session2/intro
+#   sections:
+#     - file: session2/heat-loss.md
+#     - file: session2/secondary-glazing.md
+#     - file: session2/air-curtains.md
+#     - file: session2/relative-humidity.md
+#     - file: session2/ventilation.md
+#     - file: session2/avoiding-damp.md
+#     - file: session2/local-generation.md
+#     - file: session1/old-equipment
+#     - file: session1/radiators
+#     - file: session1/fan-convectors
+#     - file: session1/heat-sources
+    
+#     - file: session2/decarbonisation.md
+#     - file: session2/embodied-carbon.md
+#     - file: session2/further-reading.md
+
+# - file: session3/intro
+#   sections:
+#     - file: session3/end-user-controls
+#       sections:
+#         - file: session3/general-principles
+#         - file: session3/thermostatic-controls # wall thermostats and TRVs
+#         - file: session3/overrides
+#         - file: session3/limiters # don't let them go to 26C!
+#         - file: session3/locks # don't let them re-program it! Lockable perspex box with a hole for the right button.
+#         - file: session3/fused-blanks-and-countdown-timers
+#     - file: session3/system-controls
+#       sections:
+#         - file: session3/system-versus-end-user
+#         - file: session3/learning-systems
+#         - file: session3/load-compensation
+#         - file: session3/weather-compensation
+#         - file: session3/internet-accessible
+#         - file: session3/building-regulations
+#     - file: session3/reading-the-data
+
+  
+# - file: session4/intro
+#   sections:
+#     - file: session4/grant-funding
+  
+
    
