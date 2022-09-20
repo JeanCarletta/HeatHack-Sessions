@@ -4,8 +4,11 @@ Welcome to the HeatHack programme for community buildings.  This guide provides 
 
 There is a separate guide for the group leaders - the main group contact and the volunteer engineer - to help them in running the sessions.
 
+- [HeatHack Leader's Guide](:TODO: insert link)
+
 There is also a separate guide explaining how to use our thermal monitoring devices.
 
+- [HeatHack Technology Guide](https://jeancarletta.github.io/HeatHack-Tech-Guide/intro.html)
 
 These reading materials are a work in progress.  We will add as we go along guided by what you tell us you need.  In July 2023 we will ensure all of the materials are openly available, including instructions for how to buy thermal monitoring equipment or build it cheaply from electronic components, so that anyone can use them.
 
