@@ -52,6 +52,11 @@ chapters:
     - file: surrounding-surfaces
     - file: other-factors
     - file: pulling-it-together
+
+- file: avoiding-damp
+  sections:
+    - file: damp/do-buildings-need-heating
+    - file: damp/main-causes-of-damp
 - file: heating-strategies
   sections:
     - file: conduction-and-convection
@@ -60,11 +65,6 @@ chapters:
     - file: localised-heating
     - file: radiant-heating
     - file: combination-heating
-- file: old-equipment
-- file: radiators
-- file: fan-convectors
-- file: heat-sources
-- file: further-reading
 
 # change to have a section on wet systems versus radiant versus electric and then the heating strategies - local versus whole-building
 

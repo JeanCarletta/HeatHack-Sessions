@@ -16,10 +16,12 @@ chapters:
 - file: air-curtains.md
 - file: relative-humidity.md
 - file: ventilation.md
+- file: ventilation-and-covid.md
 - file: avoiding-damp.md
 - file: local-generation.md
 - file: decarbonisation.md
 - file: embodied-carbon.md
+- file: case-studies.md
 - file: further-reading.md
 
 

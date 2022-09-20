@@ -1,6 +1,6 @@
 # Older stone buildings
 
-In a modern, well-insulated building, the air will warm up the building materials so that the air temperature and the surface temperatures will be much the same.  This isn't true for stone buildings, especially if they are not in constant use.  Stone takes a great deal of energy to heat.  Unless stone buildings are heated frequently, the stone remains cooler, making the inhabitants feel less warm than the thermostat setting would suggest.
+In a modern, well-insulated building, the air will warm up the building materials so that the air temperature and the surface temperatures will be much the same.  This isn't true for stone buildings, especially if they are not in constant use.  Stone takes a great deal of energy to heat.  Unless stone buildings are heated frequently, the stone remains cool, making the inhabitants feel less warm than the thermostat setting would suggest.
 
 
 ``` {sidebar} Thermal Mass
@@ -9,15 +9,11 @@ Thermal mass is the ability of a material to absorb, store and release heat.  De
 
 :TODO:  what picture
 
-Thermal mass can work to a building's advantage.  In places where night is much cooler than daytime, it helps keep a building a steady temperature because the building can heat up the sun during the day.  The effects of a hot summer can last well into the autumn in stone buildings that are heavily exposed to the sun.  Because the mass smooths out the benefit of energy going it, it helps for buildings that need heating all the time. 
+Thermal mass can work to a building's advantage.  In places where night is much cooler than daytime, it helps keep a building a steady temperature because the building can heat up the sun during the day.  The effects of a hot summer can last well into the autumn in stone buildings that are heavily exposed to the sun.  Because the mass smooths out the benefit of energy going it, it helps for buildings that are occupied all the time. 
 
 
 ```
 
-:TODO:  next para might be ill-advised.  
-
-Victorian church buildings, even if they are used for something else now, are some of the hardest cases because even in an era of abundant coal, they usually weren't designed to be brought to what we would now consider a comfortable temperature.  Often the design was for more like 12-14C, or sometimes a constant low level of background heat that would just take the chill off the building.  Where better comfort was required, they often used internal stoves near the occupants, and for that reason had to be very well ventilated.  This is tricky to change (something we'll address in the next section) but makes them even harder to heat. - something we'll address in the next session. 
-
-:TODO:  argument about frequent heating making the building more comfortable for everyone - but you have to have the uses and the income from uses to match that.
+Victorian church buildings, even if they are used for something else now, are some of the hardest cases because even in an era of abundant coal, they usually weren't designed to be brought to what we would now consider a comfortable temperature.  Often the design was for more like 12-14C, or sometimes a constant low level of background heat that would just take the chill off the building.  Where better comfort was required, they might have used internal stoves near the occupants, and for that reason had to be very well ventilated.  This means it's important to think carefully about the heating and ventilation strategy for them.  
 
 

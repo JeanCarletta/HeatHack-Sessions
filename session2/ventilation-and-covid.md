@@ -3,6 +3,7 @@
 Covid has made ventilation an even trickier issue than it was before.  Public spaces need good ventilation where people are gathered to avoid spreading it, but the draughts make them uncomfortable - a double whammy.  Some building operators try to cope by whacking up the heating, especially if there are children's groups in - because nurseries and other formal childcare provision are required to send the children home if the space isn't at least 16C.  There simply isn't a good understanding in the community yet about how much ventilation is required and how to provide it in a way that minimises draughts.   
 
 :TODO: check Child Care Commission minimum applies to England.
+:TODO: there are some tips, like opening high level vents is a lot better than ones on the same level as the people - find them.
 
 ```{image} ../images/open-church-window.jpg
 :alt: open church window

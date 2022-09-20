@@ -34,4 +34,4 @@ your judgement.
 - Do not allow children to touch meters.
 
 <!-- :TODO: picture of clamp on monitor -->
-In some community buildings, it is possible to use clamp-on electricity monitors to view electricity use, and sometimes to save data for later analysis.  This is not possible in buildings with more powerful electricity supplies.  Modern smart meters are often a better option, especially if your supplier will let you view or download historical data.  **Do not fit clamp sensors if the cables are over fifty years old or if you believe they are not double insulated.**
+In some community buildings, it is possible to use clamp-on electricity monitors to view electricity use, and sometimes to save data for later analysis.  This is not possible in buildings with more powerful electricity supplies.  Modern smart meters are often a better option, especially if your supplier will let you view or download historical data.  **Do not fit clamp sensors if the cables are over fifty years old or if you believe they are not double insulated. Never open electricity supply cabinets.**

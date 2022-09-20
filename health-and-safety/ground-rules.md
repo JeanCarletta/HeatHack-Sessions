@@ -16,4 +16,4 @@ We have some basic rules that all groups must follow.
 :align: center
 ```
 -->
- If you want to hear about a *really* hazardous occupation, talk to someone who repairs Victorian church organs. There's a reason why we have these rules.  You should obey them even if you have a more modern building.
+ If you want to hear about a *really* hazardous occupation, talk to someone who repairs Victorian church organs. There's a reason why we have these rules.  You should obey them even if you have a more modern building.  You may need additional rules, depending on the state of the building and possibly also on who is in your group.  You will decide the rules in the first session.

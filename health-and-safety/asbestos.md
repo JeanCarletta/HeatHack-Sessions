@@ -52,7 +52,7 @@ Because you will need to look in some non-public areas of the building, we have 
 
 <!-- :TODO: get this formatted as an ersatz caption.  Only numbered figures can have captions?? -->
 
-Many forms of asbestos are safe until they are disturbed.  There is, however, a particularly dangerous form of asbestos previously used as insulation where even light disturbance will create fibres that you can breathe in.  This was sometimes used in our buildings, for instance, as lagging and insulation around boilers and pipework.  It can be hard to tell from other forms of insulation.  If you see anything that looks at all like these pictures, even if it is a different colour, do not enter the space until the property manager has confirmed it has been checked by a professional.
+Some forms of asbestos are safe until they are disturbed.  There is, however, a particularly dangerous form of asbestos previously used as insulation where even light disturbance will create fibres that you can breathe in.  This was sometimes used in our buildings, for instance, as lagging and insulation around boilers and pipework.  It can be hard to tell from other forms of insulation.  If you see anything that looks at all like these pictures, even if it is a different colour, do not enter the space until the property manager has confirmed it has been checked by a professional.
 
 
 ```{admonition} Further reading
