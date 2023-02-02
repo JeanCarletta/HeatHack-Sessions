@@ -5,7 +5,7 @@
 - What RH is; inverse relationship between relative humidity and temperature when heating goes on
 - comfortable range for RH
 - even a warmish draught feels cold
-- temperature variation is really annoying because then you have to continually adjust
+- temperature variation is really annoying because then you have to continually adjust - the usual recommendation is to hold a temperature within a 2C band, which means using a digital thermostat as analogue ones are less accurate.
 
 Further reading:
 

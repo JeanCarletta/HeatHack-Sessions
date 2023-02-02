@@ -31,14 +31,21 @@ chapters:
     - file: thermal-comfort/surrounding-surfaces
     - file: thermal-comfort/other-factors
     - file: thermal-comfort/pulling-it-together
-        
+
+- file: heating-strategies
+  sections:
+    - file: heating-strategies/hybrid-heating
+
 - file: avoiding-damp/avoiding-damp
   sections:
     - file: avoiding-damp/main-causes-of-damp
     - file: avoiding-damp/do-buildings-need-heating
-       
+ 
 
-# - file: session1/heating-strategies
+- file: working-with-data
+  
+- file: church-resources
+
 #   sections:
 #     - file: session1/conduction-and-convection
 #     - file: session1/space-heating

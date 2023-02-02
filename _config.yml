@@ -7,7 +7,7 @@ logo: ./images/heat_hack_logo1.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
-execute:
+#execute:
   #execute_notebooks: force ## disable this until we want to make them work - pathing is relative and doesn't work for overall build just now.
 
 parse:

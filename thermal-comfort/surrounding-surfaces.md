@@ -30,6 +30,8 @@ We're all familiar with what heat radiating from the sun feels like, but most of
 
 The average temperature of surrounding surfaces is called the *mean radiant temperature*.  In comfort assessments, it is just as important as the air temperature.    Very cold surfaces, like single-glazed windows in winter, can be very noticeable. 
 
+
+
 ::::{grid} 1 1 1 2
 :outline:
 :gutter: 2
