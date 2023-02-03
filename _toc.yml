@@ -43,6 +43,9 @@ chapters:
  
 
 - file: working-with-data
+  sections:
+    - file: working-with-data/basics
+    - file: working-with-data/thermostatic-control
   
 - file: church-resources
 

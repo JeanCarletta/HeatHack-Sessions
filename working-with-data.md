@@ -4,16 +4,11 @@ It won't be obvious at first sight, but it's possible to tell a fair bit about t
 
 :TODO: write from this sketch 
 
-Basic observation 
-
-- heating for timed events is like a sawtooth curve. 
-- how hard it is to get a degree up depends on the building and how different the internal temperature is from the external temperature - the bigger the difference, the harder it is to get the next degree, because the building leaks heat faster (it's like pressure, leaky hose analogy)
-- some other things also make the building leak faster (like wind) or add energy to the building from other sources (like sun)
 
 Look for:
 
-- how long does it take the heating to bring the space to temperature in "average" weather?  What does that mean for what people should be allowed to do themselves to the heating? (often there's an override they can use at will and they'll turn it on and leave 15 minutes later, with the first observable effect an hour later)
-- how long does the heat hold - can it go off early, like in theatres?  
+- how long does it take the heating to bring the space to temperature in "average" weather?  (Important:  you can't tell when the boiler comes on from the plot - with modern pipework and radiator, it doesn't take long to start seeing a room temperature rise, but with Victorian pipework and the wrong size pump or too few radiators it coudl be hours)  What does that mean for what people should be allowed to do themselves to the heating? (often there's an override they can use at will and they'll turn it on and leave 15 minutes later, with the first observable effect an hour later)
+- how long does the heat hold - can it go off early, like in theatres?  (But if people walk there, and sit down for an hour in a relatively cold space, they'll think it's getting colder even though it isn't - and keep in mind old cast iron radiators make it feel warmer for longer than modern ones)
 - is there anything that looks different from the normal sawtooth
     - portable fan convectors - faster rise
     - open windows and doors - curve literally blows away
