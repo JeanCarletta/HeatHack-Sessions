@@ -38,7 +38,7 @@ The average temperature of surrounding surfaces is called the *mean radiant temp
 
 :::{grid-item} 
 
-Mean radiant temperature is measured by putting a temperature sensor inside a matte black globe because that absorbs radiation instead of reflecting it and then checking how the sensor reads when the surface temperatures are known.  Black globe thermometers are very specialised and expensive as a result.  When engineers build their own, they usually use a ping pong ball or copper toilet float painted black.  
+Mean radiant temperature is measured by putting a temperature sensor inside a matte black globe because that absorbs radiation instead of reflecting it and then checking how the sensor reads when the surface temperatures are known.  Black globe thermometers are very specialised and expensive even though it's possible to make a basic one by putting a temperature sensor in a ping pong ball or copper toilet float painted black.  In a modern, well-insulated building that is frequently heated, the surrounding surfaces will be the same temperature as the indoor air, making an air temperature reading good enough to judge both.  In a building that doesn't retain heat well and isn't heated all the time, the mean radiant temperature can be very different from the air temperature, especially if the building is made of something like stone that takes a lot of energy before it warms up.
 
 :::
 :::{grid-item}
