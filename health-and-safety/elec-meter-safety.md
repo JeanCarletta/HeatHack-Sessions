@@ -2,7 +2,7 @@
 
 <!-- taken from a clamp-on meter guide, so been past someone's legal. -->
 
-Although taking electricity meter readings is generally safe, you do need to be careful around them.  If they are badly maintained they could be dangerous to touch.
+Although taking electricity meter readings is generally safe, you do need to be careful around them.  If they are badly maintained they could be dangerous to touch.  Three phase supplies can give you a bigger shock than single phase ones and so require extra care.
 
 ```{admonition} Safety
 :class: important
@@ -33,5 +33,8 @@ your judgement.
 - If your meter is in a dark area, take a torch.
 - Do not allow children to touch meters.
 
+
 <!-- :TODO: picture of clamp on monitor -->
-In some community buildings, it is possible to use clamp-on electricity monitors to view electricity use, and sometimes to save data for later analysis.  This is not possible in buildings with more powerful electricity supplies.  Modern smart meters are often a better option, especially if your supplier will let you view or download historical data.  **Do not fit clamp sensors if the cables are over fifty years old or if you believe they are not double insulated. Never open electricity supply cabinets.**
+Some community group members will remember the clamp-on electricity monitors that utility companies used to give out.  The would send live readings of how much electricity was being used to a display, along with the estimated costs.  **It is sometimes possible to use these meters in community buildings, but getting a smart meter is a much better option.**  For groups with serious need to monitor the electrics, another option is to get an electrician to wire a permanent system into the supply cabinet.  This is the only possible option for more powerful supplies and costs around £400.
+
+We can't advise on whether an old clamp-on monitor will work or be safe even though we know some groups have used them in the past.  If you intend to use one, please keep in mind that a domestic model might not be suitable for the electricity supply in your building.  You certainly should **not** use clamps in the meter is not well-maintained, if the cables are over 50 years old, if you believe the cables are not double-insulated, or if you would need to disturb the cables to have enough room for the clamps.  You absolutely must not open any electricity supply cabinets or disturb any trunking unless you are a qualified electrician who has been authorised by the community group's trustees to carry out work in the building.  

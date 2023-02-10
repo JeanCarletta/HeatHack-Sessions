@@ -9,7 +9,7 @@ Boiler rooms are required to be well-ventilated.  Sometimes community buildings 
 :align: center
 ```
 
-*(c) <a href="https://commons.wikimedia.org/wiki/User:Zunter">Santeri Viinamäki</a>>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons*
+*(c) <a href="https://commons.wikimedia.org/wiki/User:Zunter">Santeri Viinamäki</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>, via Wikimedia Commons*
 
 ```{admonition} Further reading
 - [NHS Choices: Carbon Monoxide poisoning](https://www.nhs.uk/conditions/carbon-monoxide-poisoning/)

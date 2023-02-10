@@ -1,6 +1,6 @@
 # Health and Safety 
 
-Engineers take health and safety very seriously, and we do too - we don't want anyone hurt during this programme. Before you start exploring your building to understand its heating and ventilation, we need you to consider what the risks are and how to minimise them.  Your group will need to agree some basic ground rules to keep everyone safe.  Y
+Engineers take health and safety very seriously, and we do too - we don't want anyone hurt during this programme. Before you start exploring your building to understand its heating and ventilation, we need you to consider what the risks are and how to minimise them.  Your group will need to agree some basic ground rules to keep everyone safe.  
 
 
 ```{image} https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Schutzhelm.jpg/640px-Schutzhelm.jpg
