@@ -10,7 +10,7 @@ chapters:
     - file: front-matter/motivation
     - file: front-matter/why-engineering
     - file: front-matter/learning
-    - file: front-matter/group-sessions
+   # - file: front-matter/group-sessions
     - file: front-matter/what-we-provide
     - file: front-matter/about
 
@@ -40,6 +40,17 @@ chapters:
   sections:
     - file: avoiding-damp/main-causes-of-damp
     - file: avoiding-damp/do-buildings-need-heating
+
+- file: heating-controls
+  sections:
+    - file: heating-controls/classic-heating-controls
+    - file: heating-controls/recent-energy-efficiency-requirements
+    - file: heating-controls/common-problems-with-classic-controls
+    - file: heating-controls/desirable-characteristics
+   # - file: heating-controls/some-recent-controls
+
+
+
  
 
 - file: working-with-data

@@ -16,4 +16,9 @@ Now that energy is expensive and we understand that we need to move to net zero 
 
 This programme is designed to help you understand energy use in your premises and what net zero means for you.  We hope you find the programme useful in your journey, and that together we can build a better future for all of us. 
 
+This set of reading materials is just one of the resources for the programme.  There is a list of the others on our main website.  We do not currently provide explanations of the actions you might like to take in your planning, but these are given in the website that accompanies the "card game" in session 2.  If you need things that we aren't providing, please tell us!
+
+- [HeatHack - main website](https://heathack.org/materials)
+- [HeatHack - possible actions for groups to take](https://jeancarletta.github.io/HeatHack-Card-Game/intro.html)
+
 
