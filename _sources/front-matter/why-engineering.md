@@ -32,7 +32,9 @@ This programme is unusual for ones run in community groups, because it introduce
 ::::
 *Images licensed under Creative Commons <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC BY-ND 2.0</a>.*
 
-You should come away from the programme with a new appreciation of engineering and, we hope, able to think a little bit like engineers do.  
+Because you will be working with an engineer on problems that matter to you, we think you will come away from the programme with a new appreciation of engineering and, we hope, able to think a little bit like engineers do.  
+
+Community groups often look around for a volunteer with special skills in finance, fundraising, IT, and child protection.  We think that whenever a community group with a building plans change, they should look around for an engineer, too.  
 
 
 

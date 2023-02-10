@@ -272,11 +272,43 @@ const thebe_selector_output = ".output, .cell_output"
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../working-with-data.html">
-   What to look for in temperature data
+  <a class="reference internal" href="../heating-controls.html">
+   Heating controls for “wet” systems
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/>
   <label for="toctree-checkbox-7">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/classic-heating-controls.html">
+     Common Heating Controls
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/recent-energy-efficiency-requirements.html">
+     Modern energy efficiency requirements
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/common-problems-with-classic-controls.html">
+     Typical control problems in our buildings
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/desirable-characteristics.html">
+     Desirable properties for controls in community buildings
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../working-with-data.html">
+   What to look for in temperature data
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
+  <label for="toctree-checkbox-8">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -288,7 +320,7 @@ const thebe_selector_output = ".output, .cell_output"
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="../working-with-data/thermostatic-control.html">
-     Thermostatic control
+     Checking thermostatic control
     </a>
    </li>
   </ul>
@@ -466,7 +498,7 @@ Radiation in buildings</div>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 sd-border-1 docutils">
 <div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-1 sd-row-cols-md-1 sd-row-cols-lg-2 sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
 <div class="sd-col sd-d-flex-column docutils">
-<p>Mean radiant temperature is measured by putting a temperature sensor inside a matte black globe because that absorbs radiation instead of reflecting it and then checking how the sensor reads when the surface temperatures are known.  Black globe thermometers are very specialised and expensive as a result.  When engineers build their own, they usually use a ping pong ball or copper toilet float painted black.</p>
+<p>Mean radiant temperature is measured by putting a temperature sensor inside a matte black globe because that absorbs radiation instead of reflecting it and then checking how the sensor reads when the surface temperatures are known.  Black globe thermometers are very specialised and expensive even though it’s possible to make a basic one by putting a temperature sensor in a ping pong ball or copper toilet float painted black.  In a modern, well-insulated building that is frequently heated, the surrounding surfaces will be the same temperature as the indoor air, making an air temperature reading good enough to judge both.  In a building that doesn’t retain heat well and isn’t heated all the time, the mean radiant temperature can be very different from the air temperature, especially if the building is made of something like stone that takes a lot of energy before it warms up.</p>
 </div>
 <div class="sd-col sd-d-flex-column docutils">
 <figure class="align-center">
@@ -501,7 +533,7 @@ Radiation in buildings</div>
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./thermal-comfort"
         },
         predefinedOutput: true

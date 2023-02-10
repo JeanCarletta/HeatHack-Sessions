@@ -16,7 +16,7 @@ If you smell gas:
 :align: center
 ```
 
-Gas meters are especially dangerous, and for this reason storage in gas meter cupboards or rooms is not allowed. There must be a large air gap between any electrical devices and the meter.  Sometimes technology enthusiasts attach devices to gas meters to take meter readings automatically.  This can be **dangerous**, and your supplier will let you know that they are very unhappy if they find out.  In particular, **never** plug a cable into a gas meter even if you recognise the connector and have a cable with one that fits.  If it ends up applying power to the meter, this could cause an explosion.  
+Gas meters are especially dangerous, and for this reason storage in gas meter cupboards or rooms is not allowed. There must be a large air gap between any electrical devices and the meter.  Sometimes technology enthusiasts attach devices to gas meters to take meter readings automatically.  This can be **dangerous**, and your supplier will let you know that they are very unhappy if they find out.  In particular, **never plug a cable into a gas meter** even if you recognise the connector and have a cable with a connector that fits.  If it ends up applying power to the meter, this could cause an explosion.  
 
 <!-- >:TODO: take advice about size of air gap.  Legislation doesn't say.  I believe working practice is >15cm.
 -->

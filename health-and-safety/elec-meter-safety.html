@@ -272,11 +272,43 @@ const thebe_selector_output = ".output, .cell_output"
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../working-with-data.html">
-   What to look for in temperature data
+  <a class="reference internal" href="../heating-controls.html">
+   Heating controls for “wet” systems
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/>
   <label for="toctree-checkbox-7">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/classic-heating-controls.html">
+     Common Heating Controls
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/recent-energy-efficiency-requirements.html">
+     Modern energy efficiency requirements
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/common-problems-with-classic-controls.html">
+     Typical control problems in our buildings
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/desirable-characteristics.html">
+     Desirable properties for controls in community buildings
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../working-with-data.html">
+   What to look for in temperature data
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
+  <label for="toctree-checkbox-8">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -288,7 +320,7 @@ const thebe_selector_output = ".output, .cell_output"
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="../working-with-data/thermostatic-control.html">
-     Thermostatic control
+     Checking thermostatic control
     </a>
    </li>
   </ul>
@@ -435,7 +467,7 @@ title="Print to PDF"
   <section id="electric-meter-safety">
 <h1>Electric meter safety<a class="headerlink" href="#electric-meter-safety" title="Permalink to this headline">#</a></h1>
 <!-- taken from a clamp-on meter guide, so been past someone's legal. -->
-<p>Although taking electricity meter readings is generally safe, you do need to be careful around them.  If they are badly maintained they could be dangerous to touch.</p>
+<p>Although taking electricity meter readings is generally safe, you do need to be careful around them.  If they are badly maintained they could be dangerous to touch.  Three phase supplies can give you a bigger shock than single phase ones and so require extra care.</p>
 <div class="important admonition">
 <p class="admonition-title">Safety</p>
 <p><strong>WARNING: Touching exposed electrical wires or components may result in electric shock, causing possible death or injury.</strong></p>
@@ -456,7 +488,8 @@ your judgement.</p></li>
 <li><p>Do not allow children to touch meters.</p></li>
 </ul>
 <!-- :TODO: picture of clamp on monitor -->
-<p>In some community buildings, it is possible to use clamp-on electricity monitors to view electricity use, and sometimes to save data for later analysis.  This is not possible in buildings with more powerful electricity supplies.  Modern smart meters are often a better option, especially if your supplier will let you view or download historical data.  <strong>Do not fit clamp sensors if the cables are over fifty years old or if you believe they are not double insulated. Never open electricity supply cabinets.</strong></p>
+<p>Some community group members will remember the clamp-on electricity monitors that utility companies used to give out.  The would send live readings of how much electricity was being used to a display, along with the estimated costs.  <strong>It is sometimes possible to use these meters in community buildings, but getting a smart meter is a much better option.</strong>  For groups with serious need to monitor the electrics, another option is to get an electrician to wire a permanent system into the supply cabinet.  This is the only possible option for more powerful supplies and costs around £400.</p>
+<p>We can’t advise on whether an old clamp-on monitor will work or be safe even though we know some groups have used them in the past.  If you intend to use one, please keep in mind that a domestic model might not be suitable for the electricity supply in your building.  You certainly should <strong>not</strong> use clamps in the meter is not well-maintained, if the cables are over 50 years old, if you believe the cables are not double-insulated, or if you would need to disturb the cables to have enough room for the clamps.  You absolutely must not open any electricity supply cabinets or disturb any trunking unless you are a qualified electrician who has been authorised by the community group’s trustees to carry out work in the building.</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -471,7 +504,7 @@ your judgement.</p></li>
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./health-and-safety"
         },
         predefinedOutput: true

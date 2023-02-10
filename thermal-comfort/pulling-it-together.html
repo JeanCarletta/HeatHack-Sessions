@@ -272,11 +272,43 @@ const thebe_selector_output = ".output, .cell_output"
   </ul>
  </li>
  <li class="toctree-l1 has-children">
-  <a class="reference internal" href="../working-with-data.html">
-   What to look for in temperature data
+  <a class="reference internal" href="../heating-controls.html">
+   Heating controls for “wet” systems
   </a>
   <input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/>
   <label for="toctree-checkbox-7">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/classic-heating-controls.html">
+     Common Heating Controls
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/recent-energy-efficiency-requirements.html">
+     Modern energy efficiency requirements
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/common-problems-with-classic-controls.html">
+     Typical control problems in our buildings
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/desirable-characteristics.html">
+     Desirable properties for controls in community buildings
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../working-with-data.html">
+   What to look for in temperature data
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
+  <label for="toctree-checkbox-8">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -288,7 +320,7 @@ const thebe_selector_output = ".output, .cell_output"
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="../working-with-data/thermostatic-control.html">
-     Thermostatic control
+     Checking thermostatic control
     </a>
    </li>
   </ul>
@@ -434,22 +466,22 @@ title="Print to PDF"
                 
   <section id="pulling-it-all-together">
 <h1>Pulling it all together<a class="headerlink" href="#pulling-it-all-together" title="Permalink to this headline">#</a></h1>
-<p>Scientists try to come up with numbers that reflect how comfortable people will be in terms of what percentage of people will be dissatisfied under which conditions.  That’s led to building standards that work well for some buildings.</p>
-<p>In our experience, community buildings almost always fall outside the range that the standards consider comfortable - and yet, people still use these spaces.  The standards don’t tell the whole story, especially for buildings made of traditional materials or with natural ventilation.</p>
-<p>There is ongoing research about how people adapt to conditions and how thermal comfort works in a wider range of buildings.  One interesting result is that people are good at adapting - but it’s easier for them if conditions don’t vary too much so they need to keep changing what to do.  People find temperature swings of more than around 2C very noticeable and uncomfortable.</p>
+<p>Scientists try to come up with numbers that reflect how comfortable people will be in terms of what percentage of people will be dissatisfied under which conditions.  That has led to building standards that work well for some buildings.</p>
+<p>Community buildings almost always fall outside the range that the standards consider comfortable - and yet, people still use these spaces.  The standards don’t tell the whole story, especially for buildings made of traditional materials or with natural ventilation, because they are based on research in modern buildings and in controlled environments.  It’s worth being aware of this in case you encounter any professionals who are more accustomed to modern buildings and controlled environments, as they make make design assumptions that are inappropriate for your circumstances.</p>
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/berkeley-tool.png"><img alt="an online tool for assessing thermal comfort against standards" class="bg-primary mb-1 align-center" src="../_images/berkeley-tool.png" style="width: 400px;" /></a>
 <p><em>Source: <a class="reference external" href="https://cbe-berkeley.gitbook.io/thermal-comfort-tool/documentation/en">Documentation for the CBE Thermal Comfort Tool</a></em></p>
-<!-->
-<div class="tip admonition">
-<p class="admonition-title">Behind the Research</p>
-<p>The original science behind thermal comfort assessment standards is based on putting six people at a time in a diving bell modified to control temperature, RH, and draughts, and asking them how they feel.</p>
-</div>
-<p>–&gt;</p>
+<!--
+```{admonition} Behind the Research
+:class: tip 
+
+The original science behind thermal comfort assessment standards is based on putting six people at a time in a diving bell modified to control temperature, RH, and draughts, and asking them how they feel.  
+```
+-->
 <div class="admonition-further-reading admonition">
 <p class="admonition-title">Further reading</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://cbe-berkeley.gitbook.io/thermal-comfort-tool/">CBE Thermal Comfort Tool, Tartarini, F., Schiavon, S., Cheung, T., Hoyt, T., 2020. CBE Thermal Comfort Tool : online tool for thermal comfort calculations and visualizations. SoftwareX 12, 100563.</a></p></li>
-<li><p>Fergus Nicol, Michael Humphreys, and Susan Roaf (2012) Adaptive Thermal Comfort: Principles and Practice.  Routledge.  ISBN 9780415691598.</p></li>
+<li><p><a class="reference external" href="https://www.buildingsandcities.org/insights/research-pathways/creating-adaptive-thermal-comfort.html">(For interest) - The link between adaptive thermal comfort research and the church</a></p></li>
 </ul>
 </div>
 </section>
@@ -466,7 +498,7 @@ title="Print to PDF"
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./thermal-comfort"
         },
         predefinedOutput: true
