@@ -34,6 +34,7 @@ chapters:
 
 - file: heating-strategies
   sections:
+    - file: heating-strategies/localised-heating
     - file: heating-strategies/hybrid-heating
 
 - file: avoiding-damp/avoiding-damp
@@ -43,7 +44,7 @@ chapters:
 
 - file: heating-controls
   sections:
-    - file: heating-controls/classic-heating-controls
+   # - file: heating-controls/classic-heating-controls
     - file: heating-controls/recent-energy-efficiency-requirements
     - file: heating-controls/common-problems-with-classic-controls
     - file: heating-controls/desirable-characteristics

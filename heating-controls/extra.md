@@ -1,4 +1,4 @@
-Our ideal end user control would have two buttons on the wall of every room controlling just that room.  The buttons would get users turn the heating up a bit or down a bit and would reset automatically when they leave.  This control doesn't exit.  Thinking about what you want building users and the heating operator to be able to do will help you assess the controls that are available.  There are new ones going on the market all the time, and some of them are much more configurable than the traditional ones. 
+
 
 
 # TO FIT IN
