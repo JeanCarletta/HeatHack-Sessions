@@ -25,7 +25,7 @@ This is a typical trace over a longer period.
 
 Each wave is one time when the heating comes on and goes off in the room.  
 
-We can't tell when the heating comes on from the plot.  In a room that isn't too draughty and has a well-maintained system with modern pipework and "finned" radiators, the air temperature will usually start to rise fairly quickly.   Old-fashioned column radiators are slower, as is fat pipework and anything where the pump is the wrong size. 
+We can't tell when the heating comes on from the plot.  In a room that isn't too draughty and has a well-designed and maintained system with modern pipework and "finned" radiators, the air temperature should start to rise fairly quickly.   Old-fashioned column radiators are slower, as is fat pipework and any system where the pump is the wrong size. 
 
 <!-- :TODO: write the sequence.   
 

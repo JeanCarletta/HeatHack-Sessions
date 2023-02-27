@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>What to look for in temperature data &#8212; HeatHack Reading Materials</title>
+    <title>What to look for in monitoring data &#8212; HeatHack Reading Materials</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -52,7 +52,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Basic observations" href="working-with-data/basics.html" />
+    <link rel="next" title="Temperature is not thermal comfort" href="working-with-data/temp-is-not-comfort.html" />
     <link rel="prev" title="Desirable properties for controls in community buildings" href="heating-controls/desirable-characteristics.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
@@ -287,6 +287,11 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
+    <a class="reference internal" href="heating-controls/classic-heating-controls.html">
+     Common Heating Controls
+    </a>
+   </li>
+   <li class="toctree-l2">
     <a class="reference internal" href="heating-controls/recent-energy-efficiency-requirements.html">
      Modern energy efficiency requirements
     </a>
@@ -305,7 +310,7 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1 current active has-children">
   <a class="current reference internal" href="#">
-   What to look for in temperature data
+   What to look for in monitoring data
   </a>
   <input checked="" class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
   <label for="toctree-checkbox-8">
@@ -314,18 +319,28 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
+    <a class="reference internal" href="working-with-data/temp-is-not-comfort.html">
+     Temperature is not thermal comfort
+    </a>
+   </li>
+   <li class="toctree-l2">
     <a class="reference internal" href="working-with-data/basics.html">
      Basic observations
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="working-with-data/setback-thermostat.html">
-     Setback thermostats
+    <a class="reference internal" href="working-with-data/thermostatic-control.html">
+     Observing thermostatic control
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="working-with-data/thermostatic-control.html">
-     Checking thermostatic control
+    <a class="reference internal" href="working-with-data/setback-thermostat.html">
+     Observing setback thermostat operation
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="working-with-data/testing-a-thermostat.html">
+     Testing a thermostat
     </a>
    </li>
   </ul>
@@ -457,7 +472,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>What to look for in temperature data</h1>
+                <h1>What to look for in monitoring data</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -469,42 +484,29 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="what-to-look-for-in-temperature-data">
-<h1>What to look for in temperature data<a class="headerlink" href="#what-to-look-for-in-temperature-data" title="Permalink to this headline">#</a></h1>
-<p>It won’t be obvious at first sight, but it’s possible to tell a fair bit about the heating system and whether it is serving the building and its users well just based on the temperature data from the monitors we supply.  Here are some of the things to look for.</p>
-<p>:TODO: write from this sketch</p>
-<p>Look for:</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="what-to-look-for-in-monitoring-data">
+<h1>What to look for in monitoring data<a class="headerlink" href="#what-to-look-for-in-monitoring-data" title="Permalink to this headline">#</a></h1>
+<p>It won’t be obvious at first sight, but it’s possible to tell a fair bit about the heating system and whether it is serving the building and its users well just based on the temperature and relative humidity data from the monitors we supply.  Here are some of the things to look for.</p>
+<div class="admonition-hint admonition">
+<p class="admonition-title">Hint</p>
+<p>The plots in this section are just images so you can’t use the controls to change what you see.  To try these techniques, use the data book.</p>
 <ul class="simple">
-<li><p>how long does it take the heating to bring the space to temperature in “average” weather?  (Important:  you can’t tell when the boiler comes on from the plot - with modern pipework and radiator, it doesn’t take long to start seeing a room temperature rise, but with Victorian pipework and the wrong size pump or too few radiators it coudl be hours)  What does that mean for what people should be allowed to do themselves to the heating? (often there’s an override they can use at will and they’ll turn it on and leave 15 minutes later, with the first observable effect an hour later)</p></li>
-<li><p>how long does the heat hold - can it go off early, like in theatres?  (But if people walk there, and sit down for an hour in a relatively cold space, they’ll think it’s getting colder even though it isn’t - and keep in mind old cast iron radiators make it feel warmer for longer than modern ones)</p></li>
-<li><p>is there anything that looks different from the normal sawtooth</p>
-<ul>
-<li><p>portable fan convectors - faster rise</p></li>
-<li><p>open windows and doors - curve literally blows away</p></li>
-<li><p>solar gain - varies in what it looks like but check against weather history</p></li>
+<li><p><a class="reference external" href="https://jeancarletta.github.io/HeatHack-Data/intro.html">HeatHack Data Book</a></p></li>
 </ul>
-</li>
-</ul>
-<p>:TODO: - list:</p>
+</div>
+<div class="admonition-work-in-progress admonition">
+<p class="admonition-title">Work in progress</p>
+<p>In the week of 27 Feb, we will add:</p>
 <ul class="simple">
-<li><p>minimum temperature - does it get so cold we should be worried?  Rule of thumb 7-8C in a church will guard against condensation indoors in the UK. If it’s getting very cold, think about whether any frost arrangements are broken/whether there’s a risk to plumbing. Show plot of venue reaching 2C indoors plus an enforced setback temperature and what that looks like</p></li>
-<li><p>maximum temperature - does it get so warm from the heating system that we should be putting in some kind of limiter</p></li>
-<li><p>safe or legal temperature - does it match WHO expectations or Child Care Commission requirements for the type of user group (keeping in mind temperature isn’t really the whole story, but this is how WHO etc do define it). &gt;24 bad for heart conditions, suggested healthy temperature is 18 but higher for vulnerable…</p></li>
-<li><p>effective thermostat - holding within 1C for a period.  In low occupancy buildings where people are only in for a short time, easier to see on a setback temperature if one exists.  Look for variation over 2C as that will make people uncomfortable (often means an analogue thermostat, digital will hold better).  If there’s a good tight set but it appears to vary, consider that the thermostat (or the monitor) may be in a bad position (poor airflow in the corner, on an external wall, in the sun, over a radiator, …)</p></li>
-<li><p>“wrong-time” heating - take from the blog post; heat still coming up as people enter or ready too early - consider is it off by a set amount (tick clock drift, summer time correction), programmer error, varying by weather (setter isn’t judging well when to turn it on or there’s something wrong with the optimised start control/weather compensation isn’t working because external sensor is broken, …) - you can judge in theory how much of the heating is wasted to estimate payback for getting optimised start control but often it’s justifiable in down-skilling and saving volunteer or staff time</p></li>
-<li><p>right shape of curve, but heating at unexpected times</p>
-<ul>
-<li><p>look at the override options, are they appropriate?</p></li>
-<li><p>check the frost arrangements aren’t broken</p></li>
+<li><p>judging user experience</p></li>
+<li><p>knowing when to turn the heating on and off, and whether optimised start control would save energy</p></li>
+<li><p>knowing whether there are enough radiators/heating appliances or a circulation problem</p></li>
+<li><p>spotting portable heating</p></li>
+<li><p>spotting open windows and doors</p></li>
+<li><p>thinking about relative humidity</p></li>
 </ul>
-</li>
-<li><p>unexpectedly warm inside when cold outside</p>
-<ul>
-<li><p>check for overzealous frost arrangements (some places bring on the full boilers as if people were in)</p></li>
-</ul>
-</li>
-</ul>
-<div class="toctree-wrapper compound">
+</div>
+<!-- - in circulation mention variable speed pumps? --><div class="toctree-wrapper compound">
 </div>
 </section>
 
@@ -542,10 +544,10 @@ title="Print to PDF"
             <p class="prev-next-title">Desirable properties for controls in community buildings</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="working-with-data/basics.html" title="next page">
+    <a class='right-next' id="next-link" href="working-with-data/temp-is-not-comfort.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Basic observations</p>
+        <p class="prev-next-title">Temperature is not thermal comfort</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

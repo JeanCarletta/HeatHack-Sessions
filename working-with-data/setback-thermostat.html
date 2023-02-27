@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Setback thermostats &#8212; HeatHack Reading Materials</title>
+    <title>Observing setback thermostat operation &#8212; HeatHack Reading Materials</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -52,8 +52,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Checking thermostatic control" href="thermostatic-control.html" />
-    <link rel="prev" title="Basic observations" href="basics.html" />
+    <link rel="next" title="Testing a thermostat" href="testing-a-thermostat.html" />
+    <link rel="prev" title="Observing thermostatic control" href="thermostatic-control.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -287,6 +287,11 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul>
    <li class="toctree-l2">
+    <a class="reference internal" href="../heating-controls/classic-heating-controls.html">
+     Common Heating Controls
+    </a>
+   </li>
+   <li class="toctree-l2">
     <a class="reference internal" href="../heating-controls/recent-energy-efficiency-requirements.html">
      Modern energy efficiency requirements
     </a>
@@ -305,7 +310,7 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1 current active has-children">
   <a class="reference internal" href="../working-with-data.html">
-   What to look for in temperature data
+   What to look for in monitoring data
   </a>
   <input checked="" class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
   <label for="toctree-checkbox-8">
@@ -314,18 +319,28 @@ const thebe_selector_output = ".output, .cell_output"
   </label>
   <ul class="current">
    <li class="toctree-l2">
+    <a class="reference internal" href="temp-is-not-comfort.html">
+     Temperature is not thermal comfort
+    </a>
+   </li>
+   <li class="toctree-l2">
     <a class="reference internal" href="basics.html">
      Basic observations
     </a>
    </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="thermostatic-control.html">
+     Observing thermostatic control
+    </a>
+   </li>
    <li class="toctree-l2 current active">
     <a class="current reference internal" href="#">
-     Setback thermostats
+     Observing setback thermostat operation
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="thermostatic-control.html">
-     Checking thermostatic control
+    <a class="reference internal" href="testing-a-thermostat.html">
+     Testing a thermostat
     </a>
    </li>
   </ul>
@@ -457,7 +472,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Setback thermostats</h1>
+                <h1>Observing setback thermostat operation</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -469,21 +484,22 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="setback-thermostats">
-<h1>Setback thermostats<a class="headerlink" href="#setback-thermostats" title="Permalink to this headline">#</a></h1>
-<p>Some venues have a thermostat that enforces a <strong>setback</strong> temperature, or <strong>setpoint</strong>.  This is a minimum air temperature for a space.  If the space drops below the setback temperature, that will bring the heating on until it rises above the setback temperature even if there’s no other reason for the space to be heated.</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="observing-setback-thermostat-operation">
+<h1>Observing setback thermostat operation<a class="headerlink" href="#observing-setback-thermostat-operation" title="Permalink to this headline">#</a></h1>
+<p>Some venues have a thermostat that enforces a <strong>setback</strong> temperature, or <strong>setpoint</strong>.  This is a minimum air temperature for a space.  This could be done from the main thermostat, but it might be a second thermostat.  If it’s a second one, some people might refer to it as the “frost stat”.</p>
+<p>If the space drops below the setback temperature, that will bring the heating on until it rises above the setback temperature even if there’s no other reason for the space to be heated.</p>
 <p>A setback thermostat kicking in looks like this:</p>
 <img alt="plot showing oscillation between 5 and 6 degrees C over 4 days" class="bg-primary mb-1 align-center" src="../_images/setback.png" />
 <p>The temperature as shown on the thermal monitor doesn’t stay exactly the same at all times.  This is because</p>
 <ul class="simple">
-<li><p>the thermostat lets the actual temperature vary by a degree or two around the setpoint. Otherwise it would forever be turning on and off</p></li>
-<li><p>the thermal monitor isn’t in exactly the same place as the thermostat.</p></li>
+<li><p>the thermostat lets the actual temperature vary by a degree or two around the setpoint.</p></li>
+<li><p>the thermal monitor isn’t in exactly the same location as the thermostat.</p></li>
 </ul>
-<p>Even if the thermal monitor always matched the thermostat reading, it wouldn’t be possible to be certain the data shows setpoint operation - it could just be the weather outside happens to hold the temperature in the space exactly right.  However, flat lines are not typical in practice, at least for older or leakier buildings. Usually after being heated, the indoor temperature will keep dropping more and more slowly until it reaches a floor that varies slowly with the weather or the heating is turned on, whichever comes first.</p>
-<p>Enforcing a setback temperature can be important for preserving the building and contents in a building that isn’t heated very often, although it isn’t always needed.  It depends on what’s in the building, how well-ventilated the building is, and whether the way the building is operated makes low indoor temperatures unlikely.  Paintings (including frescos) can require relatively high temperatures, say 14C.  Stained glass will leach chemicals that degrade the colours if the temperature of the glass reaches dewpoint, when condensation will form; there appears to be a general rule of thumb that for a typical church in typical church use, 7-8C is safe.  There is some current discussion about whether with very good ventilation, lower would do - a strategy that works well with localised heating but not with space heating or frequent use.  It’s always best to discuss the requirements with your architect, and can also be worth asking how they’ve come to an answer!</p>
+<p>Even if the thermal monitor always matched the thermostat reading, it wouldn’t be possible to be certain the data shows setpoint operation - it could just be the weather outside happens to hold the temperature in the space exactly right.  However, flat lines are not typical in practice, at least for older or leakier buildings. Usually between heating sessions, the indoor temperature will keep dropping more and more slowly until it reaches a floor that varies slowly with the weather.</p>
+<p>Enforcing a setback temperature can be important for preserving the building and contents in a building that isn’t heated very often, although it isn’t always needed.  It depends on what’s in the building, how well-ventilated the building is, and whether the way the building is operated makes low indoor temperatures unlikely.  Paintings (including frescos) might require relatively high temperatures, say 14C.  Stained glass will leach chemicals that degrade the colours if the temperature of the glass reaches dewpoint, when condensation will form; there appears to be a general rule of thumb that for a typical church in typical church use, 7-8C is safe.  There is some current discussion about whether with very good ventilation in a building that has nothing special, lower would do - a strategy that works well with localised heating but not with space heating or frequent use.  It’s always best to discuss the requirements with your architect, and can also be worth asking how they’ve come to an answer!</p>
 <p>You can check how low the temperature goes in winter by focusing on a small enough region to see the highs and lows and then sliding the viewing window back and forth.</p>
 <img alt="plot showing indoor temperatures below 5C" class="bg-primary mb-1 align-center" src="../_images/very-low-temperature.png" />
-<p>In this example, the temperature goes low enough to need discussion! We recommend telling the group what the low temperature is like and asking whether they intend a minimum temperature in the space.  This of course works best for groups that were monitoring in cold weather, but you can get a rough sense of where the temperature might settle under different conditions and discuss whether a better look is needed later on.  Then in the record, you could note what you found and any comments about what of the building and its contents is likely to be delicate.</p>
+<p>In this example, the minimum temperature needs discussion! We recommend telling the group what the low temperature is and asking whether they intend a minimum temperature in the space.  This of course works best for groups that were monitoring in cold weather, but you can get a rough sense of where the temperature might settle under different conditions and discuss whether a better look is needed later on.  Then in your write-up, you could note what you found and whether anything about the building could be particularly delicate.</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -513,17 +529,17 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="basics.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="thermostatic-control.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Basic observations</p>
+            <p class="prev-next-title">Observing thermostatic control</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="thermostatic-control.html" title="next page">
+    <a class='right-next' id="next-link" href="testing-a-thermostat.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Checking thermostatic control</p>
+        <p class="prev-next-title">Testing a thermostat</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

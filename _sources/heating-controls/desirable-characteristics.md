@@ -2,7 +2,7 @@
 
 The building regulations specify control in terms of function, not format.  As long as a control system can achieve the properties and energy savings required in the regulations, they are allowed - otherwise the regulations would stifle the innovations we so badly need for improvement. 
 
-Our ideal end user control would have two buttons on the wall of every room controlling just that room.  The buttons would get users turn the heating up a bit or down a bit and would reset automatically when they leave.  This control doesn't exit.  Thinking about what you want building users and the heating operator to be able to do will help you assess the controls that are available.  There are new ones going on the market all the time, and some of them are much more configurable than the traditional ones. Here are some features to think about.
+Our ideal end user control would have two buttons on the wall of every room controlling just that room.  The buttons would get users turn the heating up a bit or down a bit and would reset automatically when they leave.  This control doesn't exist.  Thinking about what you want building users and the heating operator to be able to do will help you assess the controls that are available.  There are new ones going on the market all the time, and some of them are much more configurable than the traditional ones. Here are some features to think about.
 
 - **Wired vs. wireless.** Wired controls are more reliable because they don't rely on a radio and they never run out of battery.  The wiring is also by far the most expensive and disruptive part of getting new controls.
 
