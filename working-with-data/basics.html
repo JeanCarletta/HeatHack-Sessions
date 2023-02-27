@@ -52,7 +52,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Checking thermostatic control" href="thermostatic-control.html" />
+    <link rel="next" title="Setback thermostats" href="setback-thermostat.html" />
     <link rel="prev" title="What to look for in temperature data" href="../working-with-data.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
@@ -319,6 +319,11 @@ const thebe_selector_output = ".output, .cell_output"
     </a>
    </li>
    <li class="toctree-l2">
+    <a class="reference internal" href="setback-thermostat.html">
+     Setback thermostats
+    </a>
+   </li>
+   <li class="toctree-l2">
     <a class="reference internal" href="thermostatic-control.html">
      Checking thermostatic control
     </a>
@@ -467,12 +472,20 @@ title="Print to PDF"
   <section class="tex2jax_ignore mathjax_ignore" id="basic-observations">
 <h1>Basic observations<a class="headerlink" href="#basic-observations" title="Permalink to this headline">#</a></h1>
 <p>When you turn on space heating, the temperature inside the building won’t rise steadily.  It rises quickly at first, and then slower and slower.  This is because how hard it is to raise the building by a degree depends on how big the temperature difference is to outdoors.  The bigger the temperature difference, the faster heat gets transferred through the walls, windows, ceilings, and floors - the building envelope - to the outside world.</p>
-<p>This means that when the heating comes on, the temperature trace on the thermal monitor looks like a sawtooth.</p>
-<p>:TODO: picture venue 7 jan 14 9:41-19:25, left makes it obviously a saw tooth, right blown up and marked up for where each degree rise and fall intersects the heating curve, or if necessary use an idealised curve</p>
-<p>The “teeth” won’t look perfect or straight - the monitors are only accurate to within a degree C and there are lots of things that affect what happens, like the external weather (wind and sun as well as temperature), what the building occupants are doing, and how the heating controls work.</p>
+<p>This means that when the heating comes on, the temperature trace on the thermal monitor looks like a wave, at least if no thermostat operates.</p>
+<img alt="plot showing a heating session that looks like a wave" class="bg-primary mb-1 align-center" src="../_images/wave.png" />
+<p>The waves won’t look perfect or straight - the monitors are only accurate to within a degree C and there are lots of things that affect what happens, like the external weather (wind and sun as well as temperature), what the building occupants are doing, and how the heating controls work.</p>
 <p>This is a typical trace over a longer period.</p>
-<p>:TODO: screenshot, venue 7</p>
-</section>
+<img alt="plot showing heating &quot;waves&quot; over 4 days" class="bg-primary mb-1 align-center" src="../_images/typical.png" />
+<p>Each wave is one time when the heating comes on and goes off in the room.</p>
+<p>We can’t tell when the heating comes on from the plot.  In a room that isn’t too draughty and has a well-maintained system with modern pipework and “finned” radiators, the air temperature will usually start to rise fairly quickly.   Old-fashioned column radiators are slower, as is fat pipework and anything where the pump is the wrong size.</p>
+<!-- :TODO: write the sequence.   
+
+We also can't tell **why** the heating comes on, although sometimes we can guess.  If the temperature keeps dropping until it suddenly starts to rise again, that's probably the boiler coming on or a zone valve opening.  If the temperature goes flat at the bottom for a while and then starts to rise, then probably a thermostat was involved.  maybe somebody turned a thermostat up  in the room.
+
+:TODO: example of it keeping dropping until   Maybe it was time for the boiler to come on, or maybe somebody turned up a thermostat in the room.>
+
+--></section>
 
     <script type="text/x-thebe-config">
     {
@@ -508,10 +521,10 @@ title="Print to PDF"
             <p class="prev-next-title">What to look for in temperature data</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="thermostatic-control.html" title="next page">
+    <a class='right-next' id="next-link" href="setback-thermostat.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Checking thermostatic control</p>
+        <p class="prev-next-title">Setback thermostats</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

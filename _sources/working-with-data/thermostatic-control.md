@@ -1,5 +1,7 @@
 # Checking thermostatic control
 
+If the room reaches the temperature set on a thermostat, that cuts the top of the wave off.  A good thermostat will hold the temperature within a degree of the temperature that is set on it.  
+
 In many community buildings, even if there are thermostats, they may not be working.  It's common to find wired thermostats are no longer attached to the heating system.  Occasionally these are decoys left on purpose to give users the illusion of control, but usually they're just broken or from a previous system.  It's also common to find wireless thermostats where the batteries are flat or the radio doesn't reach the boiler because it has been moved.
 
 It takes time to check these things, so we usually look at the temperature data first for evidence either way.  Even if technically the thermostat is working, it may not be effective.   Wired thermostats especially are placed where they are easy to wire and are often in corners where the air doesn't move, mounted on cold external walls, or above radiators.  Thermostatic radiator valves are particularly poor judges of room temperature because they are mounted directly on a warm radiator. The thermal monitor location will likely yield data that is more representative of user experience.
