@@ -1,7 +1,5 @@
 # Common Heating Controls
 
-
-
 A wet heating system is just a big water heater and pump that circulates hot water around some pipework feeding the radiators.  Sometimes all the radiators are on the same set of pipework - the heating system has a single **zone** - and sometimes there are several independent zones.  
 
 

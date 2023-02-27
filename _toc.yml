@@ -42,19 +42,25 @@ chapters:
     - file: avoiding-damp/main-causes-of-damp
     - file: avoiding-damp/do-buildings-need-heating
 
+
 - file: heating-controls
   sections:
-   # - file: heating-controls/classic-heating-controls
+    - file: heating-controls/classic-heating-controls
     - file: heating-controls/recent-energy-efficiency-requirements
     - file: heating-controls/common-problems-with-classic-controls
     - file: heating-controls/desirable-characteristics
    # - file: heating-controls/some-recent-controls
-
+   
 - file: working-with-data
   sections:
+    - file: working-with-data/temp-is-not-comfort
     - file: working-with-data/basics
-    - file: working-with-data/setback-thermostat.md
     - file: working-with-data/thermostatic-control
+    - file: working-with-data/setback-thermostat
+    - file: working-with-data/testing-a-thermostat
+
+
+
   
 - file: church-resources
 

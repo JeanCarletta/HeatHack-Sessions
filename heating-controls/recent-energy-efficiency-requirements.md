@@ -15,6 +15,5 @@ More recent systems add further energy efficiency requirements that don't affect
 
 - [Heating Controls Card](https://jeancarletta.github.io/HeatHack-Card-Game/small-heating-changes/4-update-your-heating-controls.html)
 
-:TODO: put a link to this page from the card
+<!-- :TODO: put a link to this page from the card -->
 
-- also variable speed pumps?
