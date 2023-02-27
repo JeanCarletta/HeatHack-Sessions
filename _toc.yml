@@ -50,13 +50,10 @@ chapters:
     - file: heating-controls/desirable-characteristics
    # - file: heating-controls/some-recent-controls
 
-
-
- 
-
 - file: working-with-data
   sections:
     - file: working-with-data/basics
+    - file: working-with-data/setback-thermostat.md
     - file: working-with-data/thermostatic-control
   
 - file: church-resources
