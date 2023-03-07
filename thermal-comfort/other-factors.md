@@ -10,6 +10,9 @@ There are other factors besides air temperature and mean radiant temperature tha
 
 - **Clothing levels.** Up to a point, more layers of clothing and materials like wool that trap air will also make people comfortable at a lower temperature.  People are very adaptable to different circumstances, as long as the circumstances don't change too fast! It's a pain and socially awkward to have to keep taking clothes on and off.  One of the most important things you can do to make people comfortable is ensure consistent conditions so they know how much clothing to bring and don't have to keep changing it while they are in the venue.  One part of this is making sure your thermostat is the more accurate, digital type and in a good location that accurately reflects the room's air temperature.  
 
+Comfort isn't always straightforward to assess.  For instance, if people walk to a venue and then are inactive the entire time they are there, they will think the space is cooling when in reality the temperature is holding steady.  However, keeping in mind the full set of factors will help you think about what users experience.  
+
+
 
 ::::{grid} 1 1 1 2
 :outline:

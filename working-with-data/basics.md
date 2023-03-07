@@ -18,19 +18,12 @@ This is a typical trace over a longer period.
 
 
 ```{image} ../images/plot-screenshots/typical.png
-:alt: plot showing heating "waves" over 4 days
+:alt: plot showing heating "waves"
 :class: bg-primary mb-1
 :align: center
 ```
 
-Each wave is one time when the heating comes on and goes off in the room.  
+Each wave is one time when the heating comes on and goes off in the room.  The groups who use this space are likely to have very different opinions about whether it is comfortable!
 
 We can't tell when the heating comes on from the plot.  In a room that isn't too draughty and has a well-designed and maintained system with modern pipework and "finned" radiators, the air temperature should start to rise fairly quickly.   Old-fashioned column radiators are slower, as is fat pipework and any system where the pump is the wrong size. 
 
-<!-- :TODO: write the sequence.   
-
-We also can't tell **why** the heating comes on, although sometimes we can guess.  If the temperature keeps dropping until it suddenly starts to rise again, that's probably the boiler coming on or a zone valve opening.  If the temperature goes flat at the bottom for a while and then starts to rise, then probably a thermostat was involved.  maybe somebody turned a thermostat up  in the room.
-
-:TODO: example of it keeping dropping until   Maybe it was time for the boiler to come on, or maybe somebody turned up a thermostat in the room.>
-
--->

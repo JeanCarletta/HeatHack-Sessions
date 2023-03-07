@@ -1,6 +1,6 @@
 # Testing a thermostat
 
-Thermostatic radiator valves just cut the flow of hot water through a radiator, controlling the heating for the room they are in.  Thermostats on the wall in a community venue might do that, but they might turn the boiler off and on. This is a very common arrangement in housing because it's an easy way to satisfy the building regulations but it can be very confusing in community venues.  If users can change the thermostat setting, because it can mean users in other rooms get no heat.  
+Thermostatic radiator valves just cut the flow of hot water through a radiator, controlling the heating for the room they are in.  Thermostats on the wall in a community venue might do that, but they very often turn the boiler on and off or control the flow of water for every radiator on the same circuit  instead. This is a very common arrangement in housing because it's an easy way to satisfy the energy efficiency requirements in the building regulations.  It can be very confusing in community venues, because the behaviour of one group can affect the comfort of an entirely different group in another room.  For this reason, you want to know what your thermostat does.  
 
  Non-working thermostats are common:
 

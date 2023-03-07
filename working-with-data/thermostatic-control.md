@@ -12,13 +12,6 @@ If the room reaches the temperature set on a thermostat - either a room thermost
 The tip-off is that the heating curve "waves" haven't crested properly.  They look like it could manage to climb higher and the temperature is being held for hours.  A good thermostat will hold the temperature within a degree of the temperature that is set on it, and this is important because having a temperature that varies by more than around 2 degrees C makes people uncomfortable. In a venue that only heats spaces for an hour at a time, it can be difficult to tell.
 
 
-The thermostat temperature won't necessarily stay the same - it's very common for different groups to have different ideas about what's comfortable in a room!  The property manager will already have a good idea about whether they have any "thermostat wars" going on in the space, but you can sometimes spot them on the plots.  This one is more like a mild disagreement. 
-
-```{image} ../images/plot-screenshots/thermostat-disagreement.png
-:alt: plot showing a space where the thermostat setting keeps changing
-:align: center
-```
-
 
 
 
