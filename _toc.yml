@@ -56,13 +56,14 @@ chapters:
     - file: working-with-data/temp-is-not-comfort
     - file: working-with-data/basics
     - file: working-with-data/max-and-min
+    - file: working-with-data/portable-heaters
     - file: working-with-data/environmental-conditions
     - file: working-with-data/thermostatic-control
     - file: working-with-data/thermostat-wars
     - file: working-with-data/setback-thermostat
     - file: working-with-data/testing-a-thermostat
     - file: working-with-data/user-experience
-    - file: working-with-data/portable-heaters
+    - file: working-with-data/balance
     - file: working-with-data/rh
   
 - file: church-resources
