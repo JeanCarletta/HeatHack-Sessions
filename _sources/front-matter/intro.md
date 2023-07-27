@@ -26,14 +26,16 @@ All of these are valid reasons for taking part.
 :width: 200px
 :align: right
 ```
-
+:::
 ::::
 
-<!-- *Image by <a href="https://pixabay.com/users/peggy_marco-1553824/">Peggy und Marco Lachmann-Anke</a> from <a href="https://pixabay.com//">Pixabay</a>* -->
 
 The goal of the programme is to guide you through the process of making decisions about what to do with your buildings when and help you make an actionable plan.  The programme won't make anyone into a technical expert, but it will equip you with the right concepts and information to engage confidently with building professionals and get better outcomes for your community.  It will also help your community think about your situation and agree what should be done, an important outcome in itself.  This might include considering changes to how your buildings are used and for what, especially if your buildings are currently under-used.
 
 We hope you find the programme useful in your journey, and that together we can build a better future for all of us. 
+
+*Image by Peggy und Marco Lachmann-Anke from Pixabay* 
+
 <!--
 ../images/1199px-Gabal_El-Zayt_Wind_farm.png
 *(c) حُميد, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
