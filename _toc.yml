@@ -7,12 +7,16 @@ root: intro
 chapters:
 - file: front-matter/intro
   sections:
-    - file: front-matter/motivation
-    - file: front-matter/why-engineering
-    - file: front-matter/learning
-   # - file: front-matter/group-sessions
-    - file: front-matter/what-we-provide
     - file: front-matter/about
+    - file: front-matter/motivation
+    - file: front-matter/what-its-like
+    - file: front-matter/who-should-participate
+    - file: front-matter/why-engineering
+    - file: front-matter/find-an-engineer
+    # - file: front-matter/learning
+   # - file: front-matter/group-sessions
+    #- file: front-matter/what-we-provide
+
 
 - file: health-and-safety/intro
   sections:

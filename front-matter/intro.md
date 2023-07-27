@@ -1,24 +1,42 @@
  # Introduction
 
-Knowing how to manage energy use in community buildings and halls is difficult.  Many of us manage the most difficult buildings in our local areas, especially if they are churches or ex-church buildings.  We are, for the most part, volunteers who know our buildings well, but have no training that helps us understand how the energy systems in our buildings work and how to change them for the better.  Meanwhile, there are few professionals who spend enough of their working lives thinking about community buildings or older premises and able to provide us with confident advice.  This means sometimes we are told things that are more appropriate for modern construction, houses, offices, schools, and factories.  Even when the professionals have time to think deeply about our needs, sometimes the equipment then can buy is designed with very different buildings in mind.  It’s understandable, then, that we might not be getting the best service from the energy we put into our buildings. 
+Controlling energy use in community buildings and halls is difficult, but important both for the sake of the planet and to reduce the financial risks of an uncertain future.   
+This programme is designed to help you understand energy use in your premises as well as what can be done to reduce it and still serve the community well.   
+
+ 
+::::{grid} 
+:::{grid-item}
+:columns: 9
 
 
-```{image} ../images/greyfriars-charteris_1024x1024.jpg
-:alt: a former church, now run by charity
-:class: bg-primary mb-1
-:width: 400px
-:align: center
+This programme assumes your group wishes to consider changes to your premises with a view to reducing its energy use. 
+
+- For some groups, this desire will arise from a deeply felt ethical concern for the planet and its inhabitants.  
+- For others, it arises because of pressure from above, for instance, as organisations and governments make policies requiring net zero action plans.  
+- For still others, volatile and rising energy prices or dwindling income will be foremost in their minds.  
+
+All of these are valid reasons for taking part. 
+
+:::
+:::{grid-item}
+:columns: 3
+```{image} ../images/path-g9c5fe6cfd_1280.jpg
+:alt: 
+:class: mb-1
+:width: 200px
+:align: right
 ```
-*(c) <a href="https://www.geograph.org.uk/profile/120387">Richard Sutcliffe</a>, Creative Commons <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>*
 
+::::
 
-Now that energy is expensive and we understand that we need to move to net zero to reduce the harmful impacts of climate change, it is more important than ever not to waste energy.  Getting this right will help our buildings and the services provided within them continue to survive, and we hope, even to thrive.  
+<!-- *Image by <a href="https://pixabay.com/users/peggy_marco-1553824/">Peggy und Marco Lachmann-Anke</a> from <a href="https://pixabay.com//">Pixabay</a>* -->
 
-This programme is designed to help you understand energy use in your premises and what net zero means for you.  We hope you find the programme useful in your journey, and that together we can build a better future for all of us. 
+The goal of the programme is to guide you through the process of making decisions about what to do with your buildings when and help you make an actionable plan.  The programme won't make anyone into a technical expert, but it will equip you with the right concepts and information to engage confidently with building professionals and get better outcomes for your community.  It will also help your community think about your situation and agree what should be done, an important outcome in itself.  This might include considering changes to how your buildings are used and for what, especially if your buildings are currently under-used.
 
-This set of reading materials is just one of the resources for the programme.  There is a list of the others on our main website.  We do not currently provide explanations of the actions you might like to take in your planning, but these are given in the website that accompanies the "card game" in session 2.  If you need things that we aren't providing, please tell us!
-
-- [HeatHack - main website](https://heathack.org/materials)
-- [HeatHack - possible actions for groups to take](https://jeancarletta.github.io/HeatHack-Card-Game/intro.html)
+We hope you find the programme useful in your journey, and that together we can build a better future for all of us. 
+<!--
+../images/1199px-Gabal_El-Zayt_Wind_farm.png
+*(c) حُميد, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
+-->
 
 
