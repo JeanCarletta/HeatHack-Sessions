@@ -1,6 +1,6 @@
 # What the programme is like
 
-Our programme is for small groups - ideally around six people. The group will spend four two-hour sessions working together to understand their buildings and think about the future.  You should expect to hold your sessions one a week, fortnight, or month.
+Our programme is for small groups - ideally around six people. The programme is designed as four two-hour sessions working together to understand their buildings and think about the future, followed by a community engagement event about what you have done and what conclusions you drew.  You should expect to hold your four sessions one a week, fortnight, or month, but setting up the follow-on event might take longer.
 
 ::::{grid} 
 :::{grid-item}
@@ -31,7 +31,6 @@ Here are some of the questions you will think about during the sessions:
 
 The programme isn't like going to a normal meeting. Instead, it is made up a sequence of activities that introduce the concepts you will need to answer these questions.  The activities will help you come to agreement about what you want to achieve in the future and make a plan for what to do when.
 
-After the four small group sessions, you will also engage with the rest of your local community to share your thinking and get their insights, too.  This is best done through a community engagement event.  The fourth session gives the group time to plan for this.
 
 ```{admonition} Important
 

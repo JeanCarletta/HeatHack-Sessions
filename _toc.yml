@@ -10,12 +10,11 @@ chapters:
     - file: front-matter/about
     - file: front-matter/motivation
     - file: front-matter/what-its-like
+    - file: front-matter/four-sessions
     - file: front-matter/who-should-participate
     - file: front-matter/why-engineering
     - file: front-matter/find-an-engineer
-    # - file: front-matter/learning
-   # - file: front-matter/group-sessions
-    #- file: front-matter/what-we-provide
+    - file: front-matter/group-leadership
 
 
 - file: health-and-safety/intro
