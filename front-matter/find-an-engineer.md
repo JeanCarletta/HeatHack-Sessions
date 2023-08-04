@@ -18,11 +18,11 @@ We try to help groups find a volunteer engineer if they can't find their own, bu
 - by putting out a call for a volunteer on social media
 
 
-Engineers come in many varieties - they might spend most of their time thinking about mechanical designs, chemical processes, structures that will stand up well, or how to avoid flooding, for instance.  Only some of them know anything about energy use in buildings.  That doesn't matter for this programme.  It's the way they are taught to look at problems that is important.  These engineers often like having the chance to help their local community and think about a new kind of problem.  
+Engineers come in many varieties - they might spend most of their time thinking about mechanical designs, chemical processes, structures that will stand up well, or how to avoid flooding, for instance.  Only some of them know anything about energy use in buildings.  That doesn't matter for this programme.  It's the way they are taught to look at problems that is important.  These engineers often like having the chance to help their local community and think about a new kind of problem. 
 
-Some engineers already know about energy use in buildings from their work, and they volunteer, too.  They find the programme interesting and attractive because it allows them to interact with people in a completely different way than usual.  
+Some engineers already know about energy use in buildings from their work, and they volunteer, too.  They find the programme interesting and attractive because it allows them to interact with people in a completely different way than usual and understand what makes change difficult.
 
-Some employers will encourage the engineer to participate as part of their Corporate Social Responsibility programme.
+If an engineer is still in employment, their employer may encourage them to participate as part of their Corporate Social Responsibility programme. 
 
 
 :::

@@ -1,0 +1,1 @@
+# Temperature and relative humidity readings

@@ -10,12 +10,21 @@ chapters:
     - file: front-matter/about
     - file: front-matter/motivation
     - file: front-matter/what-its-like
+    - file: front-matter/costs
     - file: front-matter/four-sessions
     - file: front-matter/who-should-participate
     - file: front-matter/why-engineering
     - file: front-matter/find-an-engineer
     - file: front-matter/group-leadership
+    - file: front-matter/training
 
+- file: technical-data/intro
+  sections:
+    - file: technical-data/building
+    - file: technical-data/building-use
+    - file: technical-data/heating-system
+    - file: technical-data/meters
+    - file: technical-data/thermal
 
 - file: health-and-safety/intro
   sections:
@@ -31,11 +40,9 @@ chapters:
 
 - file: thermal-comfort/thermal-comfort
   sections:
-    - file: thermal-comfort/surrounding-surfaces
-    - file: thermal-comfort/other-factors
-    - file: thermal-comfort/pulling-it-together
+    - file: thermal-comfort/what-this-means-for-stone
 
-- file: heating-strategies
+- file: heating-strategies/intro
   sections:
     - file: heating-strategies/localised-heating
     - file: heating-strategies/hybrid-heating

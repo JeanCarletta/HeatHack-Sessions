@@ -1,7 +1,6 @@
  # Introduction
 
-Controlling energy use in community buildings and halls is difficult, but important both for the sake of the planet and to reduce the financial risks of an uncertain future.   
-This programme is designed to help you understand energy use in your premises as well as what can be done to reduce it and still serve the community well.   
+Controlling energy use in community buildings and halls is difficult, but important both for the sake of the planet and to reduce the financial risks of an uncertain future.   This programme is designed to help you understand energy use in your premises as well as what can be done to reduce it and still serve the community well.   
 
  
 ::::{grid} 

@@ -1,6 +1,6 @@
 # Strategies for heating a building
 
-Most community buildings use space heating to make their users comfortable, like in most houses.  They try to get all of the air contained without the building's envelope warm.  If the heating is on often enough this will also warm the building structure itself, at least if the building is well-insulated, draught-proofed and so on.  This of course in turn makes the occupant comfortable at a lower air temperature than if the surrounding surfaces were cold.
+Most community buildings use **space heating** to make their users comfortable, like in most houses.  They try to warm the air in the building and then keep it inside.  If the heating is on often enough this will also warm the building structure itself, at least if the building is well-insulated, draught-proofed and so on.  This of course in turn makes the occupant comfortable at a lower air temperature than if the surrounding surfaces were cold.  
 
 Modern radiators are an example of a space heating appliance.  Although they are called "radiators", they mainly heat a space by air moving over the surfaces and fins of the radiator - *convection* - rather than by radiation.  The warm air rises, then as it continues to move cools, eventually falling back down and getting pulled back past the radiator again, in a *convection cell*.  This pattern is why radiators are very often placed under windows - the rising warm air will counteract the natural down-draught from air cooling when it touches the window.  
 
