@@ -1,7 +1,7 @@
 # Welcome
 
 Welcome to the HeatHack programme for community building operators.  This is the "master guide" for participating venues.  It explains the programme and provides links to all publicly available materials for it.
-
+ 
 We are always learning from our venues and adding new things.  Please tell us what we should do.  
 
 ```{note}
