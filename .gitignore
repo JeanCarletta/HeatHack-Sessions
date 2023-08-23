@@ -158,6 +158,7 @@ cython_debug/
 _build/ 
 # space for notes about what's still to write, no need to share
 notes.txt
+jj-our-monitors
 
 .vscode
 .Rproj.user
