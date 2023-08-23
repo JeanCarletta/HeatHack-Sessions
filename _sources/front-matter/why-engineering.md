@@ -11,28 +11,28 @@ Community groups often look around for a volunteer with special skills in financ
 ```{image} ../images/engineers/engineer4.jpg 
 :class: mb-1
 ``` 
-(c) Openreach, from <a href="https://www.thisisengineering.org.uk/">This is Engineering</a>
+*(c) Openreach, from <a href="https://www.thisisengineering.org.uk/">This is Engineering</a>*
 :::
 :::{grid-item} 
 <!--  https://www.flickr.com/photos/thisisengineering/48986084313/ -->
 ```{image} ../images/engineers/engineer2.jpg 
 :class: mb-1
 ``` 
-(c) Chris Bull, from <a href="https://www.thisisengineering.org.uk/">This is Engineering</a>
+*(c) Chris Bull, from <a href="https://www.thisisengineering.org.uk/">This is Engineering</a>*
 :::
 :::{grid-item} 
 <!-- https://www.flickr.com/photos/thisisengineering/48677185267/ -->
 ```{image} ../images/engineers/engineer6.jpg 
 :class: mb-1
 ``` 
-(c) <a href="https://www.thisisengineering.org.uk/">This is Engineering</a>
+*(c) <a href="https://www.thisisengineering.org.uk/">This is Engineering</a>*
 :::
 :::{grid-item} 
 ```{image} ../images/engineers/engineer5.jpg 
 :class: mb-1
 ``` 
 <!-- https://www.flickr.com/photos/thisisengineering/48682523732/ -->
-(c) Arup, from <a href="https://www.thisisengineering.org.uk/">This is Engineering</a>
+*(c) Arup, from <a href="https://www.thisisengineering.org.uk/">This is Engineering</a>*
 :::
 ::::
 

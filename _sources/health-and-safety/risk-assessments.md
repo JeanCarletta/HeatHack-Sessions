@@ -1,28 +1,28 @@
 # Carrying out a risk assessment
 
-We ask you to carry out a brief risk assessment before starting the first part of the site survey.  There are two steps:  identifying the hazards you will encounter, and agreeing what to do about them.
 
-- [Google Docs - HeatHack Risk Assessment Template](https://docs.google.com/document/d/18-VTZqUYDFZ6Er9JdoRvrHmr-_a-wYpCiEndZP4H9D8/)
+
+
+::::{grid} 
+:::{grid-item}
+:columns: 4
 
 ```{image} risk-assessment-template.png
-:alt: risk assessment template
-:class: bg-primary mb-1
-:width: 400px
-:align: center
+:alt: 
+:class: mb-1
+:target: https://docs.google.com/document/d/18-VTZqUYDFZ6Er9JdoRvrHmr-_a-wYpCiEndZP4H9D8/
 ```
+:::
+:::{grid-item}
+:columns: 8
+Your engineer will lead you through a brief risk assessment before you carry out the first activity that might take you into non-public areas - the site survey.  During a risk assessment, you identify the hazards you may encounter and agree what to do about them to reduce the risks they present. We have put some common hazards into a simple risk assessment template based on one from the Health and Safety Executive.  You need to consider them, but also add any others you can think of.   
 
-We have put hazards we have encountered in the past into a simple risk assessment template for you to consider - you need to consider them, but also add any others you can think of. You should also agree how you will reduce or remove the risks.  If you have access to a projector, you can download the template ahead and fill it out where everyone can see.  
+:::
+::::
 
-
-
-
-<!-- :TODO: for PDF, QR code to get there? -->
-
- 
- <!-- :TODO: how long will this process take?? -->
+- [HeatHack Risk Assessment Template](https://docs.google.com/document/d/18-VTZqUYDFZ6Er9JdoRvrHmr-_a-wYpCiEndZP4H9D8/)
 
 ```{admonition} Further reading
-- [Managing risks and risk assessment at work](https://www.hse.gov.uk/simple-health-safety/risk/)
-<!-- - <a href=" https://www.thisisengineering.org.uk/">This is Engineering</a> -->
+- [Managing risks and risk assessment at work - advice from the HSE](https://www.hse.gov.uk/simple-health-safety/risk/)
 ```
  

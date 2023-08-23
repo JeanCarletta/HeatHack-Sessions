@@ -19,11 +19,12 @@ Since 2012, Surefoot has been helping communities, businesses and governments pu
 :::{grid-item}
 :padding: 2
 ```{image} ../images/surefoot-logo.png
-   :alt: Surefoot
-   :class: my-auto 
+   :alt: link to Surefoot Effect CIC
+   :class: mb-1
    :height: 165px
    :width: 252px 
    :align: right
+   :target: https://www.surefoot-effect.com/
 ```
 :::
 ::::
@@ -43,10 +44,11 @@ Engineers Without Borders UK is working to reach the tipping point to ensure a s
 :padding: 2
 ```{image} ../images/EwB-white-background.png
 :alt: Engineers without Borders UK
-:class:  my-auto
+:class: mb-1
 :height: 189px
 :width: 190px
 :align: right
+:target: https://www.ewb-uk.org/
 ```
 :::
 ::::
@@ -68,10 +70,11 @@ Harnessing the power of engineering and technology to build a sustainable societ
 :padding: 2
 ```{image} ../images/ingenious-logo-white-background.png
 :alt: Royal Academy of Engineering
-:class:  my-auto
+:class: mb-1
 :height: 96px
 :width: 553px
 :align: right
+:target: https://raeng.org.uk/ingenious
 ```
 :::
 ::::

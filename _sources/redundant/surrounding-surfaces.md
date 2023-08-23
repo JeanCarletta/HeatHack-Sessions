@@ -26,11 +26,9 @@ People are usually warmer than the surrounding surfaces, so heat transfers from 
 
 [comment]: # (This actually is the most platform independent comment)
 
-We're all familiar with what heat radiating from the sun feels like, but most of the time we're less aware that when we're surrounded by cooler surfaces, heat is radiating from us to them.  
+We're all familiar with what heat radiating from the sun feels like, but most of the time we're less aware that when we're surrounded by cooler surfaces, they take heat from us.  Very cold surfaces, like stone in buildings that aren't frequently heated or single-glazed windows, can be very noticeable. In formal comfort assessments, the average surrounding surface temperature is as important as the air temperature. It's just difficult to measure.
 
-The average temperature of surrounding surfaces is called the *mean radiant temperature*.  In comfort assessments, it is just as important as the air temperature.    Very cold surfaces, like single-glazed windows in winter, can be very noticeable. 
-
-
+<!--
 
 ::::{grid} 1 1 1 2
 :outline:
@@ -48,6 +46,8 @@ Mean radiant temperature is measured by putting a temperature sensor inside a ma
  ```
 :::
 ::::
+
+-->
 
 ```{admonition} Further reading
 

@@ -16,8 +16,6 @@ Each session has a different focus.
 ```{image} ../images/ashrae-thermal-comfort.png
 :alt: six elements of thermal comfort, namely, air temperature, radiant temperature, humidity, air speed, metabolic rate, and clothing level
 :class: mb-1
-:width: 300px
-:align: right
 ```
 *Source: [November 2018 LinkedIn post by SimulationHub, (88) Role of CFD in Evaluating Occupant Thermal Comfort](https://www.linkedin.com/pulse/role-cfd-evaluating-occupant-thermal-comfort-sandip-jadhav/)*
 :::
@@ -28,8 +26,6 @@ Each session has a different focus.
 ```{image} ../images/card-sorting-2-cropped-to-be-unidentifiable.jpg 
 :alt: 
 :class: mb-1
-:width: 200px
-:align: right
 ```
 :::
 
@@ -55,7 +51,6 @@ Each session has a different focus.
 ```{image} ../images/session3activity-thumb.png
 :alt: 
 :class: mb-1
-:width: 200px
 :align: right
 ```
 :::
@@ -65,7 +60,6 @@ Each session has a different focus.
 ```{image} ../images/group-work-2-768x793.jpg
 :alt: 
 :class: mb-1
-:width: 200px
 :align: right
 ```
 :::
