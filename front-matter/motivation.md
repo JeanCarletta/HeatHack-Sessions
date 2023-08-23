@@ -36,8 +36,6 @@
 
 
 
-
-
 ```{note} 
 
 This programme is not the place to debate whether climate change exists or whether human behaviour has the power to affect its course for good or ill.  

@@ -17,14 +17,7 @@ chapters:
     - file: front-matter/find-an-engineer
     - file: front-matter/group-leadership
     - file: front-matter/training
-
-- file: technical-data/intro
-  sections:
-    - file: technical-data/building
-    - file: technical-data/building-use
-    - file: technical-data/heating-system
-    - file: technical-data/meters
-    - file: technical-data/thermal
+    - file: front-matter/how-to-sign-up
 
 - file: health-and-safety/intro
   sections:
@@ -38,9 +31,22 @@ chapters:
    
     - file: health-and-safety/risk-assessments
 
-- file: thermal-comfort/thermal-comfort
+- file: technical-data/intro
   sections:
-    - file: thermal-comfort/what-this-means-for-stone
+    - file: technical-data/building
+    - file: technical-data/building-use
+    - file: technical-data/heating-system
+    - file: technical-data/meters
+    - file: technical-data/thermal
+      sections:
+      - file: thermal-data/where-to-put-monitor
+      - file: thermal-data/weather-data
+
+
+
+- file: thermal-comfort/thermal-comfort
+  #sections:
+  #  - file: thermal-comfort/what-this-means-for-stone
 
 - file: heating-strategies/intro
   sections:
@@ -77,6 +83,57 @@ chapters:
     - file: working-with-data/rh
   
 - file: church-resources
+
+- file: our-monitors
+  sections: 
+    - file: our-monitors/basics
+      sections: 
+        - file: our-monitors/basics/what-it-does
+        - file: our-monitors/basics/batteries
+        
+    - file: our-monitors/access-monitor
+      sections:
+        - file: our-monitors/access/find-wifi-settings
+        - file: our-monitors/access/turn-monitor-on
+        - file: our-monitors/access/connect-to-monitor
+        - file: our-monitors/access/load-interface
+
+    - file: our-monitors/setup-v3
+      sections:
+        - file: our-monitors/setup-v3/set-the-mode
+        - file: our-monitors/setup-v3/internet-mode
+          sections: 
+            - file: our-monitors/setup-v3/internet-mode/connect-to-building-wifi
+            - file: our-monitors/setup-v3/internet-mode/check-connection
+        - file: our-monitors/setup-v3/save-mode
+          sections:
+            - file: our-monitors/setup-v3/save-mode/setup-screen
+            - file: our-monitors/setup-v3/save-mode/finding-the-datafile
+            - file: our-monitors/setup-v3/save-mode/sending-us-the-data
+    - file: our-monitors/vs-1-and-2
+      sections:
+        - file: our-monitors/wifi-version
+          sections:
+            - file: our-monitors/wifi-sequence/connect-base-station
+            - file: our-monitors/wifi-sequence/heathackhub-network
+            - file: our-monitors/wifi-sequence/connect-to-hub
+            - file: our-monitors/wifi-sequence/use-hub-gui
+            - file: our-monitors/wifi-sequence/turn-on-sensor-unit
+            - file: our-monitors/wifi-sequence/check-connection
+
+        - file: our-monitors/no-wifi-version
+          sections: 
+            - file: our-monitors/no-wifi-sequence/step1
+            - file: our-monitors/no-wifi-sequence/step2
+            - file: our-monitors/no-wifi-sequence/step3
+            - file: our-monitors/no-wifi-sequence/step4
+            - file: our-monitors/no-wifi-sequence/step5
+            - file: our-monitors/no-wifi-sequence/bug-in-early-models
+        - file: our-monitors/conversion
+        - file: our-monitors/troubleshooting
+    - file: our-monitors/accessing-data
+    - file: our-monitors/using-two-monitors
+    - file: our-monitors/making-monitors
 
 #   sections:
 #     - file: session1/conduction-and-convection

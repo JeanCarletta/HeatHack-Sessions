@@ -38,7 +38,7 @@ The other things that matter are:
 
 ```{admonition} Top Comfort Tip
 
-One of the most important things you can do is ensure consistent, non-draughty conditions so they know how much clothing to bring and don't have to keep changing it while they are in the venue.  People are very adaptable as long as they can predict what they need to do.  This makes it very important to get your heating controls right.  There are so many issues with thermostats in community venues that we offer specific advice about them.
+One of the most important things you can do is ensure consistent, non-draughty conditions so your building's users know how much clothing to bring and don't have to keep changing it while they are in the venue.  People are very adaptable as long as they can predict what they need to do.  This makes it very important to get your heating controls right.  There are so many issues with thermostats in community venues that we offer specific advice about them.
 
 
 ```

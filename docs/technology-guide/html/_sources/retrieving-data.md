@@ -1,1 +1,0 @@
-# Retrieving data if there is no wifi
