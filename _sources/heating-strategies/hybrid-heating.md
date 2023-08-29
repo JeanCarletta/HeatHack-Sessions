@@ -1,5 +1,1 @@
 # Hybrid Strategies
-
-You don't need to make building occupants through just one method - sometimes it works well to combine them, for instance, by providing a very basic level of background space heating with localised heating to top-up the comfort. The localised heating could be intended for use whenever people are in, only for vulnerable groups, or only in very cold weather.  A hybrid strategy could be permanent, or it could be temporary as a part of staging works - for instance, sizing a heat pump too small for the building until heat loss mitigations are completed, but using the old gas boiler a little to top up meanwhile, It depends on the circumstances and what grants are available when.  We have to be pragmatic in our approach to making change.  
-
-- [Net Zero Carbon: Exploring Hybrid Heating Options (with Andrew MacOwan)](https://www.youtube.com/watch?v=WpwMTdOZeWI)

@@ -1,4 +1,4 @@
-# Thermal comfort
+# Heating for comfort
 
 We heat buildings mostly for the people who use them. That means it's very important to understand what makes people feel comfortable.
 
@@ -11,11 +11,11 @@ Because we're used to controlling heating with thermostats, air temperature is t
 The other things that matter are:
 
 
-- **Temperature of surrounding surfaces (mean radiant temperature).**  We’re all familiar with what heat radiating to us from the sun feels like, but most of the time we’re less aware that when we’re surrounded by cooler surfaces, heat is radiating from us to them. This is just as important to our comfort.   In an insulated modern building, the surfaces warm up quickly. Stone takes a lot of heating before it gets warm, but cools off slowly. 
+- **Temperature of surrounding surfaces (mean radiant temperature).**  We’re all familiar with what heat radiating to us from the sun feels like.  When we're surrounded by surfaces that are cooler than our body temperature, something similar happens - heat radiates from us to the surfaces, making us feel cooler.  
 
-- **Draughts.** Even a warm draught feels cold.  People vary in how much draughts degrade their comfort, but women tend to feel them more than men.  
+- **Draughts.** Even a warm draught feels cold.  Women tend to feel draughts more keenly than men do.  
 
-- **Relative humidity.** This is the amount of moisture the air has compared to the total amount of moisture it can hold, which varies with the temperature of the air.  The warmer the air is, the more moisture it can hold.  Relative humidity has a range from 0-100%.  When it reaches 100%, moisture falls out of the air.  Too wet or too dry are both uncomfortable, but practically for us, the thing to keep in mind is that if a cold building is also damp, it will make people even less comfortable.  
+- **Relative humidity.** This is the amount of moisture the air has compared to the total amount of moisture it can hold, which varies with the temperature of the air.  The warmer the air is, the more moisture it can hold.  Relative humidity has a range from 0-100%.  When it reaches 100%, moisture falls out of the air.  The damper a building is, the colder it will feel.
 
 - **How active the occupants are (metabolic rate).**  If people are running around, they will be comfortable at lower temperatures.  
 
@@ -45,5 +45,5 @@ One of the most important things you can do is ensure consistent, non-draughty c
 
 
 
-[comment]: # (:TODO: link to how to check whether your thermostat is working; how to choose a thermostat)
+[comment]: # (:TODO:  GET THIS AND HEAT THE AIR SECTION TOGETHER; link to how to check whether your thermostat is working; how to choose a thermostat)
 
