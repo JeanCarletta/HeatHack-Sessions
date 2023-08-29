@@ -152,13 +152,11 @@ cython_debug/
 #.idea/
 
 # stuff just for us
-## book build - when the repo is public, we can use ghp-import for this, and it looks like the
-## usual practice meanwhile is a manual build to a docs folder.  Makefile will do the buid to
-##docs on Linux at least.
+## local book build 
 _build/ 
 # space for notes about what's still to write, no need to share
 notes.txt
-jj-our-monitors
+
 
 .vscode
 .Rproj.user

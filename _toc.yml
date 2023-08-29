@@ -45,18 +45,32 @@ chapters:
 
 
 - file: thermal-comfort/thermal-comfort
-  #sections:
-  #  - file: thermal-comfort/what-this-means-for-stone
-
-- file: heating-strategies/intro
   sections:
-    - file: heating-strategies/localised-heating
-    - file: heating-strategies/hybrid-heating
+    - file: thermal-comfort/heat-air-or-people
+    - file: thermal-comfort/what-does-ours-do
+      sections: 
+      - file: thermal-comfort/radiators
+      - file: thermal-comfort/convectors
+      - file: thermal-comfort/under-floor
+      - file: thermal-comfort/radiant-heating
+      - file: thermal-comfort/heated-seating
+    
+    - file: thermal-comfort/hybrid-heating
 
-- file: avoiding-damp/avoiding-damp
+
+- file: heating-for-the-building/intro.md
   sections:
-    - file: avoiding-damp/main-causes-of-damp
-    - file: avoiding-damp/do-buildings-need-heating
+    - file: heating-for-the-building/avoiding-damp
+    - file: heating-for-the-building/pipe-organs
+    - file: heating-for-the-building/frost-protection
+    - file: heating-for-the-building/enforce-minimum-temperature
+- file: checking-space-heating/intro.md
+  sections:
+    - file: checking-space-heating/room-temperature
+    - file: checking-space-heating/do-we-have-enough-heating
+    - file: checking-space-heating/other-problems
+
+
 
 
 - file: heating-controls
@@ -80,7 +94,6 @@ chapters:
     - file: working-with-data/testing-a-thermostat
     - file: working-with-data/user-experience
     - file: working-with-data/balance
-    - file: working-with-data/rh
   
 - file: church-resources
 
