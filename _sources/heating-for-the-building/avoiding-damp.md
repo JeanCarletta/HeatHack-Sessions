@@ -22,4 +22,4 @@ In traditional buildings, also:
  If your building is damp, dehumidifiers will dry it out more cheaply than turning the heating on, and you can focus them just on the damp area.
 
 
-A building might not need heating at all for its own sake, but it will definitely need careful attention to ventilation so that it stays dry.
+A building might not need heating, but it will definitely need careful attention to ventilation so that it stays dry.
