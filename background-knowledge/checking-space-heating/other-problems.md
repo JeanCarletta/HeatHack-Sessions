@@ -6,7 +6,7 @@ Here are some other commonly found problems you could look for or ask your suppl
 
 :::{grid-item}
 :columns: 4
-```{image} ../images/heat-distribution/hidden-bleed-valve.jpg
+```{image} /images/heat-distribution/hidden-bleed-valve.jpg
 :alt: a bleed valve on a Victorian pipe loop under a church choir stall
 :class:  mb-1
 :align: center

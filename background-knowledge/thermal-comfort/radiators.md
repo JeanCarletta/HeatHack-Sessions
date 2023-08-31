@@ -14,7 +14,7 @@ If your radiators seem oddly small but are very near some seats, that's a clue t
 :::{grid-item-card} Panel radiator
 :columns: 6
 
-```{image} ../images/heating-appliances/modern-radiator.jpg
+```{image} /images/heating-appliances/modern-radiator.jpg
 :alt: 
 :class: mb-1
 ```
@@ -23,7 +23,7 @@ If your radiators seem oddly small but are very near some seats, that's a clue t
 :::{grid-item-card} Column radiator
 :columns: 4
 
-```{image} ../images/heating-appliances/cast-iron-radiator.jpg
+```{image} /images/heating-appliances/cast-iron-radiator.jpg
 :alt: 
 :class: mb-1
 ```

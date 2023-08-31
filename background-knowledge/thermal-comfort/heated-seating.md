@@ -8,7 +8,7 @@ Heated seating is more common in churches than in other community venues.  It co
 :::{grid-item-card} Hot pipe
 :columns: 4
 
-```{image} ../images/heating-appliances/heated-seating-pipe-cropped.jpg
+```{image} /images/heating-appliances/heated-seating-pipe-cropped.jpg
 :alt: 
 :class: mb-1
 ```
@@ -17,7 +17,7 @@ Heated seating is more common in churches than in other community venues.  It co
 :::{grid-item-card} Electric radiator
 :columns: 4
 
-```{image} ../images/heating-appliances/electric-heated-seating-cropped.jpg
+```{image} /images/heating-appliances/electric-heated-seating-cropped.jpg
 :alt: 
 :class: mb-1
 ```
@@ -27,7 +27,7 @@ Heated seating is more common in churches than in other community venues.  It co
 :::{grid-item-card} Heated seat cushions
 :columns: 4
 
-```{image} ../images/heating-appliances/trier-pew-cushions.jpg
+```{image} /images/heating-appliances/trier-pew-cushions.jpg
 :alt: 
 :class: mb-1
 ```

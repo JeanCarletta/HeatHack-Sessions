@@ -25,7 +25,7 @@ The other things that matter are:
 :::
 :::{grid-item}
 :columns: 4
-```{image} ../images/ashrae-thermal-comfort.png
+```{image} /images/ashrae-thermal-comfort.png
 :alt: six elements of thermal comfort, namely, air temperature, radiant temperature, humidity, air speed, metabolic rate, and clothing level
 :class: mb-1
 ```

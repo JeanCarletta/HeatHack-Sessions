@@ -3,7 +3,7 @@
 Radiant or "infrared" heating mostly heats the people by making the surfaces that surround them warmer.   It might not look like you expect.  It doesn't all glow.  Most panels are mounted high up for safety and to give them wide angle coverage of the space that keeps the warmth from being blocked by furniture.  You are most likely to spot radiant heating in hospitals, where it is popular because it doesn't circulate dust.  In modern, smaller spaces, flat white ceiling panels are the most common form and they can be hard to spot. Radiant heating can also come as chandeliers or integrated with the lighting. 
 
 
-```{image} ../images/heating-appliances/Far_infrared_heater_by_Bilux-cropped.jpg
+```{image} /images/heating-appliances/Far_infrared_heater_by_Bilux-cropped.jpg
 :alt: one kind of infrared heater
 :class: mb-1
 :width: 400px

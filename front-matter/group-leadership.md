@@ -1,4 +1,4 @@
-# Choosing a group leader
+# Finding a group leader
 
 
 The engineer's role in the group is to guide you through the decisions that you need to make, looking after the technical side of the programme.  One member of your group will need to act as the group's leader, looking after the "people" side.  This means:

@@ -16,8 +16,10 @@ chapters:
     - file: front-matter/why-engineering
     - file: front-matter/find-an-engineer
     - file: front-matter/group-leadership
+    - file: front-matter/other-requirements
     - file: front-matter/training
     - file: front-matter/how-to-sign-up
+    - file: front-matter/contacting-us
 
 - file: health-and-safety/intro
   sections:
@@ -42,60 +44,62 @@ chapters:
       - file: thermal-data/where-to-put-monitor
       - file: thermal-data/weather-data
 
+- file: sessions/intro
+  sections: 
+    - file: sessions/what-happens-in-sessions 
+    - file: sessions/group-process
+    - file: sessions/session-schedules
+    - file: sessions/leader-role
+    - file: sessions/engineer-role
+    - file: sessions/keeping-your-group-safe
+    - file: sessions/documentation
+    # - file: sessions/activity-details/intro
+    #   sections:
+    #     - file: sessions/activity-details/building-orientation
+    #     - file: sessions/activity-details/risk-assessment
+    #     - file: sessions/activity-details/thermal-comfort-talk
+    #     - file: sessions/activity-details/site-survey
+    #     - file: sessions/activity-details/card-game
+    #     - file: sessions/activity-details/board-game
+    #     - file: sessions/activity-details/final-plans
 
 
-- file: thermal-comfort/thermal-comfort
+- file: background-knowledge/intro
   sections:
-    - file: thermal-comfort/heat-air-or-people
-    - file: thermal-comfort/what-does-ours-do
-      sections: 
-      - file: thermal-comfort/radiators
-      - file: thermal-comfort/convectors
-      - file: thermal-comfort/under-floor
-      - file: thermal-comfort/radiant-heating
-      - file: thermal-comfort/heated-seating
+    - file: background-knowledge/thermal-comfort/thermal-comfort
+      sections:
+        - file: background-knowledge/thermal-comfort/heat-air-or-people
+        - file: background-knowledge/thermal-comfort/what-does-ours-do
+          sections: 
+            - file: background-knowledge/thermal-comfort/radiators
+            - file: background-knowledge/thermal-comfort/convectors
+            - file: background-knowledge/thermal-comfort/under-floor
+            - file: background-knowledge/thermal-comfort/radiant-heating
+            - file: background-knowledge/thermal-comfort/heated-seating
     
-    - file: thermal-comfort/hybrid-heating
+        - file: background-knowledge/thermal-comfort/hybrid-heating
 
+    - file: background-knowledge/heating-for-the-building/intro.md
+      sections:
+        - file: background-knowledge/heating-for-the-building/avoiding-damp
+        - file: background-knowledge/heating-for-the-building/pipe-organs
+        - file: background-knowledge/heating-for-the-building/frost-protection
+        - file: background-knowledge/heating-for-the-building/enforce-minimum-temperature
+    - file: background-knowledge/checking-space-heating/intro.md
+      sections:
+        - file: background-knowledge/checking-space-heating/room-temperature
+        - file: background-knowledge/checking-space-heating/do-we-have-enough-heating
+        - file: background-knowledge/checking-space-heating/other-problems
 
-- file: heating-for-the-building/intro.md
-  sections:
-    - file: heating-for-the-building/avoiding-damp
-    - file: heating-for-the-building/pipe-organs
-    - file: heating-for-the-building/frost-protection
-    - file: heating-for-the-building/enforce-minimum-temperature
-- file: checking-space-heating/intro.md
-  sections:
-    - file: checking-space-heating/room-temperature
-    - file: checking-space-heating/do-we-have-enough-heating
-    - file: checking-space-heating/other-problems
+    - file: background-knowledge/heating-controls/intro
+      sections:
+        - file: background-knowledge/heating-controls/classic-heating-controls
+        - file: background-knowledge/heating-controls/common-problems-with-classic-controls
+        - file: background-knowledge/heating-controls/recent-energy-efficiency-requirements
+    
+        - file: background-knowledge/heating-controls/desirable-characteristics
+      # - file: heating-controls/some-recent-controls
 
-
-
-
-- file: heating-controls
-  sections:
-    - file: heating-controls/classic-heating-controls
-    - file: heating-controls/recent-energy-efficiency-requirements
-    - file: heating-controls/common-problems-with-classic-controls
-    - file: heating-controls/desirable-characteristics
-   # - file: heating-controls/some-recent-controls
-   
-- file: working-with-data
-  sections:
-    - file: working-with-data/temp-is-not-comfort
-    - file: working-with-data/basics
-    - file: working-with-data/max-and-min
-    - file: working-with-data/portable-heaters
-    - file: working-with-data/environmental-conditions
-    - file: working-with-data/thermostatic-control
-    - file: working-with-data/thermostat-wars
-    - file: working-with-data/setback-thermostat
-    - file: working-with-data/testing-a-thermostat
-    - file: working-with-data/user-experience
-    - file: working-with-data/balance
-  
-- file: church-resources
 
 - file: our-monitors
   sections: 
@@ -147,6 +151,22 @@ chapters:
     - file: our-monitors/accessing-data
     - file: our-monitors/using-two-monitors
     - file: our-monitors/making-monitors
+
+   
+- file: working-with-data
+  sections:
+    - file: working-with-data/temp-is-not-comfort
+    - file: working-with-data/basics
+    - file: working-with-data/max-and-min
+    - file: working-with-data/portable-heaters
+    - file: working-with-data/environmental-conditions
+    - file: working-with-data/thermostatic-control
+    - file: working-with-data/thermostat-wars
+    - file: working-with-data/setback-thermostat
+    - file: working-with-data/testing-a-thermostat
+    - file: working-with-data/user-experience
+    - file: working-with-data/balance
+  
 
 #   sections:
 #     - file: session1/conduction-and-convection
