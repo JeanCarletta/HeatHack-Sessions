@@ -34,6 +34,6 @@ The programme isn't like going to a normal meeting. Instead, it is made up a seq
 
 ```{admonition} Important
 
-All groups relying on the support we provide using our Royal Academy of Engineering funding must complete the programme by February 2024.  We will do our best to continue the programme afterwards. 
+All groups relying on the support we provide using our Royal Academy of Engineering funding must complete the programme by February 2024.  We expect to continue the programme afterwards but cannot guarantee the same level of support.
 
 ``````
