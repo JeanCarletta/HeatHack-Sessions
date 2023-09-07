@@ -28,11 +28,15 @@ The first thing you need to do is check which version of our monitor you have, v
 ::::
 
 
-````{admonition} Tip
+````{admonition} Funded programme
 :class: tip
 
 If you are part of our supported Royal Academy of Engineering programme, we will offer to send you a free monitor you can use to collect temperature and relative humidity data for your spaces. 
 If you have a version 1 or 2 monitor, and you have difficulty getting readings, get in touch as replacing it may give you better service.
+
+Once we send you a monitor, you can keep it even after you have completed the sessions.  We’d love you to monitor even during the summer, especially if you don’t have smart meters. We’ve found some of our worst energy wastes that way. We expect the monitors to continue working until at least July 2024. After that it’s possible we will have to charge a small annual fee for hosting the data.  If we have 40 groups with running monitors, the cost will be around £6.
+
+If you don’t want the monitor any more, that’s a different matter - we’re happy to have them back for other groups.
 
 ````
 
