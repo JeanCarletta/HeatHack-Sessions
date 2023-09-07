@@ -37,7 +37,7 @@ The required tools are a fine tipped soldering iron and soldering supplies, a sm
 
 The steps are:
 
-- flash the ESP12F with software.  This requires purchase of a matching "burner board".  The software will be open source but for now, contact us if you want to try this.
+- flash the ESP12F with software.  This requires purchase of a matching "burner board".  The software will be open source but for now, contact us if you want to try this.  Otherwise, please ask; we may be able to pre-flash an ESP12F and send it to you.
 
 - solder the wires onto the ESP12F.  The order of soldering joins is not particularly important on this build. You might want to test the ESP12F and battery connection are working before attaching the DHT22, but if you do, remember to turn off the device and remove the batteries before soldering in the DHT22. 
 

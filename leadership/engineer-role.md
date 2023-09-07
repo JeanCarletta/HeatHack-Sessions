@@ -2,7 +2,7 @@
 
 Many people really struggle with planning and with anything technical.  The role of the engineer is to keep the group safe, practical, reasoned, and focused, so that they stay on track to  make and document a viable plan.  
 
-It's also useful if engineers can  take on a little of the "social" work, for instance, keeping an eye on the time during the parts of the session they are not leading, writing down anything the group needs to all be able to see, and so on. 
+It's also useful if engineers can  take on a little of the "social" management, for instance, keeping an eye on the time during the parts of the session they are not leading, writing down anything the group needs to all be able to see, and so on. 
 
 
 

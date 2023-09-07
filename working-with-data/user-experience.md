@@ -1,4 +1,5 @@
-# Judging user experience
+(judging-user-comfort)=
+#  Judging user comfort and waste
 
 If you plot temperature data against when a space is occupied, you can get a sense of two things:  whether the users are likely to be comfortable, and how much of your current heating is wasted.
 

@@ -1,7 +1,20 @@
 # Who we are
 
- HeatHack is a group of community volunteers and students that has been helping churches and other community groups understand how to heat their buildings better.  We started in and around Edinburgh in Scotland.
-
+::::{grid} 
+:::{grid-item}
+:columns: 9
+ HeatHack is a group of community volunteers that helps churches and other community groups understand how to heat their buildings better.    We started in and around Edinburgh in Scotland with groups that were cold but had high gas bills.   We understand the things community groups find difficult because that's where we come from - we had to learn everything from scratch to do our work.  We have always combined a bit of technology for temperature monitoring with engineering and a lot of thinking about what people actually do when they are in buildings.   
+ :::
+:::{grid-item}
+:columns: 3
+```{image} /images/cartoon-of-me.png
+   :alt: 
+   :class: mb-1
+   :width: 252px 
+   :align: left
+```
+:::
+::::
 Our current programme has been developed and is being run in conjunction with The Surefoot Effect, a Community Interest Company.  
 
 <!-- :TODO: make image links go to their website -->
@@ -45,8 +58,7 @@ Engineers Without Borders UK is working to reach the tipping point to ensure a s
 ```{image} ../images/EwB-white-background.png
 :alt: Engineers without Borders UK
 :class: mb-1
-:height: 189px
-:width: 190px
+:width: 150px
 :align: right
 :target: https://www.ewb-uk.org/
 ```
@@ -80,6 +92,6 @@ Harnessing the power of engineering and technology to build a sustainable societ
 ::::
 
 
-HeatHack has previously been funded by the John Templeton Foundation via Scientists in Congregations Scotland, with small contributions from the University of Edinburgh Schools of Informatics and Engineering and the University of St Andrews School of Computer Science.  
+HeatHack has previously been funded by the John Templeton Foundation via Scientists in Congregations Scotland, with small contributions from the University of Edinburgh Schools of Informatics and Engineering and the University of St Andrews School of Computer Science and with the help of engineering, computer science, and design students.  The University of St Andrews Entrepreneurship programme is currently helping us think about how to sustain what we do financially.
 
 

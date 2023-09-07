@@ -5,7 +5,7 @@ Your organisation probably already thinks about health and safety in their publi
 ::::{grid} 
 :::{grid-item}
 :columns: 9
-- **Always work in pairs.** That way if anything were to happen, someone else would know immediately.
+- **Don't go alone.** If someone else goes with you, they can get help if anything goes wrong. 
 
  - **No ladders**.  Yes, we know many of you go up ladders all the time, but many of the ladders in community buildings aren't well maintained.  Also, it's very easy to break light fittings and windows with them.  Ladders aren't necessary for this programme and would slow you down.  When groups are tempted to go up ladders, it's usually to read the ratings on over-door heaters or see how many watts the lightbulbs are, check whether vents are blocked, or measure the height of the space.  There are almost always much safer ways to do these things. Think how else you can get the information - through user manuals maintenance and finance records, and meeting minutes, for instance.
 

@@ -30,8 +30,7 @@ chapters:
       - file: health-and-safety/elec-meter-safety
       - file: health-and-safety/gas-safety
       - file: health-and-safety/carbon-monoxide
-   
-    - file: health-and-safety/risk-assessments
+  
 
 - file: technical-data/intro
   sections:
@@ -44,24 +43,25 @@ chapters:
       - file: thermal-data/where-to-put-monitor
       - file: thermal-data/weather-data
 
-- file: sessions/intro
+- file: leadership/intro
   sections: 
-    - file: sessions/what-happens-in-sessions 
-    - file: sessions/group-process
-    - file: sessions/session-schedules
-    - file: sessions/leader-role
-    - file: sessions/engineer-role
-    - file: sessions/keeping-your-group-safe
-    - file: sessions/documentation
-    # - file: sessions/activity-details/intro
-    #   sections:
-    #     - file: sessions/activity-details/building-orientation
-    #     - file: sessions/activity-details/risk-assessment
-    #     - file: sessions/activity-details/thermal-comfort-talk
-    #     - file: sessions/activity-details/site-survey
-    #     - file: sessions/activity-details/card-game
-    #     - file: sessions/activity-details/board-game
-    #     - file: sessions/activity-details/final-plans
+    - file: leadership/group-process
+    - file: leadership/leader-role
+    - file: leadership/engineer-role
+    - file: leadership/keeping-your-group-safe
+    - file: leadership/documentation
+
+- file: sessions/intro # includes links to schedules
+  sections:
+    - file: sessions/small-activities
+    #    - file: sessions/building-orientation
+    - file: sessions/risk-assessment
+    - file: sessions/engineer-talks 
+    - file: sessions/case-studies
+    - file: sessions/site-survey
+    - file: sessions/card-game
+    - file: sessions/board-game
+    #     - file: sessions/final-plans
 
 
 - file: background-knowledge/intro
