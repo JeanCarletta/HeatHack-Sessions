@@ -81,10 +81,13 @@ chapters:
 
     - file: background-knowledge/heating-for-the-building/intro.md
       sections:
-        - file: background-knowledge/heating-for-the-building/avoiding-damp
-        - file: background-knowledge/heating-for-the-building/pipe-organs
-        - file: background-knowledge/heating-for-the-building/frost-protection
         - file: background-knowledge/heating-for-the-building/enforce-minimum-temperature
+        - file: background-knowledge/heating-for-the-building/frost-protection
+        - file: background-knowledge/heating-for-the-building/avoiding-damp
+        #- file: background-knowledge/heating-for-the-building/pipe-organs
+        
+        
+       
     - file: background-knowledge/checking-space-heating/intro.md
       sections:
         - file: background-knowledge/checking-space-heating/room-temperature

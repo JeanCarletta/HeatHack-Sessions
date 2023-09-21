@@ -1,10 +1,12 @@
-# For frost protection
+# To protect plumbing and heating systems
 
-Groups also sometimes turn the main heating on frm 1 to 3 a.m. to keep pipes as frost protection in cold weather.   If you don't have a better frost protection mechanism then you have to do something, but you'd be better off working out the right strategy for your premises.  
+If you're worried about the heating system, most modern boilers come with frost protection built in that will also provide some warmth to the heating pipes.  Check what your system does. 
 
-Pipe insulation for vulnerable pipes will help.  You can get small, low energy pipe heaters designed specifically for frost protection that would be more cost-effective than running the main heating.
+Older boilers might have a frost protection mode you can switch to manually, but that's so inconvenient that relying on it can be risky.  In this case you can use a frost stat in the boiler room or in the main space that brings on the heating system.  The problem is that it will bring the system on full as if warming the space for an event, which takes far more energy than is required.  If you can bring on just the pumps at the temperature where you think there's a risk of frost, moving water doesn't freeze as easily as still water.  That means you can bring on the actual heating at a lower temperature, reducing the amount you spend on gas to protect your system.   
 
-Most boilers come with frost protection built in to protect the heating system.  If you are using a frost stat in the boiler room or the main space, a good arrangement is to bring the heating system pumps on at a temperature that you consider a relatively low risk.  Moving water doesn't freeze as easily as still water, and pumps take less energy to run than boilers.  Then you can bring the heating on at a temperature where the risk is greater.
+If you're worried about any of the plumbing freezing, insulating the most vulnerable pipes and tanks will help.  If needed,you can get small, low energy pipe heaters designed specifically for frost protection that would be more cost-effective than running the main heating.
+
+<!-- show an example -->
 
 - [How does boiler frost protection work? From a boiler comparison site](https://www.boilerguide.co.uk/articles/frost-protection-heating)	
 - [Frost protection for churches - from the Church of England](https://www.churchofengland.org/sites/default/files/2021-01/CCB_frost_protection_COVID_guidance_issue1_January2021.pdf)	
