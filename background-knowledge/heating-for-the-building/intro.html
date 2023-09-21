@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../../_static/styles/theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
 
   
-  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=ac02cc09edc035673794" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -38,8 +38,9 @@
     <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794" />
+  <script src="../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=ac02cc09edc035673794"></script>
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
@@ -64,7 +65,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script>DOCUMENTATION_OPTIONS.pagename = 'background-knowledge/heating-for-the-building/intro';</script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Avoiding damp" href="avoiding-damp.html" />
+    <link rel="next" title="Enforcing a minimum temperature" href="enforce-minimum-temperature.html" />
     <link rel="prev" title="Planning for change" href="../thermal-comfort/hybrid-heating.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
@@ -76,6 +77,15 @@ const thebe_selector_output = ".output, .cell_output"
   
   
   <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
   
   <input type="checkbox"
           class="sidebar-toggle"
@@ -229,10 +239,9 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 </li>
 <li class="toctree-l2 current active has-children"><a class="current reference internal" href="#">Heating for the building</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-11"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l3"><a class="reference internal" href="avoiding-damp.html">Avoiding damp</a></li>
-<li class="toctree-l3"><a class="reference internal" href="pipe-organs.html">Pipe organs</a></li>
-<li class="toctree-l3"><a class="reference internal" href="frost-protection.html">For frost protection</a></li>
 <li class="toctree-l3"><a class="reference internal" href="enforce-minimum-temperature.html">Enforcing a minimum temperature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="frost-protection.html">To protect plumbing and heating systems</a></li>
+<li class="toctree-l3"><a class="reference internal" href="avoiding-damp.html">Avoiding damp</a></li>
 </ul>
 </li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../checking-space-heating/intro.html">Checking your space heating</a><input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-12"><i class="fa-solid fa-chevron-down"></i></label><ul>
@@ -428,10 +437,10 @@ const thebe_selector_output = ".output, .cell_output"
 
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script>
@@ -439,7 +448,7 @@ document.write(`
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
   </button>
 `);
 </script>
@@ -470,8 +479,21 @@ document.write(`
                   
   <section id="heating-for-the-building">
 <h1>Heating for the building<a class="headerlink" href="#heating-for-the-building" title="Permalink to this heading">#</a></h1>
-<p>Some community groups with buildings that are only lightly used turn on the heating for a little while every day because they’re worried that the building or its furnishings will deteriorate without it.  Sometimes some heating is necessary, but not always, and daily heating come what may isn’t the best approach.  To understand why not, we need to consider why the building might need heating.</p>
-<p>In reading our advice, keep in mind that your insurers may require you to enforce a minimum temperature in the building.</p>
+<p>Until recently, the conventional wisdom has been to choose a minimum temperature for the building based on its construction and its contents and avoid going below that temperature.  For modern buildings, the architect’s intended temperature might be specified on the architectural drawings but there could be a “better safe than sorry” element to this, especially if the drawing is from an era of cheap energy. For older buildings, the minimal requirement appears to be keeping the building at a high enough temperature to guarantee it will stay above dewpoint, to avoid condensation.  Under UK conditions sometimes the advice is to enforce 7-8C as a bare minimum for this reason.  What your building needs could be higher, depending on its construction and also what it contains.</p>
+<p>If your building is frequently occupied, the risk of it getting very cold is low.  For buildings in less use, your insurer may require you to enforce a minimum temperature in the building.  This is a very safe approach to preserving the building and its contents, it just may be more energy-intensive than is necessary.  For instance, many of our churches survived just fine without any heating for centuries.  Conservation experts are currently discussing this and some are issuing new advice not to worry about the minimum temperature, but to make sure the building is well-ventilated.</p>
+<p>You should discuss whether your venue enforces minimum temperatures and whether those minimum temperatures are appropriate, taking advice from your architect if required.</p>
+<div class="admonition-minimum-temperatures-and-stone-buildings admonition">
+<p class="admonition-title">Minimum temperatures and stone buildings</p>
+<p>For massive stone buildings that are heated for occasional events, there can be a benefit to enforcing a setback temperature:  thermal comfort.   Consider two ways of using the same amount of gas.  The first leaves the building cold most of the the time, whacking on the heating to bring up the air temperature when people will be in.  This is what most building operators do.  The second takes the same energy, but applies some of it to enforce a setback temperature that will make the walls warmer, and the rest to raise the air temperature when people are in, but more modestly.  The bigger the difference between the air temperature inside and outside the building, the faster the heat loss.  In the second case, the building will retain more of the heat, and could be as comfortable - because the internal surfaces are a bit warmer, and because it will have fewer draughts.  It will also be noticeably more comfortable for people who are in the building at odd times, and better for any delicate artefacts in the building, like organs, as they prefer gentle changes.</p>
+</div>
+<div class="admonition-pipe-organs admonition">
+<p class="admonition-title">Pipe organs</p>
+<p>Churches often think that pipe organs need warmth, but cold doesn’t bother them.   They don’t like fast temperature variations, and they can sound out of tune unless they are tuned at the same temperature that they are played.  They also care very much about being too dry, and somewhat about being too damp.  55-75% RH is the ideal range.</p>
+<p>Think about how to make your pipe organ happy, but this doesn’t necessarily mean running the heating.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.ibo.co.uk/publications/leaflets/churchHeating.pdf">Detailed advice about church heating and organs from the Institute of British Organ Building</a></p></li>
+</ul>
+</div>
 <div class="toctree-wrapper compound">
 </div>
 </section>
@@ -501,11 +523,10 @@ document.write(`
 
               
               
-                <footer class="bd-footer-article">
-                  
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
+              
+              
+                <footer class="prev-next-footer">
+                  <!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="../thermal-comfort/hybrid-heating.html"
@@ -517,18 +538,15 @@ document.write(`
       </div>
     </a>
     <a class="right-next"
-       href="avoiding-damp.html"
+       href="enforce-minimum-temperature.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Avoiding damp</p>
+        <p class="prev-next-title">Enforcing a minimum temperature</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
@@ -580,8 +598,8 @@ By HeatHack
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script src="../../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794"></script>
 
   <footer class="bd-footer">
   </footer>

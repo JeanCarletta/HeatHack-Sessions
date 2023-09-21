@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../../_static/styles/theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
 
   
-  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=ac02cc09edc035673794" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -38,8 +38,9 @@
     <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794" />
+  <script src="../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=ac02cc09edc035673794"></script>
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
@@ -64,8 +65,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script>DOCUMENTATION_OPTIONS.pagename = 'background-knowledge/heating-for-the-building/avoiding-damp';</script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Pipe organs" href="pipe-organs.html" />
-    <link rel="prev" title="Heating for the building" href="intro.html" />
+    <link rel="next" title="Checking your space heating" href="../checking-space-heating/intro.html" />
+    <link rel="prev" title="To protect plumbing and heating systems" href="frost-protection.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -76,6 +77,15 @@ const thebe_selector_output = ".output, .cell_output"
   
   
   <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
   
   <input type="checkbox"
           class="sidebar-toggle"
@@ -229,10 +239,9 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 </li>
 <li class="toctree-l2 current active has-children"><a class="reference internal" href="intro.html">Heating for the building</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-11"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
-<li class="toctree-l3 current active"><a class="current reference internal" href="#">Avoiding damp</a></li>
-<li class="toctree-l3"><a class="reference internal" href="pipe-organs.html">Pipe organs</a></li>
-<li class="toctree-l3"><a class="reference internal" href="frost-protection.html">For frost protection</a></li>
 <li class="toctree-l3"><a class="reference internal" href="enforce-minimum-temperature.html">Enforcing a minimum temperature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="frost-protection.html">To protect plumbing and heating systems</a></li>
+<li class="toctree-l3 current active"><a class="current reference internal" href="#">Avoiding damp</a></li>
 </ul>
 </li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../checking-space-heating/intro.html">Checking your space heating</a><input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-12"><i class="fa-solid fa-chevron-down"></i></label><ul>
@@ -428,10 +437,10 @@ const thebe_selector_output = ".output, .cell_output"
 
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script>
@@ -439,7 +448,7 @@ document.write(`
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
   </button>
 `);
 </script>
@@ -470,20 +479,43 @@ document.write(`
                   
   <section id="avoiding-damp">
 <h1>Avoiding damp<a class="headerlink" href="#avoiding-damp" title="Permalink to this heading">#</a></h1>
-<p>Some community groups with buildings that are only lightly used turn on the heating for a little while every day because they’re worried about a building being damp or because they’re trying to dry out a building that is already damp.  This isn’t the best way to approach the problem.  To understand
-why not, we need to consider why buildings get damp in the first place.</p>
+<p>Whatever you do, you need to avoid your building being damp.  Damp walls lose heat much faster, and damp makes the building deteriorate.  Here are some of the main causes.</p>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-column sd-col-9 sd-col-xs-9 sd-col-sm-9 sd-col-md-9 sd-col-lg-9 docutils">
 <ul class="simple">
-<li><p><strong>Water ingress.</strong>  If there’s just one thing that’s important to keep the building in good shape, it’s making sure the roof is sound and that the rainwater clearance systems - gutters (called “rhones” in Scotland) and downpipes must be in good working order and kept clear.  With the increased rainfall that comes with climate change, some buildings are already finding that they have to increase the capacity of their rainwater clearance to avoid wetting the walls of their building.  Wet walls also make the inhabitants miserable because they lose heat much faster than dry ones.</p></li>
-<li><p><strong>Blocked vents.</strong>  People and sometimes other activities release moisture into the building.  If the building’s vents are blocked, then it’s hard for that moisture to escape.  Some building operators deliberately block vents to avoid heat escaping.  In many others, the walls have exterior air intake vents at ground level that get clogged with leaves and other debris.  Many older buildings have design features that are intended to be used to vent warm, moist air from the building after use. These might opening windows and rope pulls for opening the louvres on a tower.</p></li>
+<li><p><strong>Water ingress.</strong>  Make sure the roof is sound and that the rainwater clearance systems - gutters (called “rhones” in Scotland) and downpipes - are kept in good working order through regular maintenance to clear debris and spot problems.  With the increased rainfall that comes with climate change, some buildings are already finding that they have to increase the capacity of their rainwater clearance to avoid wetting the walls of their building.  Wet walls deteriorate and also make the inhabitants miserable because they lose heat much faster than dry ones.  You may also have water ingress at ground level into basement areas.</p></li>
 </ul>
-<p>In traditional buildings, also:</p>
+</div>
+<div class="sd-col sd-d-flex-column sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
+<img alt="a gargoyle" class="mb-1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Gargoyle_depicting_Hodgetts%2C_Chichester_Cathedral.jpg/1125px-Gargoyle_depicting_Hodgetts%2C_Chichester_Cathedral.jpg" />
+<p><em>(c) <a href="https://commons.wikimedia.org/wiki/User:Martinvl">Martinvl</a>, CC BY-SA 4.0 <a class="reference external" href="https://creativecommons.org/licenses/by-sa/4.0">https://creativecommons.org/licenses/by-sa/4.0</a>, via Wikimedia Commons</em></p>
+</div>
+</div>
+</div>
 <ul class="simple">
-<li><p><strong>Non-breatheable finishes.</strong> Require lime plaster and breatheable paints - and often the issue with mysterious damp problems.</p></li>
-<li><p><strong>Inappropriate or incorrectly installed insulation.</strong> Again, breatheability of the materials but also the design (not allowing the required airflow to preserve the roof, for instance).</p></li>
-<li><p><strong>Warm moist air from outside.</strong> It’s tempting on a nice spring day to open the building up and let the air warm the building, but in a massive stone building, the surfaces can be cold enough to cause condensation to run down the walls inside the building.</p></li>
+<li><p><strong>Blocked vents.</strong>  People and their activities release moisture into the building.  If the building’s vents are blocked, then it’s hard for that moisture to escape.  Some building operators deliberately block vents to avoid heat escaping and create damp that way.  In many others, the walls have exterior air intake vents at ground level that get clogged with leaves and other debris.</p></li>
+<li><p><strong>Insufficient ventilation.</strong> Many buildings have design features that are intended to be used to vent warm, moist air from the building. These might include windows or window vents that open manually and in church buildings, rope pulls for opening the louvres on a tower.  These supply fresh air to the occupants as required or, in some cases, are meant to be shut while a building warms up and when people are in, and only opened when they leave until the next time the heating comes on.  Extractor fans can also be useful for venting moist air.</p></li>
 </ul>
-<p>If your building is damp, dehumidifiers will dry it out more cheaply than turning the heating on, and you can focus them just on the damp area.</p>
-<p>A building might not need heating, but it will definitely need careful attention to ventilation so that it stays dry.</p>
+<!-- :TODO: picture of trickle vent on modern window and some church windows and vents meant to be opened after services -->
+<p>In traditional buildings:</p>
+<ul class="simple">
+<li><p><strong>Non-breatheable finishes.</strong> Traditional stone buildings require lime plaster and breatheable paints.  Using non-breatheable finishes can cause mysterious damp problems.  Many stone buildings have been pointed in cement, which traps damp in the stone.  Sometimes workers will claim to use the right materials but still do the wrong thing.  For instance, we’ve heard of one mixing lime mortar with PVA glue to do point the stonework because it makes it easier to apply.</p></li>
+<li><p><strong>Inappropriate or incorrectly installed insulation.</strong> Again, materials should be breatheable and the design also has to allow airflow in the correct places, for instance, with loft insulation laid on the floor of a loft, at the eaves to ensure the space and materials above the insulation stay dry.</p></li>
+</ul>
+<p>If your building is damp, dehumidifiers will dry it out more cheaply than turning the heating on. You can focus them just on the damp area.  But you still need to fix the problem.</p>
+<div class="admonition-advice-for-churches admonition">
+<p class="admonition-title">Advice for churches</p>
+<p>Moisture in air can condense on cold surfaces, for instance, if you let lots of warm air into a very cold stone building on a fine spring day.  In the winter, stained glass windows are often the coldest surfaces and so a good place to look for issues.  Condensation on them can cause the colours the leach out of the glass.</p>
+</div>
+<div class="admonition-more-information admonition">
+<p class="admonition-title">More information</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.youtube.com/watch?v=Fh0Ad3FKDrE">How to tell cement mortar from lime</a></p></li>
+<li><p><a class="reference external" href="https://www.engineshed.scot/building-advice/building-materials/lime/">Lime mortar and limewash (with Historic Environment Scotland)</a></p></li>
+<li><p><a class="reference external" href="https://www.historicenvironment.scot/archives-and-research/publications/publication/?publicationId=9b3ca2e8-afcc-42ba-92c3-a59100fde12b">Short Guide: Maintaining Your Home (but also for other traditional buildings)</a></p></li>
+</ul>
+</div>
 </section>
 
     <script type="text/x-thebe-config">
@@ -511,34 +543,30 @@ why not, we need to consider why buildings get damp in the first place.</p>
 
               
               
-                <footer class="bd-footer-article">
-                  
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
+              
+              
+                <footer class="prev-next-footer">
+                  <!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="intro.html"
+       href="frost-protection.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Heating for the building</p>
+        <p class="prev-next-title">To protect plumbing and heating systems</p>
       </div>
     </a>
     <a class="right-next"
-       href="pipe-organs.html"
+       href="../checking-space-heating/intro.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Pipe organs</p>
+        <p class="prev-next-title">Checking your space heating</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
@@ -590,8 +618,8 @@ By HeatHack
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script src="../../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794"></script>
 
   <footer class="bd-footer">
   </footer>

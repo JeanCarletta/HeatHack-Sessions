@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../../_static/styles/theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
 
   
-  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=ac02cc09edc035673794" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -38,8 +38,9 @@
     <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794" />
+  <script src="../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=ac02cc09edc035673794"></script>
 
     <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
@@ -64,8 +65,8 @@ const thebe_selector_output = ".output, .cell_output"
     <script>DOCUMENTATION_OPTIONS.pagename = 'background-knowledge/heating-for-the-building/enforce-minimum-temperature';</script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Checking your space heating" href="../checking-space-heating/intro.html" />
-    <link rel="prev" title="For frost protection" href="frost-protection.html" />
+    <link rel="next" title="To protect plumbing and heating systems" href="frost-protection.html" />
+    <link rel="prev" title="Heating for the building" href="intro.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -76,6 +77,15 @@ const thebe_selector_output = ".output, .cell_output"
   
   
   <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
   
   <input type="checkbox"
           class="sidebar-toggle"
@@ -229,10 +239,9 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 </li>
 <li class="toctree-l2 current active has-children"><a class="reference internal" href="intro.html">Heating for the building</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-11"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
-<li class="toctree-l3"><a class="reference internal" href="avoiding-damp.html">Avoiding damp</a></li>
-<li class="toctree-l3"><a class="reference internal" href="pipe-organs.html">Pipe organs</a></li>
-<li class="toctree-l3"><a class="reference internal" href="frost-protection.html">For frost protection</a></li>
 <li class="toctree-l3 current active"><a class="current reference internal" href="#">Enforcing a minimum temperature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="frost-protection.html">To protect plumbing and heating systems</a></li>
+<li class="toctree-l3"><a class="reference internal" href="avoiding-damp.html">Avoiding damp</a></li>
 </ul>
 </li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../checking-space-heating/intro.html">Checking your space heating</a><input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-12"><i class="fa-solid fa-chevron-down"></i></label><ul>
@@ -428,10 +437,10 @@ const thebe_selector_output = ".output, .cell_output"
 
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script>
@@ -439,7 +448,7 @@ document.write(`
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
   </button>
 `);
 </script>
@@ -470,9 +479,7 @@ document.write(`
                   
   <section id="enforcing-a-minimum-temperature">
 <h1>Enforcing a minimum temperature<a class="headerlink" href="#enforcing-a-minimum-temperature" title="Permalink to this heading">#</a></h1>
-<p>If you do need to enforce a minimum temperature for your building, bringing on the main heating system for a few hours is an expensive way to do it.  You can instead install heating controls with a “setback” temperature or add a separate “frost” stat, which does much the same thing.</p>
-<p>The usual approach is to choose a “setback” temperature for the space, and have the heating system bring the system on if the space falls below it. For more modern buildings, the architect’s intended temperature might be specified on the architectural drawings but there could be a “better safe than sorry” element to this, especially if the drawing is from an era of cheap energy. For older buildings, the minimal requirement appears to be keeping the building at a high enough temperature to guarantee it will stay above dewpoint, to avoid condensation.  Under UK conditions sometimes the advice is to enforce 7-8C as a bare minimum for this reason.  What your building needs could be substantially higher, depending on its construction and also what it contains. In our experience, traditional building operators are often just asked what temperature they want to use, pushing the question onto them.</p>
-<p>For massive stone buildings that are in occasional use, there can be a second benefit to enforcing a setback temperature:  thermal comfort.   Consider two ways of using the same amount of gas.  The first leaves the building cold most of the the time, whacking on the heating to bring up the air temperature when people will be in.  This is what most building operators do.  The second takes the same energy, but applies some of it to enforce a setback temperature that will make the walls warmer, and the rest to raise the air temperature when people are in, but more modestly.  The bigger the difference between the air temperature inside and outside the building, the faster the heat loss.  In the second case, the building will retain more of the heat, and could be as comfortable - because the internal surfaces are a bit warmer, and because it will have fewer draughts.  It will also be noticeably more comfortable for people who are in the building at odd times, and better for any delicate artefacts in the building, like organs, as they prefer gentle changes.  Unfortunately, it’s tricky to predict the effects of different heating policies on thermal comfort and cost for a given building, and also difficult to determine empirically just because weather is so variable.</p>
+<p>If you do need to enforce a minimum temperature and you are doing this by turning the heating on for a couple of hours a day, it should pay back to update your heating controls.  On modern controls you can choose a “setback” temperature.  The system will come on whenever the temperature in the space with the thermostat drops below the “setback”.  It’s possible instead to wire in a separate cheap frost thermostat, but this is “second best”.  It’s easy for someone to get confused and set it to room temperature, and modern controls have other advantages like optimised start control and being able to set different temperatures for different events.</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -500,34 +507,30 @@ document.write(`
 
               
               
-                <footer class="bd-footer-article">
-                  
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
+              
+              
+                <footer class="prev-next-footer">
+                  <!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="frost-protection.html"
+       href="intro.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">For frost protection</p>
+        <p class="prev-next-title">Heating for the building</p>
       </div>
     </a>
     <a class="right-next"
-       href="../checking-space-heating/intro.html"
+       href="frost-protection.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Checking your space heating</p>
+        <p class="prev-next-title">To protect plumbing and heating systems</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
@@ -579,8 +582,8 @@ By HeatHack
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script src="../../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794"></script>
 
   <footer class="bd-footer">
   </footer>
