@@ -1,4 +1,4 @@
-## Electric meter safety
+# Electric meter safety
 
 <!-- taken from a clamp-on meter guide, so been past someone's legal. -->
 

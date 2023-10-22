@@ -6,9 +6,9 @@ In the talks, the engineer explains basic concepts to the group.  They're very s
 - Second talk: How do we know what actions are right for us?
 - Third talk: Getting the heating under control
 
-We give simple, non-technical bullet points for the talks in the session schedules.  The Practical Reading section explains the concepts further.  
+We give simple, non-technical bullet points for the talks in the session schedules.  You can find more background to support the core concepts the talks convey in the "Background information" section of this guide.
 
-- [Practical Reading](practical-reading)
+[](practical-reading)
 
 Most engineers just use the bullet points, although they sometimes stick in interesting bits from the practical reading, especially, if the group members are all happy with a little more technical detail.  Engineers often illustrate the points by pointing to things in the room or talking about features in other parts of the building.  A few engineers use Powerpoint slides or draw a picture on the flip-chart and add things to it as they go.
 

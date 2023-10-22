@@ -1,8 +1,9 @@
 # Heating for comfort
 
-We heat buildings mostly for the people who use them. That means it's very important to understand what makes people feel comfortable.
+We heat buildings mostly to make the people who use them comfortable. 
 
-Because we're used to controlling heating with thermostats, air temperature is the first thing most people think of, but how people feel depends on much more than the temperature of the air.
+
+Because we're used to controlling heating with thermostats, and they measure air temperature, most people think air temperature is the only thing that matters.  In buildings that are well-insulated, dry, draughtproofed, and in high use, air temperature is a really good indicator of how comfortable people in the building will feel.  That's less true of buildings that are leaky or not heated all the time. In these buildings, it's very important to understand what makes people feel comfortable. 
 
 ::::{grid} 
 :::{grid-item}
@@ -11,7 +12,7 @@ Because we're used to controlling heating with thermostats, air temperature is t
 The other things that matter are:
 
 
-- **Temperature of surrounding surfaces (mean radiant temperature).**  We’re all familiar with what heat radiating to us from the sun feels like.  When we're surrounded by surfaces that are cooler than our body temperature, something similar happens - heat radiates from us to the surfaces, making us feel cooler.  
+- **Temperature of surrounding surfaces (mean radiant temperature).**  We’re all familiar with what heat radiating to us from the sun feels like.  When we're surrounded by cold surfaces, the opposite happens - heat radiates from us to the surfaces, making us feel cooler.  "Mean radiant temperature" is just as important to thermal comfort as air temperature.
 
 - **Draughts.** Even a warm draught feels cold.  Women tend to feel draughts more keenly than men do.  
 
@@ -38,12 +39,10 @@ The other things that matter are:
 
 ```{admonition} Top Comfort Tip
 
-One of the most important things you can do is ensure consistent, non-draughty conditions so your building's users know how much clothing to bring and don't have to keep changing it while they are in the venue.  People are very adaptable as long as they can predict what they need to do.  This makes it very important to get your heating controls right.  There are so many issues with thermostats in community venues that we offer specific advice about them.
+One of the most important things you can do is ensure consistent, non-draughty conditions so your building's users know how much clothing to bring and don't have to keep changing it while they are in the venue.  People are very adaptable as long as they can predict what they need to do.  That makes having the right heating controls very important.  
 
 
 ```
 
 
-
-[comment]: # (:TODO:  GET THIS AND HEAT THE AIR SECTION TOGETHER; link to how to check whether your thermostat is working; how to choose a thermostat)
 

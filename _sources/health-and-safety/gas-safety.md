@@ -1,4 +1,4 @@
-## Gas safety
+# Gas safety
 
 Sometimes gas boilers in community buildings aren't very well maintained.  Soot around the appliance, a yellow or orange weak flame instead of a blue one, or a pilot light that blows out easily are all signs that a gas leak is more likely.
 

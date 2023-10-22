@@ -20,7 +20,7 @@ If the group has an odd number of people, the leader or the engineer can take a 
 
 ```
 
-- **Idea storms.**  These get as many ideas from the group as possible in a short time.  The group leader should manage the group to keep the ideas coming, with the engineer writing them down,  either on a flipchart or by typing them into a document while projecting them on a screen so everyone can see.   We just have one early in the session as a way for the group to start working together and to get a sense of each other's concerns. It helps the engineer understand the technical level of the group members and the group leader to see what the group dynamics are like.  You don't need to record anything about what happens, although there's no harm in photographing the flip-chart or saving the document.  We would expect anything important tocome up again during the sessions.  
+- **Idea storms.**  These get as many ideas from the group as possible in a short time.  The group leader should manage the group to keep the ideas coming, with the engineer writing them down,  either on a flipchart or by typing them into a document while projecting them on a screen so everyone can see.   We just have one early in the session as a way for the group to start working together and to get a sense of each other's concerns. It helps the engineer understand the technical level of the group members and the group leader to see what the group dynamics are like.  You don't need to record anything about what happens, although there's no harm in photographing the flip-chart or saving the document.  We would expect anything important to come up again during the sessions.  
 
 
 ```{admonition} Tip
@@ -46,4 +46,4 @@ At the end of a session, the group can agree what they want to do that relates t
 
 - **Wrap up.** There is always something brief to bring the session to a tidy ending. 
 
-We don't have more to say about them in the guide, but the session schedules give enough information to run them.
+We don't have more to say about these activities in this guide, but the session schedules give enough information to run them.

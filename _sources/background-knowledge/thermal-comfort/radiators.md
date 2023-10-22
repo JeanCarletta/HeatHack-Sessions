@@ -6,7 +6,7 @@ On a modern "panel" radiator, air passes over or through the radiator from botto
 
 Old-fashioned "column" radiators heat up slowly, but also cool down slowly.  That's great for smoothing out the heat, but it makes it harder to heat a space for a short time. 
 
-If your radiators seem oddly small but are very near some seats, that's a clue that they are only intended to drift warm air past people to warm them up, not heat the air fully.  
+If your radiators seem oddly small but are very near some seats, that's a clue that they are only intended to drift warm air past people to warm them up, not heat the air fully. 
 
 ::::{grid} 1 1 1 2
 :gutter: 2

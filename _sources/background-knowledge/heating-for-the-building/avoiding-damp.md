@@ -6,7 +6,7 @@ Whatever you do, you need to avoid your building being damp.  Damp walls lose he
 ::::{grid} 
 :::{grid-item}
 :columns: 9
-- **Water ingress.**  Make sure the roof is sound and that the rainwater clearance systems - gutters (called "rhones" in Scotland) and downpipes - are kept in good working order through regular maintenance to clear debris and spot problems.  With the increased rainfall that comes with climate change, some buildings are already finding that they have to increase the capacity of their rainwater clearance to avoid wetting the walls of their building.  Wet walls deteriorate and also make the inhabitants miserable because they lose heat much faster than dry ones.  You may also have water ingress at ground level into basement areas.
+- **Water ingress.**  Make sure the roof is sound and that the rainwater clearance systems - gutters (called "rhones" in Scotland) and downpipes - are kept in good working order through regular maintenance to clear debris and spot problems.  With the increased rainfall that comes with climate change, some buildings are already finding that they have to increase the capacity of their rainwater clearance to avoid wetting the walls of their building.  Wet walls deteriorate and also make the inhabitants miserable because they lose 1/3 more heat than dry ones.  You may also have water ingress at ground level into basement areas.
 :::
 :::{grid-item}
 :columns: 3
@@ -26,7 +26,7 @@ Whatever you do, you need to avoid your building being damp.  Damp walls lose he
 
 In traditional buildings:
 
-- **Non-breatheable finishes.** Traditional stone buildings require lime plaster and breatheable paints.  Using non-breatheable finishes can cause mysterious damp problems.  Many stone buildings have been pointed in cement, which traps damp in the stone.  Sometimes workers will claim to use the right materials but still do the wrong thing.  For instance, we've heard of one mixing lime mortar with PVA glue to do point the stonework because it makes it easier to apply.
+- **Non-breatheable finishes.** Traditional stone buildings require lime plaster and breatheable paints.  Using non-breatheable finishes can cause mysterious damp problems.  Many stone buildings have been pointed in cement, which traps damp in the stone.  Sometimes workers will claim to use the right materials but still do the wrong thing.  For instance, we've heard of one mixing lime mortar with PVA glue to point the stonework because it makes it easier to apply.
 
 - **Inappropriate or incorrectly installed insulation.** Again, materials should be breatheable and the design also has to allow airflow in the correct places, for instance, with loft insulation laid on the floor of a loft, at the eaves to ensure the space and materials above the insulation stay dry.  
  

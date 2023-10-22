@@ -1,4 +1,4 @@
-## Carbon monoxide safety
+# Carbon monoxide safety
 
 
 ::::{grid} 

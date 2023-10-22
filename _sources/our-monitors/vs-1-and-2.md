@@ -1,4 +1,4 @@
-(vs-1-and-2)=
+(vs-one-and-two)=
 # Setting up earlier versions
 
 These instructions are for versions 1 and 2.  There are only minor differences between the two.
