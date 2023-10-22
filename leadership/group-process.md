@@ -1,4 +1,4 @@
-## The group process
+# The group process
 
 
 Some groups may end up talking about some difficult and contentious issues that relate deeply to the members' values and sense of who they are and what their community is for.  In this kind of group, it's important to avoid creating unresolved discord.  We want groups to establish common ground, acknowledge their differences,  and come to a common sense of how to proceed for the good of the community as a whole.  

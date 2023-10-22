@@ -1,10 +1,11 @@
+(thermostatic-control)=
 # Observing thermostatic control
 
 
 If the room reaches the temperature set on a thermostat - either a room thermostat or a thermostatic radiator valve - that cuts the top of the wave off.  Here's an example:
 
 
-```{image} ../images/plot-screenshots/effective-stat.png
+```{image} /images/plot-screenshots/effective-stat.png
 :alt: plot showing a space where the temperature is capped at around 16C
 :align: center
 ```

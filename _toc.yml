@@ -38,6 +38,9 @@ chapters:
     - file: technical-data/building-use
     - file: technical-data/heating-system
     - file: technical-data/meters
+      sections: 
+      - file: technical-data/smart-meter
+      - file: technical-data/cant-get-smart-meter
     - file: technical-data/thermal
       sections:
       - file: thermal-data/where-to-put-monitor
@@ -62,47 +65,6 @@ chapters:
     - file: sessions/card-game
     - file: sessions/board-game
     #     - file: sessions/final-plans
-
-
-- file: background-knowledge/intro
-  sections:
-    - file: background-knowledge/thermal-comfort/thermal-comfort
-      sections:
-        - file: background-knowledge/thermal-comfort/heat-air-or-people
-        - file: background-knowledge/thermal-comfort/what-does-ours-do
-          sections: 
-            - file: background-knowledge/thermal-comfort/radiators
-            - file: background-knowledge/thermal-comfort/convectors
-            - file: background-knowledge/thermal-comfort/under-floor
-            - file: background-knowledge/thermal-comfort/radiant-heating
-            - file: background-knowledge/thermal-comfort/heated-seating
-    
-        - file: background-knowledge/thermal-comfort/hybrid-heating
-
-    - file: background-knowledge/heating-for-the-building/intro.md
-      sections:
-        - file: background-knowledge/heating-for-the-building/enforce-minimum-temperature
-        - file: background-knowledge/heating-for-the-building/frost-protection
-        - file: background-knowledge/heating-for-the-building/avoiding-damp
-        #- file: background-knowledge/heating-for-the-building/pipe-organs
-        
-        
-       
-    - file: background-knowledge/checking-space-heating/intro.md
-      sections:
-        - file: background-knowledge/checking-space-heating/room-temperature
-        - file: background-knowledge/checking-space-heating/do-we-have-enough-heating
-        - file: background-knowledge/checking-space-heating/other-problems
-
-    - file: background-knowledge/heating-controls/intro
-      sections:
-        - file: background-knowledge/heating-controls/classic-heating-controls
-        - file: background-knowledge/heating-controls/common-problems-with-classic-controls
-        - file: background-knowledge/heating-controls/recent-energy-efficiency-requirements
-    
-        - file: background-knowledge/heating-controls/desirable-characteristics
-      # - file: heating-controls/some-recent-controls
-
 
 - file: our-monitors
   sections: 
@@ -155,20 +117,83 @@ chapters:
     - file: our-monitors/using-two-monitors
     - file: our-monitors/making-monitors
 
-   
-- file: working-with-data
+
+- file: background-knowledge/intro
   sections:
-    - file: working-with-data/temp-is-not-comfort
-    - file: working-with-data/basics
-    - file: working-with-data/max-and-min
-    - file: working-with-data/portable-heaters
-    - file: working-with-data/environmental-conditions
-    - file: working-with-data/thermostatic-control
-    - file: working-with-data/thermostat-wars
-    - file: working-with-data/setback-thermostat
-    - file: working-with-data/testing-a-thermostat
-    - file: working-with-data/user-experience
-    - file: working-with-data/balance
+    - file: background-knowledge/thermal-comfort/thermal-comfort
+      sections:
+        - file: background-knowledge/thermal-comfort/heat-air-or-people
+        - file: background-knowledge/thermal-comfort/what-does-ours-do
+          sections: 
+            - file: background-knowledge/thermal-comfort/radiators
+            - file: background-knowledge/thermal-comfort/convectors
+            - file: background-knowledge/thermal-comfort/under-floor
+            - file: background-knowledge/thermal-comfort/radiant-heating
+            - file: background-knowledge/thermal-comfort/heated-seating
+    
+        - file: background-knowledge/thermal-comfort/hybrid-heating
+        - file: background-knowledge/thermal-comfort/room-temperature
+
+    - file: background-knowledge/heating-for-the-building/intro.md
+      sections:
+        - file: background-knowledge/heating-for-the-building/enforce-minimum-temperature
+        - file: background-knowledge/heating-for-the-building/frost-protection
+        - file: background-knowledge/heating-for-the-building/avoiding-damp
+        #- file: heating-for-the-building/pipe-organs
+        
+        
+       
+    - file: background-knowledge/checking-space-heating/intro.md
+      sections:
+
+        - file: background-knowledge/checking-space-heating/do-we-have-enough-heating
+        - file: background-knowledge/checking-space-heating/circulation-problems
+        - file: background-knowledge/checking-space-heating/do-thermostats-work
+        - file: background-knowledge/checking-space-heating/are-timings-right
+        - file: background-knowledge/checking-space-heating/is-the-heating-too-fast
+
+
+    - file: background-knowledge/heating-controls/intro
+      sections:
+        
+        - file: background-knowledge/heating-controls/thermostats-for-basic-efficiency 
+        - file: background-knowledge/heating-controls/zoning
+        - file: background-knowledge/heating-controls/boiler-thermostat
+        # Then a page for OSC, weather comp, load comp.
+        #- file: background-knowledge/heating-controls/other-energy-efficiency-controls
+         # sections:
+        - file: background-knowledge/heating-controls/osc
+        - file: background-knowledge/heating-controls/weather-compensation
+        - file: background-knowledge/heating-controls/convector-fan-speed
+        - file: background-knowledge/heating-controls/open-window-sensing
+        - file: background-knowledge/heating-controls/internet-controls
+        - file: background-knowledge/heating-controls/compatibility
+        - file: background-knowledge/heating-controls/desirable-characteristics
+      # - file: background-knowledge/heating-controls/some-recent-controls
+
+    #- file: background-knowledge/hot-water/intro
+    # hot water preheat on a combi    
+    ## think we just need some links
+    #- file: background-knowledge/solar-gain/intro
+    #  sections:
+    #   - file: background-knowledge/solar-gain/low-e-glass # and heat-reflecting film
+    # solar panels
+
+    - file: background-knowledge/working-with-data/intro
+      sections:
+        #- file: background-knowledge/working-with-data/temp-is-not-comfort
+        - file: background-knowledge/working-with-data/basics
+        - file: background-knowledge/working-with-data/max-and-min
+        - file: background-knowledge/working-with-data/portable-heaters
+        - file: background-knowledge/working-with-data/environmental-conditions
+        - file: background-knowledge/working-with-data/thermostatic-control
+        - file: background-knowledge/working-with-data/thermostat-wars
+        - file: background-knowledge/working-with-data/setback-thermostat
+        #- file: background-knowledge/working-with-data/testing-a-thermostat
+        - file: background-knowledge/working-with-data/user-experience
+        - file: background-knowledge/working-with-data/balance
+
+
   
 
 #   sections:

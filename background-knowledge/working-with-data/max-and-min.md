@@ -2,7 +2,7 @@
 
 You can check how low the temperature goes in winter by focusing on a small enough region to see the highs and lows and then sliding the viewing window back and forth. 
 
-```{image} ../images/plot-screenshots/very-low-temperature.png
+```{image} /images/plot-screenshots/very-low-temperature.png
 :alt: plot showing indoor temperatures below 5C
 :class: bg-primary mb-1
 :align: center
@@ -12,7 +12,7 @@ In this example, the minimum temperature needs discussion! We recommend telling 
 
 Similarly, you can use the slider to look at high temperatures.  One question churches especially often ask is whether the temperature in a cold space could be made to go higher without making any big changes.  You can judge this by whether the heating curve is starting to flatten out.  This space gets to around 12C and would probably get to around 13C if left long enough, but that last degree would take a long time and be very expensive!  
 
-```{image} ../images/plot-screenshots/asymptote.png
+```{image} /images/plot-screenshots/asymptote.png
 :alt: plot showing a heating curve flattening out at around 13C
 :class: bg-primary mb-1
 :align: center

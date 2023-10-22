@@ -1,4 +1,4 @@
-(session-summaries)
+(session-summaries)=
 # The Sessions
 
 Each session has a different focus.

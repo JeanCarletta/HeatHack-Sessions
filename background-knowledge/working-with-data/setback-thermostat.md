@@ -7,7 +7,7 @@ If the space drops below the setback temperature, that will bring the heating on
 A setback thermostat kicking in looks like this:
 
 
-```{image} ../images/plot-screenshots/setback.png
+```{image} /images/plot-screenshots/setback.png
 :alt: plot showing oscillation between 5 and 6 degrees C over 4 days
 :class: bg-primary mb-1
 :align: center

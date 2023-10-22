@@ -3,7 +3,7 @@
 
 If you plot temperature data against when a space is occupied, you can get a sense of two things:  whether the users are likely to be comfortable, and how much of your current heating is wasted.
 
-```{image} ../images/plot-screenshots/user-experience.png
+```{image} /images/plot-screenshots/user-experience.png
 :alt: plot showing temperature data against when a space is in use
 :class: bg-primary mb-1
 :align: center

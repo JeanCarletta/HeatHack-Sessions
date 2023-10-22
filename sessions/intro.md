@@ -16,7 +16,7 @@ We provide detailed session schedules that are easy to follow while you are runn
 
 ```{admonition}  Scottish Episcopal Church versions
 
-We are preparing tailored version of these schedules for the Scottish Episcopal Church.  They will be available in mid-September 2023. 
+We are preparing tailored version of these schedules for the Scottish Episcopal Church.  For now, ask us if you need them.  Their version of the programme takes six hours and we expect to prepare 2 and 3 hour options.  They omit the final session to plan a public engagement event as they expect their church vestries to determine how to take the programme results forward.
 
 ```
 

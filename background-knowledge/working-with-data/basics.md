@@ -5,7 +5,7 @@ When you turn on space heating, the temperature inside the building won't rise s
 This means that when the heating comes on, the temperature trace on the thermal monitor looks like a wave, at least if no thermostat operates.
 
 
-```{image} ../images/plot-screenshots/wave.png
+```{image} /images/plot-screenshots/wave.png
 :alt: plot showing a heating session that looks like a wave 
 :class: bg-primary mb-1
 :align: center
@@ -17,7 +17,7 @@ The waves won't look perfect or straight - the monitors are only accurate to wit
 This is a typical trace over a longer period.
 
 
-```{image} ../images/plot-screenshots/typical.png
+```{image} /images/plot-screenshots/typical.png
 :alt: plot showing heating "waves"
 :class: bg-primary mb-1
 :align: center

@@ -6,7 +6,7 @@ Radiators are balanced if they all have the same temperature drop between the pi
 
 We don't supply enough thermal monitors for most groups to look at this, but if we did the air temperature might look something like this.
 
-```{image} ../images/plot-screenshots/balance.png
+```{image} /images/plot-screenshots/balance.png
 :alt: plot showing rooms heating up at different rates
 :class:  mb-1
 :align: center

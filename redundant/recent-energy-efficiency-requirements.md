@@ -1,7 +1,12 @@
-# Modern energy efficiency requirements
+# Modern energy efficiency features
 
-Installers tend to put them in and leave it to you to figure out how to use them. It's genuinely difficult.
+Recently, installers of new systems have been required to consider which of a set of modern features would be best for a building and include them in the control system.  There are three that are part of the building regulations:
 
+- Optimised start control  
+- Weather compensation
+- Load compensation
+
+We describe each in turn, plus some experimental features that aren't part of the building regulations but that you might see in some controls.  
 
 
 
@@ -17,3 +22,4 @@ More recent systems add further energy efficiency requirements that don't affect
 
 <!-- :TODO: put a link to this page from the card -->
 
+Installers tend to put them in and leave it to you to figure out how to use them. It's genuinely difficult.

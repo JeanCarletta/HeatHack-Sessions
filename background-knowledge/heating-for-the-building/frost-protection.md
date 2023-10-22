@@ -4,7 +4,7 @@ If you're worried about the heating system, most modern boilers come with frost 
 
 Older boilers might have a frost protection mode you can switch to manually, but that's so inconvenient that relying on it can be risky.  In this case you can use a frost stat in the boiler room or in the main space that brings on the heating system.  The problem is that it will bring the system on full as if warming the space for an event, which takes far more energy than is required.  If you can bring on just the pumps at the temperature where you think there's a risk of frost, moving water doesn't freeze as easily as still water.  That means you can bring on the actual heating at a lower temperature, reducing the amount you spend on gas to protect your system.   
 
-If you're worried about any of the plumbing freezing, insulating the most vulnerable pipes and tanks will help.  If needed,you can get small, low energy pipe heaters designed specifically for frost protection that would be more cost-effective than running the main heating.
+If you're worried about any of the plumbing freezing, insulating the most vulnerable pipes and tanks will help.  If needed,you can get small pipe heaters designed specifically for frost protection.  This is far cheaper than running the main heating.  Some are small, thermostatically controlled tubular heaters, and others are heated cables or tapes that you run along or around the pipes.
 
 <!-- show an example -->
 

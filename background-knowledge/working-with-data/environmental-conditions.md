@@ -4,7 +4,7 @@ Sometimes there is a heating curve, but it is interrupted for a while.
 
 If you see a sharp spike, especially if it rises well above what would be comfortable, that's likely to be sun on the sensor.
 
-```{image} ../images/plot-screenshots/sun-on-sensor.png
+```{image} /images/plot-screenshots/sun-on-sensor.png
 :alt: plot showing a sudden spike in the indoor temperature to around 35C
 :class: bg-primary mb-1
 :align: center
@@ -17,7 +17,7 @@ In many buildings, exterior doors open right into the main public space and it c
 
 This effect can also be observed by opening interior doors in especially older buildings because these are often designed with less heating or more ventilation in hallways and corridors.
 
-```{image} ../images/plot-screenshots/venue-11-open-door.png
+```{image} /images/plot-screenshots/venue-11-open-door.png
 :alt: plot showing the effect on air temperature of what is probably an open interior door
 :class: bg-primary mb-1
 :align: center
