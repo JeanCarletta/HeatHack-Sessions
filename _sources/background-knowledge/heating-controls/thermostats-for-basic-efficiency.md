@@ -1,11 +1,13 @@
+(bypass)=
 # Basic efficiency using thermostats and TRVs
 
 The most basic, and oldest, energy efficiency requirement is to have a way of controlling the heating in individual rooms.  In most of our buildings, installers have met the requirement when the boiler was installed by putting thermostatic radiator valves (TRVs) in most rooms, with a room thermostat and no TRVs in one room per heating zone.  The TRVs control the flow of hot water through the radiator by opening and closing a valve.  The room thermostat controls the boiler, turning it on and off.  The ideal is workable individual room control in as many rooms as possible for your system.  
 
 - [Explanation of TRV benefits - from BEAMA](https://www.beama.org.uk/resourceLibrary/trv-factsheet-for-householders.html)
 
-```{admonition} why can't all rooms have TRVs?
-:class: tip
+
+```{admonition} Keep enough radiators uncontrolled
+:class: warning
 
 It can damage your system if your boiler and pump try to circulate hot water without enough places for it to go.  This can happen if you have TRVs everywhere and they are all closed at once.  This is one reason for the room thermostat.  Because it controls the boiler directly, the radiators in the room with the room thermostat are always open.  If those radiators don't have enough capacity for your system, or if you don't have a room thermostat anywhere, you might have other uncontrolled radiators, for instance, in your hallways or toilets.  You shouldn't add more TRVs without knowing how many radiators need to be left open as a "bypass" for the system.  What you need depends on the boiler, pump, pipework, and system configuration, such as whether you have an automatic bypass valve.  
 

@@ -23,3 +23,4 @@ You also want to check that the hot water cylinder is well-insulated.  The moder
 
 Finally, if you have a hot water cylinder, it's most 
 
+Google Nest has a bacteria prevention mode - raises your tank temperature to kill off Legionella if your hot water hasn't been heated for a least two consecutive hours in the last 24.  Much more efficient.

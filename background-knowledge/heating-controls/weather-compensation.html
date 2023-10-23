@@ -324,6 +324,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l3"><a class="reference internal" href="internet-controls.html">Internet controls</a></li>
 <li class="toctree-l3"><a class="reference internal" href="compatibility.html">Controls compatibility</a></li>
 <li class="toctree-l3"><a class="reference internal" href="desirable-characteristics.html">Desirable properties for controls in community buildings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="examples.html">Examples of changes</a></li>
 </ul>
 </li>
 <li class="toctree-l2 has-children"><a class="reference internal" href="../working-with-data/intro.html">What to look for in temperature data</a><input class="toctree-checkbox" id="toctree-checkbox-24" name="toctree-checkbox-24" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-24"><i class="fa-solid fa-chevron-down"></i></label><ul>
@@ -500,6 +501,7 @@ document.write(`
 <ul class="simple">
 <li><p><a class="reference external" href="https://www.heatgeek.com/weather-compensation-or-load-compensation/">Weather compensation of load compensation? (Heat Geek)</a></p></li>
 <li><p><a class="reference external" href="https://www.theheatinghub.co.uk/best-smart-heating-controls-compatibility-guide">Guide to optimisation and compensation (The Heating Hub)</a></p></li>
+<li><p><a class="reference external" href="https://www.heatgeek.com/what-is-boiler-modulation/">Explanation of boiler modulation (Heat Geek)</a></p></li>
 </ul>
 <div class="admonition-stone-a-special-case admonition">
 <p class="admonition-title">Stone: a special case </p>
@@ -512,7 +514,7 @@ document.write(`
 <p>You should check that your installer has thought about your building when setting the control system parameters, not just used the default settings or settings that they always use.  These are unlikely to suit your building and how you use it.  Unfortunately, if pressed, some installers will leave the settings up to you.</p>
 <p>Weather compensators are controlled by choosing a curve that defines the flow temperature at different outdoor temperatures.  The flow temperature is always the same as the outdoor temperature when that is at or exceeds your target room temperature.  The flow temperature when it is cold out needs to be higher for buildings with higher heat loss, making a steeper (higher) “heating curve”.  With 24/7 heating, the most efficient choice of curve is the lowest one that will still let your building reach its target temperature and there must be rules of thumb for initial values to use based on the building’s construction.</p>
 <p>We have not found good advice for how to choose inital values where weather compensation is combined with room influence, or when the building isn’t heating constantly and there is a compromise to be made between the curve steepness and the building’s warmup time.  As far as we can tell, proper optimisation can only be achieved through experimenting while taking regular meter readings and using weather data to do degree day measurement.  The maths for this doesn’t look too bad for venues with regular heating schedules but it soon gets very complicated if the heating schedule varies week to week.</p>
-<p>It also isn’t clear to us whether optimised start control can cope well with learning the right warm-up time if the system also has weather compensation.  Manufacturers all have different methods for doing the learning.  They don’t currently give enough public information for us to be confident about this, but if you ask them, they should be able to answer.</p>
+<p>Many manufacturers have models that include both optimised start control and weather compensation.  This makes the experimentation to optimise the system more difficult.</p>
 <p>We hope through this programme to develop a better understanding of the difficulties our buildings face that will lead to better advice.</p>
 </div>
 <div class="admonition-old-boilers admonition">
