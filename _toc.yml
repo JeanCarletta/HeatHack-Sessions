@@ -169,6 +169,7 @@ chapters:
         - file: background-knowledge/heating-controls/internet-controls
         - file: background-knowledge/heating-controls/compatibility
         - file: background-knowledge/heating-controls/desirable-characteristics
+        - file: background-knowledge/heating-controls/examples
       # - file: background-knowledge/heating-controls/some-recent-controls
 
     #- file: background-knowledge/hot-water/intro
