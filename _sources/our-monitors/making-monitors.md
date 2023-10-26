@@ -1,7 +1,7 @@
 
 # Making thermal monitors yourself
 
-We are working on instructions for making our thermal monitors.  Here are some pictures for the v3 monitor that will be sufficient for some solderers to assemble the hardware.  
+We are working on instructions for making our thermal monitors.  Here are some pictures for the v3 monitor that will be sufficient for some solderers to assemble the hardware.  There is a volunteer group in Edinburgh that has more detailed instructions that they are testing with solderers who are new to this kind of build.  If you intend to build monitors, please ask us for them.
 
 ```{image} /images/monitoring/making/inside-of-battery-box.jpg
 :alt: component layout within battery box

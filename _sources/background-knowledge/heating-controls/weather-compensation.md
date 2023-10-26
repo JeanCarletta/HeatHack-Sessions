@@ -37,7 +37,7 @@ Weather compensators are controlled by choosing a curve that defines the flow te
 
 We have not found good advice for how to choose inital values where weather compensation is combined with room influence, or when the building isn't heating constantly and there is a compromise to be made between the curve steepness and the building's warmup time.  As far as we can tell, proper optimisation can only be achieved through experimenting while taking regular meter readings and using weather data to do degree day measurement.  The maths for this doesn't look too bad for venues with regular heating schedules but it soon gets very complicated if the heating schedule varies week to week.  
 
-Many manufacturers have models that include both optimised start control and weather compensation.  This makes the experimentation to optimise the system more difficult.  
+Many manufacturers have models that include both optimised start control and weather compensation.  This makes the experimentation to optimise the system more difficult as you have to vary the weather compensation and wait for the optimised start controls's learning to settle before you can calculate whether the change was an improvement.
 
 We hope through this programme to develop a better understanding of the difficulties our buildings face that will lead to better advice.
 
