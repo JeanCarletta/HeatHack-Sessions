@@ -15,10 +15,8 @@ There are five types of engagement, from least to most empowering:
 - collaborating through freer dialogue, but where there are still status differences within the group that may affect the outcome
 - empowerment where agreement is consensual and status differences have been eliminated so that every has an equal say
 
+The difference between debate and dialogue often causes confusion.  Debate encourages people to take up sides and becomes combative, but dialogue is collaborative.
+
 - [Dialogue versus debate, from Mediators Beyond Borders](https://mediatorsbeyondborders.org/what-we-do/conflict-literacy-framework/dialogue-and-facilitation/)
-
-The Community Planning Toolkit is really designed for larger community decisions, but from it you can get a sense of a range of engagement approaches very quickly.
-
-- [Community Planning Toolkit](https://www.communityplanningtoolkit.org/sites/default/files/Engagement0815.pdf)
 
 There are many techniques that can be used to encourage dialogue - ask us if you are struggling to think what to do.

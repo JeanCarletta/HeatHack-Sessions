@@ -5,7 +5,8 @@ The answer to this question depends on your circumstances.  However, we encourag
 Think about:
 
 - Your building's users.
-- Under-served local groups and organisations that understand unmet local needs.  This might include the local Health and Social Care Partnership and community council.  They are likely to be involved in wider community or neighbourhood planning.
+- Under-served local groups and organisations or individuals that understand unmet local needs.  They are likely to be involved in wider community or neighbourhood planning.  If you aren't sure what to do, you could try contacting your local councillor for advice.
 - Groups providing similar services to the community nearby.
 - Neighbours.  They might have helpful ideas, want to collaborate, or be impacted in a way that could lead them to raise objections later.
 
+ Local government and the health service increasingly look to work in partnership with community organisations, for instance, through Health and Social Care Partnerships, and to place services in their premises.  Think about what's happening in your local area and what your role should be in supporting your local community.  Engaging with the right people will help you get your future plans right.
