@@ -66,6 +66,12 @@ chapters:
     - file: sessions/board-game
     #     - file: sessions/final-plans
 
+
+- file: community-engagement/intro
+  sections:
+    - file: community-engagement/ways-of-engaging
+    - file: community-engagement/who-is-our-community
+    
 - file: our-monitors
   sections: 
     - file: our-monitors/basics
@@ -205,10 +211,6 @@ chapters:
         - file: background-knowledge/working-with-data/balance
 
 
-- file: community-engagement/intro
-  sections:
-    - file: community-engagement/ways-of-engaging
-    - file: community-engagement/who-is-our-community
 
   
 
