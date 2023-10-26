@@ -155,13 +155,9 @@ chapters:
 
     - file: background-knowledge/heating-controls/intro
       sections:
-        
         - file: background-knowledge/heating-controls/thermostats-for-basic-efficiency 
         - file: background-knowledge/heating-controls/zoning
         - file: background-knowledge/heating-controls/boiler-thermostat
-        # Then a page for OSC, weather comp, load comp.
-        #- file: background-knowledge/heating-controls/other-energy-efficiency-controls
-         # sections:
         - file: background-knowledge/heating-controls/osc
         - file: background-knowledge/heating-controls/weather-compensation
         - file: background-knowledge/heating-controls/convector-fan-speed
@@ -170,9 +166,23 @@ chapters:
         - file: background-knowledge/heating-controls/compatibility
         - file: background-knowledge/heating-controls/desirable-characteristics
         - file: background-knowledge/heating-controls/examples
-      # - file: background-knowledge/heating-controls/some-recent-controls
 
-    #- file: background-knowledge/hot-water/intro
+
+    - file: background-knowledge/hot-water/intro
+      sections:
+        - file: background-knowledge/hot-water/cylinder
+        - file: background-knowledge/hot-water/combi-hot-water
+        - file: background-knowledge/hot-water/immersion
+        - file: background-knowledge/hot-water/point-of-use-hot-water
+
+
+    - file: background-knowledge/electrics/intro
+      sections:
+        - file: background-knowledge/electrics/timeswitches-and-countdown-timers
+        - file: background-knowledge/electrics/computers-and-smart-tvs
+        - file: background-knowledge/electrics/refrigerators-and-freezers
+        - file: background-knowledge/electrics/buying-new-appliances
+        # lighting
     # hot water preheat on a combi    
     ## think we just need some links
     #- file: background-knowledge/solar-gain/intro
@@ -194,6 +204,11 @@ chapters:
         - file: background-knowledge/working-with-data/user-experience
         - file: background-knowledge/working-with-data/balance
 
+
+- file: community-engagement/intro
+  sections:
+    - file: community-engagement/ways-of-engaging
+    - file: community-engagement/who-is-our-community
 
   
 

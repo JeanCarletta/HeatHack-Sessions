@@ -19,7 +19,9 @@ Lowering the temperatures is more likely work with generously sized radiators, b
 
 Old, non-condensing boilers wear out faster if you run them at a low temperature.  They are designed to be run at 70C or above. 
 
-If you use a **hot water storage tank**, you need to keep the flow temperature 70C or above to avoid Legionella.  The tank needs temperatures above 60C to kill the bacteria, and there is some heat loss between the boiler and the tank. 
+If you use a **hot water storage tank (cylinder)**, you need to keep the flow temperature 70C or above to avoid Legionella.  The tank needs the temperature to be raised above 60C regularly to kill the bacteria, and there is some heat loss between the boiler and the tank. There are some smart controls that instead will raise the tank temperature to protect against Legionella if the water has been cool for too long.  This is more efficient so it's a good thing to consider if you are changing your controls.
+
+- [About hot water cylinders and Legionella](cylinder)
 
 **Fan convectors** usually require higher flow temperatures. This will be specified in the manual.
 
