@@ -1,3 +1,4 @@
+(pipe-insulation)=
 # Pipe insulation
 
 You can use slip-on DIY pipe insulation, but professionals have access to better materials and should be able to insulate the tricky bits, not just the straight sections.

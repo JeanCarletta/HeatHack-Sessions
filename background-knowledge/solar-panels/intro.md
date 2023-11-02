@@ -1,3 +1,4 @@
+(solar-panels)=
 # Solar panels
 
 Photovoltaic (PV) solar panels generate electricity for you to use in your building, either immediately or by storing it in a battery, or for you to sell to the grid.  Solar panels can also be used to produce hot water, but most community buildings don't use enough hot water to make that worthwhile.
