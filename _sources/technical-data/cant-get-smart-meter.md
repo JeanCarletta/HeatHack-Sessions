@@ -1,4 +1,4 @@
-# If you can't get a smart meter
+# If you can't get a smart meter or AMR service
 
 
 
@@ -15,8 +15,6 @@ If you can't get a smart meter, or face a long wait, here are some of the ways v
 1.  by taking meter readings in a shared "log" on the web, maybe using our template:
 
     - [Example On-line Meter Log](https://docs.google.com/spreadsheets/d/10on598Pf-AR1x0-Kw25dYWgp895u2FKryyUZRJ5mqaQ/)
-
-
 
 Be inventive about who might be willing to take readings.  If you are church that lets a musician practice sometimes, they might return the favour, or it might be a good task for a teenager.  
 

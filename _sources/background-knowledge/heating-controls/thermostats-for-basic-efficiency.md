@@ -21,11 +21,13 @@ Old-style TRVs rely on people operating them manually.  This strategy takes more
 
 If you stick with manual operation, you should:
 
+- Replace any analogue room thermostats with digital ones.  They are more accurate and make users more comfortable by keeping the temperature from varying too much, so they will often allow you to set the temperature a little lower. 
 - Ensure that your TRVs aren't missing the heads.  If they are, users can't use the dials to control them.  The heads are easily replaceable.
 - Check that your thermostats and TRVs still work.  TRVs can only be replaced by draining the relevant part of the system, which can be expensive if you don't have another reason to do this.  Modern TRVs work better than old ones so if you are draining the system and intend to keep it for a while, you might consider replacing any worn TRVs at the same time.  
     - [](thermostats-work)
 - Consider whether you can add limiting pins to your thermostats and TRVs. This keeps groups from turning thermostats and TRVs all the way up or all the way down in a misguided attempt to heat or cool the room faster and then leaving them that way.  Using limiting pins makes it more likely that the next group will be able to make themselves comfortable and will reduce your energy costs by reducing overheating.  Otherwise you can think about other ways of imposing restrictions, but don't make groups so uncomfortable they sneak in space heaters or use fire extinguishers to block doors open. 
 
+    - [Example of a thermostat with upper and lower limits and no permanent override](https://www.ephcontrols.com/section/delay-start-thermostat/)
     - [Drayton TRV features including limiting pin](https://www.draytoncontrols.co.uk/news/unlocking-secrets-trv4-0)
     - [Drayton TRV limiting pins](https://www.draytoncontrols.co.uk/product/trv4-range-limiting-pins)
     - [Danfoss TRV limiting pins](https://www.youtube.com/watch?v=_VvtRxOoO3k)

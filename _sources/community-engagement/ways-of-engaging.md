@@ -9,7 +9,7 @@ It matters how you engage with the community. There are times and places for eve
 
 There are five types of engagement, from least to most empowering:
 
--  informing by telling
+- informing by telling
 - consulting by asking specific questions for people to answer
 - discussing or debating, where people can raise points for the decision-makers to address
 - collaborating through freer dialogue, but where there are still status differences within the group that may affect the outcome
@@ -17,6 +17,13 @@ There are five types of engagement, from least to most empowering:
 
 The difference between debate and dialogue often causes confusion.  Debate encourages people to take up sides and becomes combative, but dialogue is collaborative.
 
-- [Dialogue versus debate, from Mediators Beyond Borders](https://mediatorsbeyondborders.org/what-we-do/conflict-literacy-framework/dialogue-and-facilitation/)
+
 
 There are many techniques that can be used to encourage dialogue - ask us if you are struggling to think what to do.
+
+```{admonition} More information
+
+- [Dialogue versus debate, from Mediators Beyond Borders](https://mediatorsbeyondborders.org/what-we-do/conflict-literacy-framework/dialogue-and-facilitation/)
+- [International Association for Public Participation's explanation of the five types (PDF)](https://iap2.org.au/wp-content/uploads/2020/01/2018_IAP2_Spectrum.pdf)
+
+```

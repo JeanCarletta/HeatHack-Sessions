@@ -1,3 +1,4 @@
+(monitor-placement)=
 # Where to put the monitor
 
 

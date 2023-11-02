@@ -1,0 +1,770 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Share your building &#8212; HeatHack Guide Book</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="../../_static/styles/bootstrap.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+
+  
+  <link href="../../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" href="../../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/custom.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6" />
+  <script src="../../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=365ca57ee442770a23c6"></script>
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/clipboard.min.js"></script>
+    <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'card-game/_cards/6';</script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="Step 2: Reduce Energy Demand" href="../_steps/2.html" />
+    <link rel="prev" title="Consider how you worship - for churches" href="5.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="../../intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../../_static/heat_hack_logo1.png" class="logo__image only-light" alt="HeatHack Guide Book - Home"/>
+    <script>document.write(`<img src="../../_static/heat_hack_logo1.png" class="logo__image only-dark" alt="HeatHack Guide Book - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../../intro.html">
+                    Welcome
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../front-matter/intro.html">Introduction</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/about.html">Who we are</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/motivation.html">Is this for us?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/what-its-like.html">What the programme is like</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/costs.html">What does it cost?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/four-sessions.html">The Sessions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/who-should-participate.html">Who should be in the group</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/why-engineering.html">Why an engineer?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/find-an-engineer.html">Finding an engineer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/group-leadership.html">Finding a group leader</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/other-requirements.html">Other requirements</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/training.html">Training</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/how-to-sign-up.html">How to Sign Up</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../front-matter/contacting-us.html">Contacting us</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../health-and-safety/intro.html">Health and Safety</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../health-and-safety/ground-rules.html">Setting ground rules</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../health-and-safety/special-risks.html">Special risks in community buildings</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../health-and-safety/asbestos.html">Asbestos</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../health-and-safety/elec-meter-safety.html">Electric meter safety</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../health-and-safety/gas-safety.html">Gas safety</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../health-and-safety/carbon-monoxide.html">Carbon monoxide safety</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../technical-data/intro.html">Gathering Information</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-4"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../technical-data/building.html">Building information</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../technical-data/building-use.html">Building Use Diary</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../technical-data/heating-system.html">Heating System Operation</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../technical-data/meters.html">Energy meter readings</a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-5"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../technical-data/smart-meter.html">Smart meters</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../technical-data/amr.html">Automatic meter reading services</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../technical-data/cant-get-smart-meter.html">If you can’t get a smart meter or AMR service</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../technical-data/thermal.html">Temperature and relative humidity readings</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-6"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../thermal-data/where-to-put-monitor.html">Where to put the monitor</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../thermal-data/weather-data.html">Weather data</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../leadership/intro.html">Leaders and engineers</a><input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-7"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../leadership/group-process.html">The group process</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../leadership/leader-role.html">What the group leader does</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../leadership/engineer-role.html">The engineer’s role</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../leadership/keeping-your-group-safe.html">Keeping your group safe</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../leadership/documentation.html">Keeping records</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../sessions/intro.html">Running sessions</a><input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-8"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../sessions/small-activities.html">Brief activities</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../sessions/risk-assessment.html">Risk assessment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../sessions/engineer-talks.html">Engineer Talks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../sessions/case-studies.html">Case Studies</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../sessions/site-survey.html">Site Survey</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../sessions/card-game.html">Card Game</a></li>
+
+<li class="toctree-l2"><a class="reference internal" href="../../sessions/board-game.html">Board Game</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../community-engagement/intro.html">Community engagement</a><input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-9"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../community-engagement/ways-of-engaging.html">Ways of engaging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../community-engagement/who-is-our-community.html">Which people should we engage?</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="../pages/intro.html">Card Game</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-10"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../pages/costs.html">Costs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../pages/carbon.html">Carbon stars</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../pages/steps.html">The steps</a></li>
+<li class="toctree-l2 current active has-children"><a class="reference internal" href="../_steps/1.html">Step 1: Basic Actions</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-11"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="1.html">Maintain buildings and keep them dry</a></li>
+<li class="toctree-l3"><a class="reference internal" href="2.html">Keep maintenance records and plan for change</a></li>
+<li class="toctree-l3"><a class="reference internal" href="3.html">Provide maintenance contact details</a></li>
+<li class="toctree-l3"><a class="reference internal" href="4.html">Use smart meters</a></li>
+<li class="toctree-l3"><a class="reference internal" href="5.html">Consider how you worship - for churches</a></li>
+<li class="toctree-l3 current active"><a class="current reference internal" href="#">Share your building</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../_steps/2.html">Step 2: Reduce Energy Demand</a><input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-12"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="7.html">Review heating and hot water timings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="8.html">Zone your heating</a></li>
+<li class="toctree-l3"><a class="reference internal" href="9.html">Restrict the heating changes users can make</a></li>
+<li class="toctree-l3"><a class="reference internal" href="10.html">Protect your heating system from interference</a></li>
+<li class="toctree-l3"><a class="reference internal" href="11.html">Update your boiler controls</a></li>
+<li class="toctree-l3"><a class="reference internal" href="12.html">Check your thermostat and its location</a></li>
+<li class="toctree-l3"><a class="reference internal" href="13.html">Control your fan convectors</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14.html">Fix a cold radiator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="15.html">Check your frost arrangements</a></li>
+<li class="toctree-l3"><a class="reference internal" href="16.html">Turn down your boiler thermostat</a></li>
+<li class="toctree-l3"><a class="reference internal" href="17.html">Turn off hot water preheat</a></li>
+<li class="toctree-l3"><a class="reference internal" href="18.html">Reduce the hot water temperature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="19.html">Change to point-of-use hot water on demand</a></li>
+<li class="toctree-l3"><a class="reference internal" href="20.html">Maintain your radiators and fan convectors</a></li>
+<li class="toctree-l3"><a class="reference internal" href="21.html">Disable the heating in summer</a></li>
+<li class="toctree-l3"><a class="reference internal" href="22.html">Put countdown timers on big electrics</a></li>
+<li class="toctree-l3"><a class="reference internal" href="23.html">Update your lighting</a></li>
+<li class="toctree-l3"><a class="reference internal" href="24.html">Force the lights offs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="25.html">Reduce the size of heated spaces</a></li>
+<li class="toctree-l3"><a class="reference internal" href="26.html">Choose what spaces to use wisely</a></li>
+<li class="toctree-l3"><a class="reference internal" href="27.html">Use or stop solar gain</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../_steps/3.html">Step 3: Address Heat Loss</a><input class="toctree-checkbox" id="toctree-checkbox-13" name="toctree-checkbox-13" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-13"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="28.html">Make surfaces warmer</a></li>
+<li class="toctree-l3"><a class="reference internal" href="29.html">Insulate the roof</a></li>
+<li class="toctree-l3"><a class="reference internal" href="30.html">Insulate the walls</a></li>
+<li class="toctree-l3"><a class="reference internal" href="31.html">Insulate under the ground floor</a></li>
+<li class="toctree-l3"><a class="reference internal" href="32.html">Insulate hot pipes and tanks</a></li>
+<li class="toctree-l3"><a class="reference internal" href="33.html">Place foil behind radiators</a></li>
+<li class="toctree-l3"><a class="reference internal" href="34.html">Draughtproof the building</a></li>
+<li class="toctree-l3"><a class="reference internal" href="35.html">Create a draught lobby</a></li>
+<li class="toctree-l3"><a class="reference internal" href="36.html">Replace single glazing with double or triple</a></li>
+<li class="toctree-l3"><a class="reference internal" href="37.html">Install secondary glazing</a></li>
+<li class="toctree-l3"><a class="reference internal" href="38.html">Install temporary secondary glazing</a></li>
+<li class="toctree-l3"><a class="reference internal" href="39.html">Add close-fitting thermal curtains or blinds</a></li>
+<li class="toctree-l3"><a class="reference internal" href="40.html">Close doors between heated and unheated spaces</a></li>
+<li class="toctree-l3"><a class="reference internal" href="41.html">Improve or install extractor fans</a></li>
+<li class="toctree-l3"><a class="reference internal" href="42.html">Get the ventilation right</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../_steps/4.html">Step 4: Decarbonise</a><input class="toctree-checkbox" id="toctree-checkbox-14" name="toctree-checkbox-14" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-14"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="43.html">Replace your boiler with a heat pump</a></li>
+<li class="toctree-l3"><a class="reference internal" href="44.html">Connect to a district heating network</a></li>
+<li class="toctree-l3"><a class="reference internal" href="45.html">Add or switch to radiant heating</a></li>
+<li class="toctree-l3"><a class="reference internal" href="46.html">Install heated seating</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../_steps/5.html">Step 5: Generate Energy</a><input class="toctree-checkbox" id="toctree-checkbox-15" name="toctree-checkbox-15" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-15"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="47.html">Turn sunshine into electricity</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../pages/wildcard.html">Wildcard</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../pages/actions-weve-excluded.html">Actions we’ve excluded</a><input class="toctree-checkbox" id="toctree-checkbox-16" name="toctree-checkbox-16" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-16"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/hydrogen-ready-boiler.html">Replace your boiler with one that is hydrogen-ready</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/micro-chp.html">Replace a boiler with a combined heat and power system</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/solar-panels-for-hot-water.html">Install solar panels for hot water</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/turn-electrics-off-at-plug.html">Turn electrical items off at the plug</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/install-air-curtains.html">Install air curtains</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/destratification-fans.html">Install destratification fans</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/biomass.html">Switch to a biomass boiler</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/efficient-appliances.html">Switch to more efficient appliances</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../pages/actions-weve-excluded/tap-aerators.html">Flow restricting tap aerators</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../background-knowledge/intro.html">Energy Efficiency for Community Buildings</a><input class="toctree-checkbox" id="toctree-checkbox-17" name="toctree-checkbox-17" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-17"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/thermal-comfort/intro.html">Heating for comfort</a><input class="toctree-checkbox" id="toctree-checkbox-18" name="toctree-checkbox-18" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-18"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/thermal-comfort/heat-air-or-people.html">Heat the Air, or the People?</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../background-knowledge/thermal-comfort/what-does-ours-do.html">Heating appliances and which they do</a><input class="toctree-checkbox" id="toctree-checkbox-19" name="toctree-checkbox-19" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-19"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/thermal-comfort/radiators.html">Radiators</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/thermal-comfort/convectors.html">Fan convectors</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/thermal-comfort/under-floor.html">Under-floor heating</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/thermal-comfort/radiant-heating.html">Radiant heating</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/thermal-comfort/heated-seating.html">Heated seating</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/thermal-comfort/hybrid-heating.html">Planning for change</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/thermal-comfort/room-temperature.html">What’s a good room temperature?</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/heating-for-the-building/intro.html">Heating for the building</a><input class="toctree-checkbox" id="toctree-checkbox-20" name="toctree-checkbox-20" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-20"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-for-the-building/enforce-minimum-temperature.html">Enforcing a minimum temperature</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-for-the-building/frost-protection.html">To protect plumbing and heating systems</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-for-the-building/avoiding-damp.html">Avoiding damp</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/ventilation/intro.html">Ventilation</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-21"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/ventilation/health.html">Ventilation for health</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/ventilation/extractor-fans.html">Extractor fans</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/using-space-well/intro.html">Using your space well</a><input class="toctree-checkbox" id="toctree-checkbox-22" name="toctree-checkbox-22" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-22"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/using-space-well/right-size-and-space.html">Use and have the right spaces</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/using-space-well/low-occupancy.html">Addressing low occupancy</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/intro.html">Addressing heat loss</a><input class="toctree-checkbox" id="toctree-checkbox-23" name="toctree-checkbox-23" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-23"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/blocking-air/intro.html">Blocking air movement</a><input class="toctree-checkbox" id="toctree-checkbox-24" name="toctree-checkbox-24" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-24"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/blocking-air/draught-lobby.html">Draught lobbies</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/blocking-air/draughtproofing.html">Draughtproofing</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/insulation/intro.html">Insulation</a><input class="toctree-checkbox" id="toctree-checkbox-25" name="toctree-checkbox-25" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-25"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/insulation/roof.html">Insulating roofs</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/insulation/wall.html">Insulating walls</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/insulation/floor.html">Insulating floors</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/insulation/pipe.html">Pipe insulation</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/windows/intro.html">Heat loss through windows</a><input class="toctree-checkbox" id="toctree-checkbox-26" name="toctree-checkbox-26" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-26"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/windows/double.html">Double and triple glazing</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/windows/secondary.html">Secondary glazing</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/windows/temporary-secondary.html">Temporary secondary glazing</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../background-knowledge/addressing-heat-loss/windows/curtains.html">Thermal curtains and blinds</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/addressing-heat-gain/intro.html">Addressing heat gain</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/decarbonising-heat/intro.html">Space heating without gas and oil</a><input class="toctree-checkbox" id="toctree-checkbox-27" name="toctree-checkbox-27" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-27"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/decarbonising-heat/heat-pump.html">Heat pumps</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/decarbonising-heat/district.html">District heating</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/checking-space-heating/intro.html">Checking your space heating</a><input class="toctree-checkbox" id="toctree-checkbox-28" name="toctree-checkbox-28" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-28"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/checking-space-heating/do-we-have-enough-heating.html">Are the radiators and boiler big enough?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/checking-space-heating/circulation-problems.html">Is hot water getting to the radiators?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/checking-space-heating/radiator-maintenance.html">Are radiators and fan convectors clear and well maintained?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/checking-space-heating/do-thermostats-work.html">Do thermostats work and are they effective?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/checking-space-heating/are-timings-right.html">Is the building comfortable when users are in?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/checking-space-heating/is-the-heating-too-fast.html">Does the temperature vary too much or overshoot?</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/heating-controls/intro.html">Efficient heating controls</a><input class="toctree-checkbox" id="toctree-checkbox-29" name="toctree-checkbox-29" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-29"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/the-off-switch.html">The Off Switch</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/thermostats-for-basic-efficiency.html">Basic efficiency using thermostats and TRVs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/zoning.html">Zoning</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/boiler-thermostat.html">Boiler thermostat</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/osc.html">Optimised start control</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/weather-compensation.html">Weather compensation and load (room) compensation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/convector-fan-speed.html">Convector fan speed settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/open-window-sensing.html">Sensing open windows and doors</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/internet-controls.html">Internet controls</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/compatibility.html">Controls compatibility</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/desirable-characteristics.html">Desirable properties for controls in community buildings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/heating-controls/examples.html">Examples of changes</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/hot-water/intro.html">Hot water</a><input class="toctree-checkbox" id="toctree-checkbox-30" name="toctree-checkbox-30" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-30"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/hot-water/cylinder.html">Hot water cylinders</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/hot-water/combi-hot-water.html">Hot water from a combi boiler</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/hot-water/immersion.html">Immersion heaters</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/hot-water/point-of-use-hot-water.html">Point of use water heaters</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../background-knowledge/electrics/intro.html">Reducing electricity use</a><input class="toctree-checkbox" id="toctree-checkbox-31" name="toctree-checkbox-31" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-31"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/electrics/timeswitches-and-countdown-timers.html">Timeswitches and countdown timers</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/electrics/computers-and-smart-tvs.html">Computers and smart TVs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/electrics/refrigerators-and-freezers.html">Refrigerators, freezers and ovens</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/electrics/lighting.html">Changing to LED lighting</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/electrics/motion-sensing.html">Motion sensing</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../background-knowledge/electrics/buying-new-appliances.html">Buying new appliances</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/solar-panels/intro.html">Solar panels</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../our-monitors.html">How to Use Our Thermal Monitors</a><input class="toctree-checkbox" id="toctree-checkbox-32" name="toctree-checkbox-32" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-32"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../our-monitors/basics.html">Understanding your monitor</a><input class="toctree-checkbox" id="toctree-checkbox-33" name="toctree-checkbox-33" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-33"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/basics/what-it-does.html">What the monitor does</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/basics/batteries.html">Batteries</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../our-monitors/access-monitor.html">Accessing the monitor</a><input class="toctree-checkbox" id="toctree-checkbox-34" name="toctree-checkbox-34" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-34"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/access/find-wifi-settings.html">Find your device’s wifi settings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/access/turn-monitor-on.html">Turn on the monitor</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/access/connect-to-monitor.html">Connect to the monitor</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/access/load-interface.html">Access monitor using browser</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../our-monitors/setup-v3.html">Setting up a v3 monitor</a><input class="toctree-checkbox" id="toctree-checkbox-35" name="toctree-checkbox-35" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-35"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/setup-v3/set-the-mode.html">Setting the mode</a></li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../our-monitors/setup-v3/internet-mode.html">Configuring in internet mode</a><input class="toctree-checkbox" id="toctree-checkbox-36" name="toctree-checkbox-36" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-36"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/setup-v3/internet-mode/connect-to-building-wifi.html">Connecting monitor to the building’s wifi</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/setup-v3/internet-mode/check-connection.html">Check for data</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../our-monitors/setup-v3/save-mode.html">Configuring in save mode</a><input class="toctree-checkbox" id="toctree-checkbox-37" name="toctree-checkbox-37" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-37"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/setup-v3/save-mode/setup-screen.html">Starting the monitor</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/setup-v3/save-mode/finding-the-datafile.html">Finding your downloaded data</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/setup-v3/save-mode/sending-us-the-data.html">Sending us the data</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../our-monitors/vs-1-and-2.html">Setting up earlier versions</a><input class="toctree-checkbox" id="toctree-checkbox-38" name="toctree-checkbox-38" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-38"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../our-monitors/wifi-version.html">Using hub to send to internet</a><input class="toctree-checkbox" id="toctree-checkbox-39" name="toctree-checkbox-39" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-39"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/wifi-sequence/connect-base-station.html">Connect the hub to the internet</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/wifi-sequence/heathackhub-network.html">Connect to the wifi hotspot</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/wifi-sequence/connect-to-hub.html">Connect to the hub</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/wifi-sequence/use-hub-gui.html">Configure the hub</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/wifi-sequence/turn-on-sensor-unit.html">Turn on sensor unit</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/wifi-sequence/check-connection.html">Check the connection</a></li>
+</ul>
+</li>
+<li class="toctree-l3 has-children"><a class="reference internal" href="../../our-monitors/no-wifi-version.html">Instructions for standalone version</a><input class="toctree-checkbox" id="toctree-checkbox-40" name="toctree-checkbox-40" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-40"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/no-wifi-sequence/step1.html">Find your wifi settings</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/no-wifi-sequence/step2.html">Turn the sensor unit on and connect to the “engineer” wifi hotspot</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/no-wifi-sequence/step3.html">Connect to the sensor unit</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/no-wifi-sequence/step4.html">Name the location, download the data and restart</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/no-wifi-sequence/step5.html">Send us the data</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../our-monitors/no-wifi-sequence/bug-in-early-models.html">Bug in early models</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/conversion.html">Converting an internet-connected unit to standalone</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../our-monitors/troubleshooting.html">Troubleshooting</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../our-monitors/accessing-data.html">Accessing the thermal monitoring data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../our-monitors/using-two-monitors.html">Using two monitors at once</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../our-monitors/making-monitors.html">Making thermal monitors yourself</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../background-knowledge/working-with-data/intro.html">What to look for in temperature data</a><input class="toctree-checkbox" id="toctree-checkbox-41" name="toctree-checkbox-41" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-41"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/basics.html">Basic observations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/max-and-min.html">Actual and potential high and low temperatures</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/portable-heaters.html">Portable heaters</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/environmental-conditions.html">Sun, wind, and open doors and windows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/thermostatic-control.html">Observing thermostatic control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/thermostat-wars.html">User modification of thermostat and TRV settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/setback-thermostat.html">Observing setback thermostat operation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/user-experience.html">Judging user comfort and waste</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../background-knowledge/working-with-data/balance.html">Heating balance</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../../_sources/card-game/_cards/6.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Share your building</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section id="share-your-building">
+<h1>Share your building<a class="headerlink" href="#share-your-building" title="Permalink to this heading">#</a></h1>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 sd-border-1 docutils">
+<div class="sd-row sd-row-cols-2 sd-row-cols-xs-2 sd-row-cols-sm-2 sd-row-cols-md-2 sd-row-cols-lg-2 sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 centered docutils">
+<div class="sd-col sd-d-flex-column sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
+<a class="reference internal image-reference" href="../../_images/step_1.svg"><img alt="../../_images/step_1.svg" class="align-center" src="../../_images/step_1.svg" width="75px" /></a>
+<div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
+<div class="sd-row docutils">
+<div class="sd-col sd-d-flex-column docutils">
+<a class="reference internal image-reference" href="../../_images/carbon_3.svg"><img alt="../../_images/carbon_3.svg" class="align-center" src="../../_images/carbon_3.svg" width="50px" /></a>
+</div>
+<div class="sd-col sd-d-flex-column docutils">
+<a class="reference internal image-reference" href="../../_images/cost_1.svg"><img alt="../../_images/cost_1.svg" class="align-center" src="../../_images/cost_1.svg" width="50px" /></a>
+</div>
+</div>
+</div>
+</div>
+<div class="sd-col sd-d-flex-column sd-col-9 sd-col-xs-9 sd-col-sm-9 sd-col-md-9 sd-col-lg-9 docutils">
+<p><strong>Share your building</strong></p>
+<p>If your building is in high use, it’s easier to afford changes and get grants.  Think about whether your building is used as often as it could be. If you’re struggling to manage a building that the community would use more, you may be able to combine forces with another group that needs space or work with the local community to create a new independent charity that has the energy to run it well - and claim first dibs on their space.</p>
+</div>
+</div>
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./card-game/_cards"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  <!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="5.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Consider how you worship - for churches</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="../_steps/2.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Step 2: Reduce Energy Demand</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By HeatHack
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2022-23.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  <p> <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode"> Creative Commons Attribution-ShareAlike 4.0 International Public License </a></p>
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6"></script>
+<script src="../../_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

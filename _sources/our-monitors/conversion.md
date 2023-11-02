@@ -4,7 +4,7 @@ If you discover you need to monitor location where there isn't a good wifi signa
 
 The standalone sensor for venues without wifi  is described in the same Tech Guide, and if you ignore your hub - which has the USB port - you can convert your sensor to work as it describes.
 
-- [Standalone monitor instructions](https://jeancarletta.github.io/HeatHack-Tech-Guide/no-wifi-version.html)
+- [Standalone monitor instructions](no-wifi-version)
 
 To convert it, you turn on the *sensor unit* (with the white checkerboard  sensor in it) and connect to the engineer wifi access point (password heathack), but instead of going to the main setup screen, go to this link:  
 

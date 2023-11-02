@@ -1,33 +1,51 @@
+(card-game-tips)=
 # Card Game
 
-We use an action card game to help groups think about change. 
+We use an action card game to help groups think about change. Groups like the tactility of cards and they help encourage everyone to participate.  Although there are many cards, groups tell us that they find their way through them quickly and it makes sense of a hard problem in a short time.  The point of the game is to get people thinking, not to set a final plan in stone.  One person may offer to take the cards away and come back with "the solution", but that risks missing important insights and doesn't do as much to create support and enthusiasm for change.  It's also very important to go through the board game activity before the group finalises their proposed plan in the final session.  
 
-Groups like the tactility of cards and they help encourage everyone to participate.  Although there are many cards, groups tell us that they find their way through them quickly and it makes sense of a hard problem in a short time.  The point of is to get people thinking, not to set a final plan in stone.  One person may offer to take the cards away and come back with "the solution", but that risks missing important insights and doesn't do as much to create support and enthusiasm for change.
+This page is just the tips for running the game.  The instructions for how to play the game, the online versions of the cards, and links that help groups act on them are here:
 
-For now at least, the card game is on a separate website.  The instructions for how to play it are there.  
+- [](card-game-intro)
 
-- [HeatHack Card Game](https://jeancarletta.github.io/HeatHack-Card-Game/intro.html)
-- [HeatHack Card Game - Scottish Episcopal Church version](https://toolkit.secnetzero.org/online-cards.html)
+## Group leader
 
-This page gives tips for the group leader and engineer about how to make it run smoothly.
+You should create a quick "game board" by creating four labels for the four places to put cards after they've been discussed, so the group doesn't get confused.  
 
-You will need to discuss how you will run and record the outcome of the game.  In some groups, the engineer takes care of the game action and helps the group triage the cards so they make quick progress while the group leader takes notes.  In others, the group leader runs the games with the engineer just helping to explain the actions, and the group takes the notes.   Whatever you do, the engineer will need to take away what you produce and use something like our template to document the plan, especially if you intend to seek grant funding.
+Your role in the game is time-keeping and making sure there is a record of what happened.
 
-- [HeatHack Action Planning Template](https://docs.google.com/spreadsheets/d/1qiwoNowiUvHmJD5xaN5aZFjLV2M7T4vu/)
+During the game, you need to keep things moving.  There won't be time during the session to discuss possible actions fully, and probably won't even get to every card.  The group will return to the actions later on.  The goal is to see that there are practical actions the group can take and to get a sense of the general shape of what can be done and where the group's enthusiasm lies.  The group may not get through everything, but they should start getting a sense of what's important to them and suitable for their circumstances.  They can talk about how to complete it.
 
-During the game, you need to keep things moving.  There won't be time during the session to discuss possible actions fully, and probably won't even get to every card.  The group will return to the actions later on.  The goal is to see that there are practical actions the group can take and to get a sense of the general shape of what can be done.
+Leave time at the end of your session to think about what happens next. 
 
-The group may have already taken some of the actions on the cards.  The site survey might give enough information to eliminate other cards.  Once the group has an agreed position on whether it's right for them to heat the air or heat the people, this also takes cards out of play. Sometimes the engineer declare special early rounds in the game to remove the cards. This can give groups a feeling of accomplishment and engage them better.  Other engineers pull these cards out ahead of the game and lay them out in marked areas on the table, explaining what they have done.  We leave this to your judgment.  Whatever you do, don't take cards out unless it's clear that the group would all agree.  
-
-If the group is focusing on one type of card - for instance, all cheap actions, or all expensive ones - encourage them to mix it up.  You can either just suggest they look at a different kind of card or declare a special round of the game.  Don't let them remove actions just because they consider them too expensive.  You can remind them that grants change all the time, and use some of the "magic wand" cards to help them think about things they can't imagine achieving by themselves.  Perhaps some actions will be many years in the future, but they still need to know what's right for their circumstances.
-
-Groups that will be running on gas or oil boilers for a while yet need to make sure they consider the many cards that are about heating controls.  Poor control is a major cause of wasted energy in our buildings and sometimes these actions pay back in a cold month or two.  It's possible to get a sense of which actions are useful for a building just from the controls it has and how the building is used, but knowing how fast they'll pay back takes winter data from the thermal monitor.  The board game comes back to look at this.  Meanwhile, if you need to you can plan to look at this later.
+- For actions you should take, who needs to be involved?  Does it require professional advice?  Who needs to approve it?  Will grant funding be required?  Is it something for this year, in five years, or longer?  
+- For actions you are unsure about, what information do you need?   That might be information about the building and its use, about whether the action is suitable, what it might cost and how it might be funded, or what kind of people would need to be involved, including workers and professionals to ensure correct choices are made, oversee  works, or both.  How will you find more information so you can make a decision? Do you need more time to think about it together or to take the views of other people? 
 
 
-You'll need to save some time at the end to discuss what to do about cards where they need more information.  That might be information about the building and its use, about whether the action is suitable, what it might cost and how it might be funded, or what kind of people would need to be involved, including workers and professionals to ensure correct choices are made, oversee  works, or both.  For the definite actions, you could discuss whether it's something to do right now, in a year, in five years, or longer, and perhaps whether it's something you need the rest of the community behind or something you can just do. 
+The game is the first step in your group's planning, so it's important to remember what happened during it.  
+Some funders are keen to see the reasoning even for the actions you haven't chosen, as this helps them know you have the right plan.  Here are some ways to keep track without slowing the game down.
 
-It's hard to know how long to recommend for this discussion, but groups should at least get a flavour of the entire process and talk about how to complete it.
+- Ask one person to take notes, maybe directly into a copy of the template.
+- Hand out pens and sticky notes, so each person in turn can write comments on the cards as the group moves on to the next player.  At the end, take a photograph of the table and pack up the notes with the comments attached.  
+- Summarise each turn when you move the group on to the next turn, recording the summary as an audio snippet.  
 
+We recommend you take a photo at the end, although this will only tell you which area the cards belong to.
+
+# The engineer 
+
+Your role is to help the group think coherently about where to put the cards, and also to guide the group through a big card set in a short time.  It's helpful if you can read the brief summaries on the cards ahead of time.  This website contains practical links for the actions.  These are really for later on.  If the group asks you a question, it's perfectly fine not to know the answer, and to say so!
+
+If the group is focusing on one type of card - for instance, all cheap actions, or all cards in the early steps - encourage them to mix it up.  You can either just suggest they look at a different kind of card or declare a special round of the game that's different.  If they try to remove actions just because they consider them too expensive, you can remind them that grants change all the time.  Perhaps some actions will be many years in the future, but they still need to know what's right for their circumstances.  
+
+You can declare special rounds if you think that's helpful.  Some groups like to have the first round take out things that are done or not relevant to reduce the card set quickly and give them a sense of achievement.  In other groups, the engineer will pull out the cards that he thinks the group has already agreed on or that the site survey suggests aren't relevant and place them before the first turn - but anyone who thinks they're wrong can say so an the card stays on the board.  Whatever you do, don't take cards out unless it's clear that the group agrees.
+
+
+Groups that will be running on gas or oil boilers will benefit from the cards that are about getting proper control of their current heating system.  Poor control is a major cause of wasted energy in our buildings and sometimes these actions pay back in a cold month or two.  With experience, it's possible to get a sense of which actions are useful for a building just from the controls it has and how the building is used, but knowing how fast they'll pay back takes winter data from the thermal monitor.  The board game comes back to look at this, and some engineers pull out those cards - which are all in step 2 - to show again in session 3.  
+
+If a group already knows that they intend to move to a different heating technology quickly, the heating control cards will be a distraction.
+
+After the game, the engineer is usually the one to document the game outcome.  This documentation is important.   The rest of the local community and grant funders will want to know not just what you think your organisation should do, but also why.  We provide a planning template to help you record this.
+
+- [Card Game Planning Template](https://docs.google.com/spreadsheets/d/1qiwoNowiUvHmJD5xaN5aZFjLV2M7T4vu/)
 
 
 

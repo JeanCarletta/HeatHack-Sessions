@@ -22,7 +22,7 @@ This week's engineer talk lays out some basic concepts that it is important for 
 
  We can write up just a bit more further information with technical links as required, for instance, see
 
-- [HeatHack Reading Materials - Thermal Comfort](https://jeancarletta.github.io/HeatHack-Sessions/thermal-comfort/thermal-comfort.html)
+- [Thermal Comfort](thermal-comfort)
 
 ## Bullet points
 

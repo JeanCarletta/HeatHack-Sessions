@@ -1,3 +1,4 @@
+(point-of-use-hot-water)=
 # Point of use water heaters
 
 

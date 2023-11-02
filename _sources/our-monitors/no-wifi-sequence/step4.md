@@ -9,7 +9,7 @@
 ```
 You should now see the sensor unit's interface.  Check the temperature and relative humidity shown look sensible.  If not, see the troubleshooting page.
 
-- [Troubleshooting Page](https://jeancarletta.github.io/HeatHack-Tech-Guide/troubleshooting.html)
+- [Troubleshooting Page](troubleshooting)
 
 For the location, enter a word or two that will remind you where you've left the unit; for instance "main-hall".  You can use hyphens and underscores if you wish, but avoid spaces.  Please try to use the same description for the same location every time.
 
