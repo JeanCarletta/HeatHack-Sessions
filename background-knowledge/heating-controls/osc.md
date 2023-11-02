@@ -17,12 +17,13 @@ Unfortunately, different manufacturers use different names for the feature.   Pr
 
 Very occasionally there are models that have a similar sounding feature, but really just have you select a constant amount of warm-up time to use, so read the documentation carefully on your shortlisted models.
 
-It's rare for controls to use "optimised stop control" to learn when to turn the heating off even though this would be very useful in some of our buildings.   You can use the thermal monitor to make a judgment about how early you can turn the heating off.  Even leaky rooms stay warm for a while. Insulated rooms, ones with lots of people in them, and ones with column radiators stay warm for a long time.  In theatres, it's common practice to stop the heating as soon as the doors close at the start of the performance, and this works in some community buildings, too. You definitely don't want to run the heating in a space right at a door that's open to the outside while large groups are leaving the building, so you should at least try to program the heating to go off before that happens.
+It's rare for controls to use "optimised stop control" to learn when to turn the heating off even though this would be very useful in some of our buildings.   
 
 
 - [Optimal start/stop control (technical)](https://buildingenergy.cx-associates.com/optimal-start/stop-and-youre-done-right)
 - [Simpler explanation of optimised start (Heatmiser, one vendor)](https://faq.heatmiser.com/hc/en-us/articles/360001978279-Optimum-Start-Explained)
 - [Discussion of terminology with names of some controls (web forum)](https://forums.moneysavingexpert.com/discussion/6438159/heating-controls-with-optimised-start)
+ - [Explanation of the range of energy efficiency options for controls (technical - domestic, but same principles apply)](https://www.beama.org.uk/resourceLibrary/guidance-on-how-to-comply-with-the-part-l-of-the-building-regulation-from-april-2018.html) 
 
 We give examples of controls, but don't assume they will be suitable for your building and how you use it - you have to think about the full set of things users can do using the buttons.
 

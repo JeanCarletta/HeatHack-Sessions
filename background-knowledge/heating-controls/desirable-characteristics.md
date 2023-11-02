@@ -1,4 +1,7 @@
+(choosing-controls)=
 # Desirable properties for controls in community buildings
+
+<!-- :TODO:https://www.electricradiatorsdirect.co.uk/news/lot-20-explained-what-does-this-mean-for-electric-heating/ if a site has convective electric heating just with rocker switches, what can they do besides add countdown timers - is there any external control that can be wired in to control them better, or is the only way to improve efficiency to replace them with Lot-20 compliant controls? -->
 
 The building regulations specify control in terms of function, not format.  As long as a control system can achieve the properties and energy savings required in the regulations, they are allowed - otherwise the regulations would stifle the innovations we so badly need for improvement. 
 
@@ -24,6 +27,9 @@ Because choosing controls is complicated, we've tried to bring together a list o
     - How large a change they can make.  If there is an elderly group in just after and the heating is slow to recover, you don't want them turning the heating all the way off.
 
     - How long their change should last.  You want all changes to be only for a set amount of time or until the next step in the heating program.  For this, you need to think about the effects of any thermostat changes but also "holiday" mode or "override" buttons.
+
+        - [Example of a thermostat with upper and lower limits and no permanent override](https://www.ephcontrols.com/section/delay-start-thermostat/)
+        - [Example of a programmable room stat that limits what users can do](https://www.warmworld.co.uk/)
 
 - **Offset temperature readings.** Being able to correct the temperature reading at each thermostat location is a useful feature. 
 

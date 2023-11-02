@@ -1,3 +1,4 @@
+(heating-for-building)=
 # Heating for the building
 
  Until recently, the conventional wisdom has been to choose a minimum temperature for the building based on its construction and its contents and avoid going below that temperature.  For modern buildings, the architect's intended temperature might be specified on the architectural drawings but there could be a "better safe than sorry" element to this, especially if the drawing is from an era of cheap energy. For older buildings, the minimal requirement appears to be keeping the building at a high enough temperature to guarantee it will stay above dewpoint, to avoid condensation.  Under UK conditions sometimes the advice is to enforce 7-8C as a bare minimum for this reason.  What your building needs could be higher, depending on its construction and also what it contains.  

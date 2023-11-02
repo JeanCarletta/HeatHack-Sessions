@@ -1,3 +1,4 @@
+(hot-water)=
 # Hot water
 
 There are several ways you might be providing hot water for your users.

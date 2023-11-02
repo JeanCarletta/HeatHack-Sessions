@@ -1,0 +1,21 @@
+# Step $number: $title
+
+
+::::{grid} 2
+:gutter: 2
+:outline: 
+:class-row: centered
+
+:::{grid-item}
+:columns: 3
+
+```{image} /images/card-game/step-icons/step_$number.svg
+:width: 75px
+```
+:::
+
+:::{grid-item}
+:columns: 9
+$tagline
+:::
+::::

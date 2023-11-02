@@ -1,9 +1,11 @@
+(check-space-heating)=
 # Checking your space heating
 
 ```{admonition} For those keeping their existing heating systems
 :class: tip
 
-If you intend to replace your complete heating system very soon, you can skip this section.  If you only intend to replace your boiler and keep everything else, it is still relevant.
+If you intend to replace your complete heating system very soon, you can skip this section, although parts of it might be relevant for your new system.  
+If you only intend to replace your boiler and keep everything else, it is still relevant.
 This is mostly about "wet" systems where hot water from a boiler is fed to radiators, but some of the comments also apply to electric heating.
 ```
 

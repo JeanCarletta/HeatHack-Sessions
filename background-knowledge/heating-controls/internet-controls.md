@@ -73,6 +73,13 @@ These resources compare the most popular systems and models, but there are many 
 - [Internet control comparisons from the Heating Hub](https://www.theheatinghub.co.uk/nest-thermostat-vs-hive-heating-vs-worcester-wave)
 - [Smart TRV guide from The Heating Hub; includes wireless/standalone](https://www.theheatinghub.co.uk/smart-radiator-valves-product-and-compatibility-guide)
 
+Some example controls:
+
+- [Honeywell Evohome - smart control](https://www.trustedreviews.com/reviews/honeywell-evohome-2)
+- [Tado - smart control](https://www.trustedreviews.com/reviews/tado-smart-thermostat-v3-plus)
+- [Drayton Wiser - community hall case study](https://wiser.draytoncontrols.co.uk/blog/wiser-customer-stories-supporting-local-community-hub-save-energy-and-money)
+
 ```
 
 <!-- - [BEAMA list of smart TRVs on UK market, 2020](https://www.beama.org.uk/resourceLibrary/smart---connected-trvs.html) List suspiciously short! maybe British only? -->
+<!-- - [Example of a system with "smart" TRV zoning](https://theevohomeshop.co.uk/honeywell-evohome/) -->

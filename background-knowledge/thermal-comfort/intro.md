@@ -1,3 +1,4 @@
+(thermal-comfort)=
 # Heating for comfort
 
 We heat buildings mostly to make the people who use them comfortable. 

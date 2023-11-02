@@ -22,7 +22,7 @@ In the game, the group leader moves game pieces around a floorplan of the buildi
 
 - What do they do if they're too hot or too cold?
 
-- What would make things better and attract more users?  
+- What changes would attract more user groups to our unoccupied spaces? 
 
 At the end, go around the room for each person to suggest one thing they'll take away from the game.  You can allow some discussion and record what they say on a flip-chart or projected document and allow some discussion.  
 :::
@@ -59,14 +59,21 @@ The challenge for the engineer is being able to read the thermal monitoring data
 
 Group members often fail to be imaginative and ambitious about building changes, sometimes for fear of what others will think.  In our experience communities are less conservative than their individual members think!  The engineer can help the group leader by asking "what if" questions about the unused spaces and reminding the group about heating the air versus heating the people.
 
+```{admonition} A change we intend to make
+
+We've found some groups think only about why spaces aren't used or only about what users do to make themselves comfortable.  We intend to revise the board game, probably by playing it twice, but more quickly.  This will help the group's focus and make it easier for the group to come to a consensus on each topic.
+
+```
+
 
 ```{admonition} Game tips
 :class: tip
-The floorplan can be simple and sketchy.  This helps the group be playful.  If you bring paper, scissors, and marker pens, you can ask group members to add features and make props as you go along that help you tell the story.
+- The floorplan can be simple and sketchy.  This helps the group be playful.  If you bring paper, scissors, and marker pens, you can ask group members to add features and make props as you go along that help you tell the story.
 
 <!-- TODO ask Mary? Mim? to draw a game board? -->
 
-It helps to write the three questions out large where people can see them.
+- It helps to write the three questions out large where people can see them.
+
 
 ```
 

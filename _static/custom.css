@@ -1,0 +1,183 @@
+
+/* useful for styling our own admonitions with custom :class: 
+
+div.ourclass {
+    border-left-color: rgba(var(--pst-color-success), 1);
+}
+div.ourclass .admonition-title {
+    background-color: rgba(var(--pst-color-success), .1)
+}
+
+div.ourclass .admonition-title:before {
+    color: rgba(var(--pst-color-success), 1);
+    content: '\f19d';
+} */
+
+/* css for card pages */
+
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+
+}
+
+/* think this is now all old
+
+  .card {
+    display: grid;
+    grid-template-columns: 100px auto;
+    grid-template-rows:auto;
+    gap: 20px;
+    margin-bottom: 100px;
+    outline: 2px solid black; 
+  }
+
+.step1 {
+    display: grid;
+    background-color:deeppink;
+    align-items: center;
+    text-align: center;
+    font-size: 5em;
+    color: white;
+}
+
+.step2 {
+    display: grid;
+    background-color: orange;
+    align-items: center;
+    text-align: center;
+    font-size: 5em;
+    color: white;
+}
+
+.step3 {
+    display: grid;
+    background-color:purple;
+    align-items: center;
+    text-align: center;
+    font-size: 5em;
+    color: white;
+}
+
+.step4 {
+    display: grid;
+    background-color:blue;
+    align-items: center;
+    text-align: center;
+    font-size: 5em;
+    color: white;
+}
+
+.step5 {
+    display: grid;
+    background-color:green;
+    align-items: center;
+    text-align: center;
+    font-size: 5em;
+    color: white;
+}
+  
+.card-content {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows:auto;
+    gap: 20px;
+    align-items: center;
+}
+
+
+
+.cost-benefit {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+    gap: 20px;
+ 
+    .cost {
+        align-items: center;
+        text-align: left;
+        font-size: 2em;
+        padding-left: 10px;
+      }
+
+    .benefit {
+        align-items: center;
+        text-align: right;
+        font-size: 2em;
+        padding-right: 10px;
+      }
+  }
+  
+
+.card-body {
+    align-items: center;
+    text-align: left;
+    font-size: 1em;
+  } 
+
+*/
+
+  .grid-container {
+      display: grid;
+      grid-template-columns: 100px auto;
+      grid-template-rows:100px;
+      gap: 20px;
+      outline: 2px solid black; 
+    }
+  
+  .grid-item {
+      text-align: left;
+      align-items: center;
+    }
+  
+/*
+    div.card {
+      outline: 2px solid #006400; 
+    }
+  
+    div.card h1 {
+      padding: 5px;
+      text-align: center;
+    }
+  
+    div.card p {
+      padding: 10px; 
+    }
+   
+  #card-quote {
+      margin: -3px; 
+      text-align:right;
+    }
+    
+    img.card-icon {
+      height: 100px;
+      width:  100px;
+      padding-top: 10px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      align-items: center;
+    }
+  
+    img.toolkit-icon {
+      border-style: none;
+      display: flex;
+      height: 60px;
+      width: 60px;
+    }
+  
+    img.tag-icon {
+      height: 40px;
+      width:  40px;
+    }
+  
+    div.icons-grid-container {
+      display: grid;
+      grid-template-rows: 100px;
+      grid-template-columns: 33% 34% 33%;
+      gap: 5px;
+    }
+
+*/

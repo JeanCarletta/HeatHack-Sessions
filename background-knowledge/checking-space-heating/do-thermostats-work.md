@@ -41,7 +41,7 @@ Here are some ways of testing your thermostat and what it does.
 
 A thermostat could technically be working, but be ineffective because the temperature they report bears no relationship to what users feel.  This is usually because it is badly placed - for instance, attached to a very cold stone wall that overwhelms its sense of the air temperature, in a corner with low airflow, above a heat source, or in the sun.  This is especially likely for wired thermostats, since electricians prefer convenient locations.  Thermostats need the same kind of locations as thermal monitors, so you can use the description we give for those.
 
-- [Good thermal monitor locations](https://jeancarletta.github.io/HeatHack-Sessions/thermal-data/where-to-put-monitor.html)
+- [Good thermal monitor locations](monitor-placement)
 
 If there is a thermostatic radiator valve so badly positioned the readings are useless, it is possible to use either smart TRVs or sometimes a unit on the wall that has a wire running to the valve.
 

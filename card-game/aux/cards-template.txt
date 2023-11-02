@@ -1,0 +1,44 @@
+# $title
+ 
+::::::{grid} 2
+:gutter: 2
+:outline: 
+:class-row: centered
+
+:::::{grid-item}
+:columns: 3
+```{image} /images/card-game/step-icons/step_$step_number.svg
+:width: 75px
+:align: center
+```
+
+
+::::{grid}
+
+:::{grid-item}
+
+```{image} /images/card-game/carbon-icons/carbon_$carbon_number.svg
+:width: 50px
+:align: center
+```
+:::
+
+:::{grid-item}
+```{image} /images/card-game/cost-icons/cost_$cost_number.svg
+:width: 50px
+:align: center
+```
+:::
+
+::::
+
+:::::
+
+:::::{grid-item}
+:columns: 9
+
+**$title**
+
+$description
+:::::
+::::::

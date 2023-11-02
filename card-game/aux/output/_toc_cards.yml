@@ -1,0 +1,72 @@
+- file: card-game/pages/intro
+  sections:
+    - file: card-game/pages/reading-a-card
+    - file: card-game/pages/how-to-play
+    - file: card-game/_steps/1
+      sections:
+        - file: card-game/_cards/1
+        - file: card-game/_cards/2
+        - file: card-game/_cards/3
+        - file: card-game/_cards/4
+        - file: card-game/_cards/5
+        - file: card-game/_cards/6
+    - file: card-game/_steps/2
+      sections:
+        - file: card-game/_cards/7
+        - file: card-game/_cards/8
+        - file: card-game/_cards/9
+        - file: card-game/_cards/10
+        - file: card-game/_cards/11
+        - file: card-game/_cards/12
+        - file: card-game/_cards/13
+        - file: card-game/_cards/14
+        - file: card-game/_cards/15
+        - file: card-game/_cards/16
+        - file: card-game/_cards/17
+        - file: card-game/_cards/18
+        - file: card-game/_cards/19
+        - file: card-game/_cards/20
+        - file: card-game/_cards/21
+        - file: card-game/_cards/22
+        - file: card-game/_cards/23
+        - file: card-game/_cards/24
+        - file: card-game/_cards/25
+        - file: card-game/_cards/26
+        - file: card-game/_cards/27
+    - file: card-game/_steps/3
+      sections:
+        - file: card-game/_cards/28
+        - file: card-game/_cards/29
+        - file: card-game/_cards/30
+        - file: card-game/_cards/31
+        - file: card-game/_cards/32
+        - file: card-game/_cards/33
+        - file: card-game/_cards/34
+        - file: card-game/_cards/35
+        - file: card-game/_cards/36
+        - file: card-game/_cards/37
+        - file: card-game/_cards/38
+        - file: card-game/_cards/39
+        - file: card-game/_cards/40
+        - file: card-game/_cards/41
+        - file: card-game/_cards/42
+    - file: card-game/_steps/4
+      sections:
+        - file: card-game/_cards/43
+        - file: card-game/_cards/44
+        - file: card-game/_cards/45
+        - file: card-game/_cards/46
+    - file: card-game/_steps/5
+      sections:
+        - file: card-game/_cards/47
+    - file: card-game/pages/wildcard
+    - file: card-game/pages/actions-weve-excluded
+      sections:
+        - file: card-game/pages/actions-weve-excluded/hydrogen-ready-boiler
+        - file: card-game/pages/actions-weve-excluded/micro-chp
+        - file: card-game/pages/actions-weve-excluded/solar-panels-for-hot-water
+        - file: card-game/pages/actions-weve-excluded/turn-electrics-off-at-plug
+        - file: card-game/pages/actions-weve-excluded/install-air-curtains
+        - file: card-game/pages/actions-weve-excluded/destratification-fans
+        - file: card-game/pages/actions-weve-excluded/biomass
+        - file: card-game/pages/actions-weve-excluded/efficient-appliances

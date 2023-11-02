@@ -1,4 +1,4 @@
-# Electrical appliances
+# Reducing electricity use
 
 Some appliances use a lot of energy, and some only use a little.  Community buildings have a lot of electrics so it's better to focus on what matters the most.  You'll want to think about:
 
@@ -20,5 +20,3 @@ However, if you have smart TVs, computers, and games consoles that are by defaul
 - [2022 assessment of standby, from The Guardian](https://www.theguardian.com/money/2022/apr/29/tech-expert-energy-vampire-devices)
 ```
 
-
-```

@@ -3,8 +3,9 @@
 
 title: HeatHack Guide Book
 author: HeatHack 
+copyright: 2022-23
 logo: ./images/heat_hack_logo1.png
-exclude_patterns: [redundant, unfiled, README.md]
+exclude_patterns: [redundant, unfiled, README.md, card-game/aux, card-game/card-explanations, card-game/_cards/48.md]
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -46,7 +47,7 @@ sphinx:
 repository:
   url: https://github.com/JeanCarletta/HeatHack-Sessions/  # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root ## should this be _build/html?
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository

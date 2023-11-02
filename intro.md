@@ -7,3 +7,4 @@ We are always learning from our venues doing our best to respond to their needs.
 ```{note}
 Originally this website had supplementary reading materials for the programme.  We  are currently rewriting it to contain almost everything, pointing to Google documents for the rest, to make our programme less confusing.  Please bear with us while we do this. 
 ```
+

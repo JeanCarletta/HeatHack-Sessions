@@ -1,3 +1,4 @@
+(are-timings-right)=
 # Is the building comfortable when users are in?
 
 It's very common for HeatHack groups to find that the times their spaces are comfortable don't match when people are in.
@@ -21,6 +22,9 @@ Here are some of the other reasons the heating timings might be wrong:
 - Whoever sets the heating might be having to guess how long it takes the building to warm up and cool down.  This is because on older heating timeswitches, you tell them when the system should come on, not when people will be in.  It's very hard to guess right because it depends on the weather and how much the building has been used recently.  In this case, optimised start control will both save energy and make your users more comfortable.
 
     - [](optimised-start-control)
+
+- You might be leaving the heating on too long.  Even leaky rooms stay warm for a while. Insulated rooms, ones with lots of people in them, and ones with column radiators stay warm for a long time.  In theatres, it's common practice to stop the heating as soon as the doors close at the start of the performance, and this works in some community buildings, too. You definitely don't want to run the heating in a space right at a door that's open to the outside while large groups are leaving the building, so you should at least try to program the heating to go off before that happens.  You can use the thermal monitor to make a judgment about how early you can turn the heating off.  
+
 
 
 

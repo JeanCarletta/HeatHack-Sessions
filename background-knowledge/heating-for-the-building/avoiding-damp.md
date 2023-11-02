@@ -1,3 +1,4 @@
+(avoiding-damp)=
 # Avoiding damp
 
 Whatever you do, you need to avoid your building being damp.  Damp walls lose heat much faster, and damp makes the building deteriorate.  Here are some of the main causes.
