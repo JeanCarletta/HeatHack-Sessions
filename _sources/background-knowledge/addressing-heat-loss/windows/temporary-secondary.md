@@ -10,25 +10,20 @@ Historic Environment Scotland says that it is possible to achieve a U-value of 2
 There is also at least one vendor for easy-fit acrylic secondary panes for the two halves of timber sash windows that can be left on even when the window opens.  
 
 ::::{grid} 1 1 1 2
-:outline:
 :gutter: 2
 
-:::{grid-item} 
-
+:::{grid-item-card} Single-glazed window with temporary polycarbonate secondary glazing attached by magnetic tape.  
  ```{figure} /images/card-game/with-temp-secondary-glazing.jpg
      :height: 300px
      :align: center
  ```
-A window with temporary polycarbonate secondary glazing attached by magnetic tape.  The glazing often keeps the window warm enough to avoid condensation under the house's normal operating conditions.  
 
 :::
-:::{grid-item}
+:::{grid-item-card} Same day, same facade, a window without the temporary secondary glazing.   
   ```{figure} /images/card-game/without-temp-secondary-glazing.jpg
      :height: 300px
      :align: center
  ```
-
-Same day, same facade, a window without the temporary secondary glazing.    
 :::
 ::::
 
