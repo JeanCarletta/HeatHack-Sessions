@@ -1,15 +1,10 @@
 (card-game-intro)=
 # Card Game  
 
-If you want to know why we have a card game, or want tips for how to run it, look here:
-
-- [Tips for running card game](card-game-tips)
-
 ::::{grid} 2
 :gutter: 2
 
 :::{grid-item}
-:outline:
 :columns: 3
 ```{image} /images/card-game/card-sorting-2-cropped-to-be-unidentifiable.jpg
 :align: center
@@ -32,7 +27,14 @@ To use the cards, spread them on the rest of the table, and take turns choosing 
 :::
 ::::
 
+```{admonition} Tips for Running the Game
+:class: tip
 
+If you want to know why we have a card game, or want tips for how to run it, look here:
+
+- [Tips for running card game](card-game-tips)
+
+```
 
 
 <!-- ```{admonition} Card game versions -->
@@ -74,7 +76,7 @@ Keep reading for the current HeatHack game. It has 48 double-sided cards.  We po
 :columns: 9
 The original HeatHack game was sent out to groups until October 2023 and has single-sided cards.  If you are introducing the cards to a new group, we will be happy to replace your pack with the new cards.  If you need the old card game website for any reason, it's linked here.
 
-- [HeatHack Card Game](https://jeancarletta.github.io/HeatHack-Card-Game/intro.html)
+- [Old HeatHack Card Game](https://jeancarletta.github.io/HeatHack-Card-Game/intro.html)
 - [Files for printing your own](https://drive.google.com/drive/folders/12ClLfECToujEQ_mFHzxR43c0Aub_qGfR)
 
 :::

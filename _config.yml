@@ -46,16 +46,19 @@ sphinx:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/JeanCarletta/HeatHack-Sessions/  # Online location of your book
-  path_to_book: docs  # Optional path to your book, relative to the repository root ## should this be _build/html?
+  # path_to_book: docs  # Optional path to your book, relative to the repository root ## should this be _build/html?
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   extra_footer: <p> <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode"> Creative Commons Attribution-ShareAlike 4.0 International Public License </a></p> 
-  # use_issues_button: true
-  # use_repository_button: true 
-  
+  # allow anyone with a Github account to submit an issue, and collaborators to actually edit the repo. Might want to protect the main branch if use the feature.
+  # for now, just for discussions with others about how to open up editing.
+  use_issues_button: true 
+  use_repository_button: true 
+  use_edit_page_button: true
+
 
 
 

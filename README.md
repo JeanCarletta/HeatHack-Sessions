@@ -11,7 +11,7 @@ jupyter-book build . --builder html --all
 
 This is largely generated from a spreadsheet, using hand-authored pages to introduce the game, describe the wildcard, and describe excluded actions. There is a wildcard row in the spreadsheet (card 48) and the hand-authored version is just a doctored copy.
 
-There is some hand-authored content for some of the cards in the card-explanations directory; this is appended to the automatically generated content. This is gradually being shifted into other parts of the guide book, preserving just links to the right places.
+There is some hand-authored content for some of the cards in the card-explanations directory; this is appended to the automatically generated content. The explanations are now just links into other parts of the guide book so that we can shift them into the spreadsheet, making it easier to manage them.  
 
 To generate the table of contents and most of the website pages:
 
@@ -26,10 +26,6 @@ Cd to the aux directory.  Ensure master-spreadsheet.xlsx contains the spreadshee
 python generate-website.py
 
 The output will appear in the output subdirectory - _toc_cards.yml, and _steps and _cards subdirectories containing markdown files.  Replace _steps and _card in the card-game directory with these items and stick the _toc_cards.yml contents in the right place in _toc.yml items in the top level directory with the new versions.
-
-
-
-
 
 ## Intended workflow
 
