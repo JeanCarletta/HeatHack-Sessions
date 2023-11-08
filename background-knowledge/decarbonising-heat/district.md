@@ -20,5 +20,6 @@ This card will be academic for most groups, but before making major investments 
 ```{admonition} More information
 - [Guide to where district heating is suitable](https://guidetodistrictheating.eu/guidance-for-cities-and-towns/is-district-heating-suitable-for-my-area/)
 - [District Heating Examples (in Aberdeen)](https://www.aberdeencity.gov.uk/services/housing/home-energy-efficiency/home-energy-savings/energy-efficiency-council-tenants/district-heating)
+- [District Heating Map for London](https://apps.london.gov.uk/heatmap/)
 
 ```
