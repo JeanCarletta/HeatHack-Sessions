@@ -7,8 +7,8 @@ District heating schemes, or heat networks, are starting to appear in some areas
 
 
 ```{image} https://guidetodistrictheating.eu/wp-content/uploads/2020/01/HeatNet-NWE_Examples-of-heat-supply-and-demand-in-North-West-EU_Web-1.jpg
-:alt: heat pump
-:class: bg-primary mb-1
+:alt: 
+:class: mb-1
 :width: 400px
 :align: center
 ```
@@ -20,5 +20,6 @@ This card will be academic for most groups, but before making major investments 
 ```{admonition} More information
 - [Guide to where district heating is suitable](https://guidetodistrictheating.eu/guidance-for-cities-and-towns/is-district-heating-suitable-for-my-area/)
 - [District Heating Examples (in Aberdeen)](https://www.aberdeencity.gov.uk/services/housing/home-energy-efficiency/home-energy-savings/energy-efficiency-council-tenants/district-heating)
+- [District Heating Map for London](https://apps.london.gov.uk/heatmap/)
 
 ```
