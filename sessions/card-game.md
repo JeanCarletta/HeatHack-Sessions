@@ -36,7 +36,7 @@ Your role is to help the group think coherently about where to put the cards, an
 
 If the group is focusing on one type of card - for instance, all cheap actions, or all cards in the early steps - encourage them to mix it up.  You can either just suggest they look at a different kind of card or declare a special round of the game that's different.  If they try to remove actions just because they consider them too expensive, you can remind them that grants change all the time.  Perhaps some actions will be many years in the future, but they still need to know what's right for their circumstances.  
 
-You can declare special rounds if you think that's helpful.  Some groups like to have the first round take out things that are done or not relevant to reduce the card set quickly and give them a sense of achievement.  In other groups, the engineer will pull out the cards that he thinks the group has already agreed on or that the site survey suggests aren't relevant and place them before the first turn - but anyone who thinks they're wrong can say so an the card stays on the board.  Whatever you do, don't take cards out unless it's clear that the group agrees.
+You can declare special rounds if you think that's helpful.  Some groups like to have the first round take out things that are done or not relevant to reduce the card set quickly and give them a sense of achievement.  In other groups, the engineer will pull out the cards that he thinks the group has already agreed on or that the site survey suggests aren't relevant and place them before the first turn - but anyone who thinks they're wrong can say so and the card stays on the board.  Whatever you do, don't take cards out unless it's clear that the group agrees.
 
 
 Groups that will be running on gas or oil boilers will benefit from the cards that are about getting proper control of their current heating system.  Poor control is a major cause of wasted energy in our buildings and sometimes these actions pay back in a cold month or two.  With experience, it's possible to get a sense of which actions are useful for a building just from the controls it has and how the building is used, but knowing how fast they'll pay back takes winter data from the thermal monitor.  The board game comes back to look at this, and some engineers pull out those cards - which are all in step 2 - to show again in session 3.  
@@ -45,12 +45,7 @@ If a group already knows that they intend to move to a different heating technol
 
 After the game, the engineer is usually the one to document the game outcome.  This documentation is important.   The rest of the local community and grant funders will want to know not just what you think your organisation should do, but also why.  We provide a planning template to help you record this.
 
-- [Card Game Planning Template](https://docs.google.com/spreadsheets/d/1qiwoNowiUvHmJD5xaN5aZFjLV2M7T4vu/)
-
-
-
-
-
+- [Card Game Planning Template](https://docs.google.com/spreadsheets/d/1awgz59-DrDmwQMRtJe6_RLXAxE6ZZmPV/)
 
 
 <!--

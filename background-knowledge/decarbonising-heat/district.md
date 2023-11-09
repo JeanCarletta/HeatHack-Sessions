@@ -7,8 +7,8 @@ District heating schemes, or heat networks, are starting to appear in some areas
 
 
 ```{image} https://guidetodistrictheating.eu/wp-content/uploads/2020/01/HeatNet-NWE_Examples-of-heat-supply-and-demand-in-North-West-EU_Web-1.jpg
-:alt: heat pump
-:class: bg-primary mb-1
+:alt: 
+:class: mb-1
 :width: 400px
 :align: center
 ```
