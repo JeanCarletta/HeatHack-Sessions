@@ -3,7 +3,6 @@
 Our programme helps community groups reduce energy use and plan changes to their buildings that will move them towards net zero.  Many of our groups are concerned about climate change, but they are also worried about their heating bills, want to get energy efficiency grants while they are available, or need to know what to do when their boiler fails.   The programme is designed to help groups understand the big picture and give consultants and architects the right briefs so they can make use of their time more effectively. Some groups do the programme because they have received consultancy reports and still don't know what to do or feel the report doesn't quite fit them.  
 
 - [Information Sheet for Boards summarising the programme](https://drive.google.com/file/d/1eOBRbL-JOnp21ruAENhV2YeoV-WAKj_A/)
-- [Presentation for Boards (Powerpoint)](https://docs.google.com/presentation/d/1eUbtbgBv7SeIxD6FQI2hMBLYe6vzGgRc/)
 - [Presentation for Boards (PDF)](https://drive.google.com/file/d/1eXZBP8DV-e11T3vh4WzijKJ1qxYh26PD/)
 
  
