@@ -65,6 +65,7 @@ chapters:
     - file: sessions/site-survey
     - file: sessions/card-game
     - file: sessions/board-game
+    - file: sessions/session-report-form
     #     - file: sessions/final-plans
 
 

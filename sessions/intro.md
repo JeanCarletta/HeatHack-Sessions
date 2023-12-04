@@ -1,26 +1,19 @@
-# Running sessions
+(schedules)=
+# What happens during sessions
 
 Sessions aren't like business meetings.  They are designed to give an equal voice to everyone in the group, encourage the quiet to speak, leading the group to agree on what to do in a way that is likely to be acceptable to the wider community.  That means how they are run is a little different.  
 
-We provide detailed session schedules that are easy to follow while you are running a session.
+
+We give detailed, structured schedules to follow during your sessions here:
 
 
-- [Session 1 Schedule](https://docs.google.com/document/d/1bL83ByMQ7P-zMhslZKVpaJ66jASGtSHb/)
-- [Session 2 Schedule](https://docs.google.com/document/d/1FcoermNt94zuGOM0fym3a1Nes2d4-kZC/)
-- [Session 3 Schedule](https://docs.google.com/document/d/13-3jphTMtZz9edyMLVA6hiWCp3FYw8Ot/)
-- [Session 4 Schedule](https://docs.google.com/document/d/1v3pGTp_dNRZPay9Hd7FmeBBBhre0m4UN/)
-- [Google Drive for all programme public documents, including the session schedules](https://drive.google.com/drive/folders/1UDPm4aP9QR60X6RwoHMpPfMy3Ud4_Md4)
-
-- [Reminder of what each session does](session-summaries)
+- [Session Schedules in Google Drive](https://drive.google.com/drive/folders/1giDUTY_4KuOFcrWe3FJIShxj31p82MQv)
 
 
-```{admonition}  Scottish Episcopal Church versions
+It's useful for group leaders and engineers to print them out to follow during the sessions.  There are two versions:  one with four two-hour sessions, and one with two three-hour sessions.  The three-hour version doesn't get as far towards planning the community engagement. It's important for groups doing HeatHack this way to make sure that aspect of the programme doesn't get lost as without it change doesn't happen, so these groups do discuss that.
 
-We are preparing tailored version of these schedules for the Scottish Episcopal Church.  For now, ask us if you need them.  Their version of the programme takes six hours and we expect to prepare 2 and 3 hour options.  They omit the final session to plan a public engagement event as they expect their church vestries to determine how to take the programme results forward.
+You are free to change the session schedules if you think a different order would work better for you as long as you keep within the spirit of the programme.  We are happy to give you advice about tailoring the programme for your circumstances.  For instance, groups who know they will have to keep their current "wet" heating system for at least a year or two and are worried about energy costs might choose to run session 3 as soon as they have enough winter thermal monitoring data.  Spring starts sometimes go ahead and do session 3, but revisit the material when they have better data later on, even after the main programme.  If you decide to omit anything, think carefully about whether that will make the programme less effective first.
 
-```
-
-You are free to omit individual items and change the session schedules if you think a different order would work better for you as long as you keep within the spirit of the programme.  We are happy to give you advice about tailoring the programme for your circumstances.  For instance, groups who know they will have to keep their current "wet" heating system for at least a year or two and are worried about energy costs might choose to run session 3 as soon as they have enough winter thermal monitoring data.  Spring starts sometimes go ahead and do session 3, but revisit the material when they have better data later on, even after the main programme.  Some groups compress the programme into longer sessions so they can put the site survey into the first session.  
 
 The rest of this section explains more about what happens in sessions and gives tips for running them.  It's for the group leader and engineer to read in preparation.  
 

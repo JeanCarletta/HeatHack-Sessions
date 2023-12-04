@@ -1,12 +1,5 @@
 # Board Game
 
-We use a "board game" to have the group tell each other the story of what happens in their buildings over the course a week and what the experience is like for their buildings' users.  
-
-The board game has two key outcomes:  
-
-- it helps the group think about the ways users have of making themselves feel warmer or cooler, some of which may waste a great deal of energy or may be ineffective and driving them elsewhere
-- it helps them think about the spaces they have that aren't used, why that is, and whether the community needs changes to the building that would bring them into more use
-
 
 ::::{grid} 
 :outline:
@@ -15,16 +8,13 @@ The board game has two key outcomes:
 
 :::{grid-item} 
 :columns: 6
+We use a "board game" to have the group tell each other stories about the building that help them understand how it is used.  It is played twice. 
 
-In the game, the group leader moves game pieces around a floorplan of the building to represent people and asks the group three questions:
+To play it, you need a rough floor plan of the building large enough for everyone to see and some game pieces - maybe chess pieces, paper clips, or coins.  Start at the beginning of the week and using the diary, use the game pieces to move people through the building.  Stop at each change to ask the game questions.
 
-- Are these people are comfortable?
-
-- What do they do if they're too hot or too cold?
-
-- What changes would attract more user groups to our unoccupied spaces? 
 
 At the end, go around the room for each person to suggest one thing they'll take away from the game.  You can allow some discussion and record what they say on a flip-chart or projected document and allow some discussion.  
+
 :::
 :::{grid-item} 
 :columns: 6
@@ -40,30 +30,30 @@ At the end, go around the room for each person to suggest one thing they'll take
 :target: https://youtu.be/avRmxlQUFZY
 ```
 
-   - [Game Instruction Video - but use the simpler questions here](https://youtu.be/avRmxlQUFZY)
+   - [Game Instruction Video](https://youtu.be/avRmxlQUFZY) - but split the game in two as described below
 :::
 ::::
 
+The **first time** the game is played, it's to tell a simple story about what happens in their buildings over the course a week.  This paints a picture for the group and since full occupancy is always better, helps them think about why unoccupied spaces aren't used.
+
+- **Game questions:**  Are these spaces the right size?  Who might want to use the empty spaces? What changes would we need to make them suitable?  
+
+The **second time**, the engineer will have temperature data from the building, and the game is about what the heating is like for the building's users.  Most groups are very surprised when they find out what's happening with the heating.  This part of the programme can lead to fast fuel savings from an investment of a few hundred pounds.
+
+- **Game questions:** Are these people comfortable?  What do they do if they are too hot or too cold?  Is there some change that would make them comfortable with less waste?
 
 
 
-This game is the hardest part of the programme to run.
+The challenge for the group leader is to keep the group on track.  Most people aren't used to imagining what the experiences of other people are like.  Groups might try to short-cut the game and assume they know what the outcome will be, and then miss members telling them about space heaters, draughts, open doors, or community needs they know exist.   Be firm at the beginning of the game about telling the story by going through the diary.  Your position of leadership will make them follow.
 
-The challenge for the group leader is to keep the group on track.  Most people aren't used to imagining what the experiences of other people are like.  Groups often try to short-cut the game and assume they know what the outcome will be, and then miss members telling them about space heaters, draughts, open doors, or community needs they know exist.   Be firm at the beginning of the game about telling the story.  Your position of leadership will make them follow.
-
-The challenge for the engineer is being able to read the thermal monitoring data quickly enough to comment on thermal comfort.  This is easiest if they have diary access ahead and the time to look at the data for a typical week, marking up when the users are in.
+The challenge for the engineer the second time the tame is played is being able to read the thermal monitoring data quickly enough to comment on thermal comfort.  This is easiest if they have diary access ahead and the time to look at the data for a typical week, marking up when the users are in.
 
 - [Accessing thermal monitoring data](accessing-data)
 - [What to look for in temperature data](working-with-data)
 - [Judging user comfort and waste](judging-user-comfort)
 
-Group members often fail to be imaginative and ambitious about building changes, sometimes for fear of what others will think.  In our experience communities are less conservative than their individual members think!  The engineer can help the group leader by asking "what if" questions about the unused spaces and reminding the group about heating the air versus heating the people.
+Group members often fail to be imaginative and ambitious about building changes, sometimes for fear of what others will think.  In our experience communities are less conservative than their individual members think!  The engineer can help the group leader by asking "what if" questions about the unused spaces and reminding the group about heating the air versus heating the people and the possibility of doing a bit of both.
 
-```{admonition} A change we intend to make
-
-We've found some groups think only about why spaces aren't used or only about what users do to make themselves comfortable.  We intend to revise the board game, probably by playing it twice, but more quickly.  This will help the group's focus and make it easier for the group to come to a consensus on each topic.
-
-```
 
 
 ```{admonition} Game tips
@@ -72,7 +62,7 @@ We've found some groups think only about why spaces aren't used or only about wh
 
 <!-- TODO ask Mary? Mim? to draw a game board? -->
 
-- It helps to write the three questions out large where people can see them.
+- It helps to write the questions large where people can see them.
 
 
 ```

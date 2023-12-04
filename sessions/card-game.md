@@ -7,6 +7,10 @@ This page is just the tips for running the game.  The instructions for how to pl
 
 - [](card-game-intro)
 
+After the game, the engineer is usually the one to document the game outcome.  This documentation is important.   The rest of the local community and grant funders will want to know not just what you think your organisation should do, but also why.  We provide the simplest form of planning template to help you record this, but you can change it to work however makes sense to you.   
+
+- [Card Game Planning Template](https://docs.google.com/spreadsheets/d/1awgz59-DrDmwQMRtJe6_RLXAxE6ZZmPV/)
+
 ## Group leader
 
 You should create a quick "game board" by creating four labels for the four places to put cards after they've been discussed, so the group doesn't get confused.  
