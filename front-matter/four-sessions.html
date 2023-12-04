@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="" >
 
   <head>
     <meta charset="utf-8" />
@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
 
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -39,9 +39,9 @@
     <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6" />
-  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=365ca57ee442770a23c6"></script>
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
@@ -140,6 +140,7 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
   
 
 <a class="navbar-brand logo" href="../intro.html">
@@ -221,7 +222,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2"><a class="reference internal" href="../leadership/documentation.html">Keeping records</a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../sessions/intro.html">Running sessions</a><input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-8"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../sessions/intro.html">What happens during sessions</a><input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-8"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../sessions/small-activities.html">Brief activities</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../sessions/risk-assessment.html">Risk assessment</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../sessions/engineer-talks.html">Engineer Talks</a></li>
@@ -230,6 +231,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2"><a class="reference internal" href="../sessions/card-game.html">Card Game</a></li>
 
 <li class="toctree-l2"><a class="reference internal" href="../sessions/board-game.html">Board Game</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../sessions/session-report-form.html">Session Report Form</a></li>
 </ul>
 </li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../community-engagement/intro.html">Community engagement</a><input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-9"><i class="fa-solid fa-chevron-down"></i></label><ul>
@@ -658,6 +660,7 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
+
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
@@ -667,6 +670,7 @@ document.write(`
   </button>
 `);
 </script>
+
 
 <script>
 document.write(`
@@ -702,12 +706,12 @@ document.write(`
                   
   <section id="the-sessions">
 <span id="session-summaries"></span><h1>The Sessions<a class="headerlink" href="#the-sessions" title="Permalink to this heading">#</a></h1>
-<p>Each session has a different focus.</p>
+<p>Each session has a different focus.  If you do HeatHack as four two-hour sessions:</p>
 <div class="sd-container-fluid sd-sphinx-override sd-mb-4 docutils">
 <div class="sd-row docutils">
 <div class="sd-col sd-d-flex-column sd-col-8 sd-col-xs-8 sd-col-sm-8 sd-col-md-8 sd-col-lg-8 docutils">
 <ul class="simple">
-<li><p><strong>Session 1</strong> introduces some core concepts that affect the big decisions building operators need to make - “thermal comfort” or what makes people comfortable, is a big part of this, as is thinking about the right strategy for heating and preserving your building. The session also makes a start at collecting technical data for the building by deciding on a strategy for collecting temperature and relative humidity data as well as energy meter readings. In addition, there are some activities to help ease group members into thinking about this topic and what, for some groups, could lead to major changes to the building and how it used. Like all sessions, it ends by identifying what actions need to be taken next to move things forward.</p></li>
+<li><p><strong>Session 1</strong> introduces some core concepts that affect the big decisions building operators need to make - “thermal comfort” or what makes people comfortable, is a big part of this, as is thinking about the right strategy for heating and preserving your building. The session also makes a start at collecting technical data for the building by deciding on a strategy for collecting temperature and relative humidity data as well as energy meter readings. In addition, there are some activities to help ease group members think about how their community uses their building and also about unused spaces and whether changes would bring them into occupancy.</p></li>
 </ul>
 </div>
 <div class="sd-col sd-d-flex-column sd-col-4 sd-col-xs-4 sd-col-sm-4 sd-col-md-4 sd-col-lg-4 docutils">
@@ -724,7 +728,7 @@ document.write(`
 </div>
 <div class="sd-col sd-d-flex-column sd-col-9 sd-col-xs-9 sd-col-sm-9 sd-col-md-9 sd-col-lg-9 docutils">
 <ul class="simple">
-<li><p>For most groups, it may take some time to make major changes, and it’s worth thinking about whether minor changes to the current heating would curb energy wastes. Most energy efficiency programmes fail to look at this, but in our experience, it’s common for the heating in community buildings to be misconfigured or have poor controls that are very wasteful.  <strong>Session 3</strong> uses the temperature monitoring data to find obvious wastes as well as help the group think about whether their users are likely to be comfortable and what they do when they are not - which often involves more waste.  In session 3, the group also thinks about the flow of users through the building over the course of a week, whether the community needs their empty spaces, and what modifications might be needed to meet these needs.</p></li>
+<li><p>For most groups, it may take some time to make major changes, and it’s worth thinking about whether minor changes to the current heating would curb energy wastes. Most energy efficiency programmes fail to look at this, but in our experience, it’s common for the heating in community buildings to be misconfigured or have poor controls that are very wasteful.  <strong>Session 3</strong> uses the temperature monitoring data to find obvious wastes as well as help the group think about whether their users are likely to be comfortable and what they do when they are not - which often involves more waste.</p></li>
 </ul>
 </div>
 <div class="sd-col sd-d-flex-column sd-col-3 sd-col-xs-3 sd-col-sm-3 sd-col-md-3 sd-col-lg-3 docutils">
@@ -740,11 +744,14 @@ document.write(`
 </div>
 </div>
 </div>
-<p>You can find more details about what happens in each session on our session schedules.</p>
+<p>There is also a version of HeatHack for two three-hour sessions.  It is similar but doesn’t get as far in planning the community engagement.  It’s important for groups doing HeatHack this way to make sure that aspect of the programme doesn’t get lost as without it change doesn’t happen, so these groups do discuss that.</p>
+<div class="admonition-need-more-detail admonition">
+<p class="admonition-title">Need more detail?</p>
+<p>You can read exactly what happens in the session schedules group leaders and engineers use to run the sessions.</p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://drive.google.com/drive/folders/1giDUTY_4KuOFcrWe3FJIShxj31p82MQv">Session Schedules in Google Drive</a></p></li>
+<li><p><a class="reference internal" href="../sessions/intro.html#schedules"><span class="std std-ref">Session Schedules</span></a></p></li>
 </ul>
-<p>Groups are free to modify our schedules as they see fit, and we are happy to advise if you think a change might suit your group better.  All of our materials are completely open and available for you to re-use in any way you think is useful.</p>
+</div>
 </section>
 
     <script type="text/x-thebe-config">
@@ -775,7 +782,7 @@ document.write(`
               
               
                 <footer class="prev-next-footer">
-                  <!-- Previous / next buttons -->
+                  
 <div class="prev-next-area">
     <a class="left-prev"
        href="costs.html"
@@ -818,6 +825,7 @@ By HeatHack
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
       © Copyright 2022-23.
@@ -847,8 +855,8 @@ By HeatHack
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
 
   <footer class="bd-footer">
   </footer>

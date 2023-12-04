@@ -1,7 +1,9 @@
 (session-summaries)=
 # The Sessions
 
-Each session has a different focus.
+
+
+Each session has a different focus.  If you do HeatHack as four two-hour sessions:
 
 
 ::::{grid} 
@@ -9,7 +11,7 @@ Each session has a different focus.
 :::{grid-item}
 :columns: 8
 
-- **Session 1** introduces some core concepts that affect the big decisions building operators need to make - "thermal comfort" or what makes people comfortable, is a big part of this, as is thinking about the right strategy for heating and preserving your building. The session also makes a start at collecting technical data for the building by deciding on a strategy for collecting temperature and relative humidity data as well as energy meter readings. In addition, there are some activities to help ease group members into thinking about this topic and what, for some groups, could lead to major changes to the building and how it used. Like all sessions, it ends by identifying what actions need to be taken next to move things forward.
+- **Session 1** introduces some core concepts that affect the big decisions building operators need to make - "thermal comfort" or what makes people comfortable, is a big part of this, as is thinking about the right strategy for heating and preserving your building. The session also makes a start at collecting technical data for the building by deciding on a strategy for collecting temperature and relative humidity data as well as energy meter readings. In addition, there are some activities to help ease group members think about how their community uses their building and also about unused spaces and whether changes would bring them into occupancy.  
 
 :::
 :::{grid-item}
@@ -42,7 +44,7 @@ Each session has a different focus.
 :::{grid-item}
 :columns: 9
 
-- For most groups, it may take some time to make major changes, and it's worth thinking about whether minor changes to the current heating would curb energy wastes. Most energy efficiency programmes fail to look at this, but in our experience, it's common for the heating in community buildings to be misconfigured or have poor controls that are very wasteful.  **Session 3** uses the temperature monitoring data to find obvious wastes as well as help the group think about whether their users are likely to be comfortable and what they do when they are not - which often involves more waste.  In session 3, the group also thinks about the flow of users through the building over the course of a week, whether the community needs their empty spaces, and what modifications might be needed to meet these needs. 
+- For most groups, it may take some time to make major changes, and it's worth thinking about whether minor changes to the current heating would curb energy wastes. Most energy efficiency programmes fail to look at this, but in our experience, it's common for the heating in community buildings to be misconfigured or have poor controls that are very wasteful.  **Session 3** uses the temperature monitoring data to find obvious wastes as well as help the group think about whether their users are likely to be comfortable and what they do when they are not - which often involves more waste. 
 
 
 :::
@@ -74,15 +76,14 @@ Each session has a different focus.
 
 ::::
 
+There is also a version of HeatHack for two three-hour sessions.  It is similar but doesn't get as far in planning the community engagement.  It's important for groups doing HeatHack this way to make sure that aspect of the programme doesn't get lost as without it change doesn't happen, so these groups do discuss that.
+
+```{admonition} Need more detail?
 
 
+You can read exactly what happens in the session schedules group leaders and engineers use to run the sessions.
+
+- [Session Schedules](schedules)
 
 
-
-
-
-You can find more details about what happens in each session on our session schedules.
-
-- [Session Schedules in Google Drive](https://drive.google.com/drive/folders/1giDUTY_4KuOFcrWe3FJIShxj31p82MQv)
-
-Groups are free to modify our schedules as they see fit, and we are happy to advise if you think a change might suit your group better.  All of our materials are completely open and available for you to re-use in any way you think is useful. 
+```

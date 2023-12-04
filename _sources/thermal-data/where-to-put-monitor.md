@@ -1,9 +1,11 @@
 (monitor-placement)=
 # Where to put the monitor
 
+If you move a thermal monitor or other measuring device around your building, it's easy to lose track of which readings are for which location.  You can use this template to help you remember. 
 
-Ideally, you will get one or two weeks of data when it is relatively cold out in each of your big spaces, representative smaller spaces, and anywhere else that you think might be different or have a problem.  Even better is a week or two in each season since that helps identify problems with solar gain or poor heating control.  
+- [Thermal monitor location diary](https://docs.google.com/spreadsheets/d/1Lb59luV7bnODQef9KC9vKmHjVDsIbQYyRfcX4VaVAA4/)
 
+Ideally, you will get one or two weeks of data when it is relatively cold out in each of your big spaces, representative smaller spaces, and anywhere else that you think might be different or have a problem.  The more varied your user groups, the longer you need. Even better is a week or two in each season since that helps identify problems with solar gain or poor heating control, but that's only possible for groups with heating controls that record this information.
 
 
 When you decide where to put the thermal monitor or data logger, it should be:
@@ -43,6 +45,3 @@ It can be hard to remember where you put the sensor unit - one easy way is to ta
 
 ````
 
-If you move a measuring device around your building, it's easy to lose track of which readings are for which location.  You can use this template to help you remember. 
-
-- [Thermal monitor location diary](https://docs.google.com/spreadsheets/d/1Lb59luV7bnODQef9KC9vKmHjVDsIbQYyRfcX4VaVAA4/)

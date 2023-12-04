@@ -3,13 +3,13 @@
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="" >
 
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Running sessions &#8212; HeatHack Guide Book</title>
+    <title>What happens during sessions &#8212; HeatHack Guide Book</title>
   
   
   
@@ -19,12 +19,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
 
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -39,9 +39,9 @@
     <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6" />
-  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=365ca57ee442770a23c6"></script>
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
@@ -140,6 +140,7 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
   
 
 <a class="navbar-brand logo" href="../intro.html">
@@ -221,7 +222,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2"><a class="reference internal" href="../leadership/documentation.html">Keeping records</a></li>
 </ul>
 </li>
-<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">Running sessions</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-8"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">What happens during sessions</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-8"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="small-activities.html">Brief activities</a></li>
 <li class="toctree-l2"><a class="reference internal" href="risk-assessment.html">Risk assessment</a></li>
 <li class="toctree-l2"><a class="reference internal" href="engineer-talks.html">Engineer Talks</a></li>
@@ -230,6 +231,7 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2"><a class="reference internal" href="card-game.html">Card Game</a></li>
 
 <li class="toctree-l2"><a class="reference internal" href="board-game.html">Board Game</a></li>
+<li class="toctree-l2"><a class="reference internal" href="session-report-form.html">Session Report Form</a></li>
 </ul>
 </li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../community-engagement/intro.html">Community engagement</a><input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-9"><i class="fa-solid fa-chevron-down"></i></label><ul>
@@ -658,6 +660,7 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
+
 <script>
 document.write(`
   <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
@@ -667,6 +670,7 @@ document.write(`
   </button>
 `);
 </script>
+
 
 <script>
 document.write(`
@@ -686,7 +690,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Running sessions</h1>
+    <h1>What happens during sessions</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -700,23 +704,15 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section id="running-sessions">
-<h1>Running sessions<a class="headerlink" href="#running-sessions" title="Permalink to this heading">#</a></h1>
+  <section id="what-happens-during-sessions">
+<span id="schedules"></span><h1>What happens during sessions<a class="headerlink" href="#what-happens-during-sessions" title="Permalink to this heading">#</a></h1>
 <p>Sessions aren’t like business meetings.  They are designed to give an equal voice to everyone in the group, encourage the quiet to speak, leading the group to agree on what to do in a way that is likely to be acceptable to the wider community.  That means how they are run is a little different.</p>
-<p>We provide detailed session schedules that are easy to follow while you are running a session.</p>
+<p>We give detailed, structured schedules to follow during your sessions here:</p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://docs.google.com/document/d/1bL83ByMQ7P-zMhslZKVpaJ66jASGtSHb/">Session 1 Schedule</a></p></li>
-<li><p><a class="reference external" href="https://docs.google.com/document/d/1FcoermNt94zuGOM0fym3a1Nes2d4-kZC/">Session 2 Schedule</a></p></li>
-<li><p><a class="reference external" href="https://docs.google.com/document/d/13-3jphTMtZz9edyMLVA6hiWCp3FYw8Ot/">Session 3 Schedule</a></p></li>
-<li><p><a class="reference external" href="https://docs.google.com/document/d/1v3pGTp_dNRZPay9Hd7FmeBBBhre0m4UN/">Session 4 Schedule</a></p></li>
-<li><p><a class="reference external" href="https://drive.google.com/drive/folders/1UDPm4aP9QR60X6RwoHMpPfMy3Ud4_Md4">Google Drive for all programme public documents, including the session schedules</a></p></li>
-<li><p><a class="reference internal" href="../front-matter/four-sessions.html#session-summaries"><span class="std std-ref">Reminder of what each session does</span></a></p></li>
+<li><p><a class="reference external" href="https://drive.google.com/drive/folders/1giDUTY_4KuOFcrWe3FJIShxj31p82MQv">Session Schedules in Google Drive</a></p></li>
 </ul>
-<div class="admonition-scottish-episcopal-church-versions admonition">
-<p class="admonition-title">Scottish Episcopal Church versions</p>
-<p>We are preparing tailored version of these schedules for the Scottish Episcopal Church.  For now, ask us if you need them.  Their version of the programme takes six hours and we expect to prepare 2 and 3 hour options.  They omit the final session to plan a public engagement event as they expect their church vestries to determine how to take the programme results forward.</p>
-</div>
-<p>You are free to omit individual items and change the session schedules if you think a different order would work better for you as long as you keep within the spirit of the programme.  We are happy to give you advice about tailoring the programme for your circumstances.  For instance, groups who know they will have to keep their current “wet” heating system for at least a year or two and are worried about energy costs might choose to run session 3 as soon as they have enough winter thermal monitoring data.  Spring starts sometimes go ahead and do session 3, but revisit the material when they have better data later on, even after the main programme.  Some groups compress the programme into longer sessions so they can put the site survey into the first session.</p>
+<p>It’s useful for group leaders and engineers to print them out to follow during the sessions.  There are two versions:  one with four two-hour sessions, and one with two three-hour sessions.  The three-hour version doesn’t get as far towards planning the community engagement. It’s important for groups doing HeatHack this way to make sure that aspect of the programme doesn’t get lost as without it change doesn’t happen, so these groups do discuss that.</p>
+<p>You are free to change the session schedules if you think a different order would work better for you as long as you keep within the spirit of the programme.  We are happy to give you advice about tailoring the programme for your circumstances.  For instance, groups who know they will have to keep their current “wet” heating system for at least a year or two and are worried about energy costs might choose to run session 3 as soon as they have enough winter thermal monitoring data.  Spring starts sometimes go ahead and do session 3, but revisit the material when they have better data later on, even after the main programme.  If you decide to omit anything, think carefully about whether that will make the programme less effective first.</p>
 <p>The rest of this section explains more about what happens in sessions and gives tips for running them.  It’s for the group leader and engineer to read in preparation.</p>
 <div class="toctree-wrapper compound">
 </div>
@@ -750,7 +746,7 @@ document.write(`
               
               
                 <footer class="prev-next-footer">
-                  <!-- Previous / next buttons -->
+                  
 <div class="prev-next-area">
     <a class="left-prev"
        href="../leadership/documentation.html"
@@ -793,6 +789,7 @@ By HeatHack
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
       © Copyright 2022-23.
@@ -822,8 +819,8 @@ By HeatHack
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
 
   <footer class="bd-footer">
   </footer>
