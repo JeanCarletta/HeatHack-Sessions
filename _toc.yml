@@ -263,7 +263,7 @@ chapters:
     # solar panels
     - file: background-knowledge/solar-panels/intro
 
-- file: our-monitors
+- file: our-monitors/intro
   sections: 
     - file: our-monitors/basics
       sections: 
