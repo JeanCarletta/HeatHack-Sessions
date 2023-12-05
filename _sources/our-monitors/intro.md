@@ -18,7 +18,7 @@ The first thing you need to do is check which version of our monitor you have, v
 :::
 
 :::{grid-item-card}  Thermal monitor - earlier wifi version
-```{image} ./images/monitoring/sensor-unit-and-hub.jpg
+```{image} /images/monitoring/sensor-unit-and-hub.jpg
 :alt: sensor unit and hub
 :class: mb-1
 :width: 400px
