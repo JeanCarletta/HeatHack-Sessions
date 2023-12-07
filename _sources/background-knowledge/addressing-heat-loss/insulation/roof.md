@@ -11,7 +11,6 @@ As always, for traditional buildings, breatheability is important.
 - [Basic introduction to types of insulation (industry source)](https://www.insulation-info.co.uk/insulation-types)
 - [Roof insulation designs](https://energysavingtrust.org.uk/advice/roof-and-loft-insulation/)
 - [From Historic Environment Scotland](https://www.historicenvironment.scot/advice-and-support/your-property/saving-energy-in-traditional-buildings/insulate-your-property/#roof-and-attic_tab)
-- [Reduce the size of heated spaces](https://jeancarletta.github.io/HeatHack-Card-Game/heat-loss-measures/30-reduce-the-size-of-heated-spaces.html)
 - [Risks of spray foam insulation]( https://ww3.rics.org/uk/en/journals/built-environment-journal/understanding-spray-foam-insulation.html)
 
 ```
